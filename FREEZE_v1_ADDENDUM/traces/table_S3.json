@@ -1,0 +1,61 @@
+{
+ "script": "witnessflow/figures/scripts/table_S3.py",
+ "argv": [
+  "witnessflow\\figures\\scripts/table_S3.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704557.1116087,
+ "end": 1791704563.1898744,
+ "exit": 0,
+ "reads": [
+  "ljcr_snapshot_db",
+  "witnessflow/FREEZE_v1/MANIFEST.tsv",
+  "witnessflow/figures/derived/fig2_D_codebook_RS53.tsv",
+  "witnessflow/figures/derived/figS3_B_certificates.tsv",
+  "witnessflow/figures/derived/figS3_B_distributions.tsv",
+  "witnessflow/figures/derived/figS3_D_runs.tsv",
+  "witnessflow/figures/scripts/table_S3.py",
+  "witnessflow/figures/scripts/wfgeom.py",
+  "witnessflow/figures/scripts/wftables.py",
+  "witnessflow/figures/source_data/figS3A.tsv",
+  "witnessflow/figures/supp_tables/verify_designs.py",
+  "witnessflow/protocols/wingmen_v1.json",
+  "witnessflow/results/e5e_lambda2/anneal_r141_s0.json",
+  "witnessflow/results/e5e_lambda2/anneal_r141_s1.json",
+  "witnessflow/results/e5e_lambda2/anneal_r141_s2.json",
+  "witnessflow/results/e5e_lambda2/anneal_r141_s3.json",
+  "witnessflow/results/e5e_lambda2/anneal_r141_s4.json",
+  "witnessflow/results/e5e_lambda2/breakout_r141_s0.json",
+  "witnessflow/results/e5e_lambda2/breakout_r141_s1.json",
+  "witnessflow/results/e5e_lambda2/breakout_r141_s2.json",
+  "witnessflow/results/e5e_lambda2/breakout_r141_s3.json",
+  "witnessflow/results/e5e_lambda2/breakout_r141_s4.json",
+  "witnessflow/results/e5e_lambda2_long/anneal_r141_s10.json",
+  "witnessflow/results/e5e_lambda2_long/anneal_r141_s11.json",
+  "witnessflow/results/e5e_lambda2_long/anneal_r141_s12.json",
+  "witnessflow/results/e5e_lambda2_long/anneal_r141_s13.json",
+  "witnessflow/results/e5e_lambda2_long/anneal_r141_s14.json",
+  "witnessflow/results/e5e_lambda2_long/breakout_r141_s10.json",
+  "witnessflow/results/e5e_lambda2_long/breakout_r141_s11.json",
+  "witnessflow/results/e5e_lambda2_long/breakout_r141_s12.json",
+  "witnessflow/results/e5e_lambda2_long/breakout_r141_s13.json",
+  "witnessflow/results/e5e_lambda2_long/breakout_r141_s14.json",
+  "witnessflow/results/wingmen_v1/thresholds.json",
+  "witnessflow/src/design.py",
+  "witnessflow/tools/scan/crosscheck.tsv",
+  "witnessflow/tools/scan/history.tsv",
+  "witnessflow/tools/scan/main_table.tsv",
+  "witnessflow/tools/scan/out_lat/psl19_3design_570.txt"
+ ],
+ "writes": [
+  "witnessflow/figures/supp_tables/Supplementary_Table_S3.xlsx",
+  "witnessflow/figures/supp_tables/tsv/S3_Blocks.tsv",
+  "witnessflow/figures/supp_tables/tsv/S3_Designs.tsv",
+  "witnessflow/figures/supp_tables/tsv/S3_Improved_bounds.tsv",
+  "witnessflow/figures/supp_tables/tsv/S3_Search_runs.tsv",
+  "witnessflow/figures/supp_tables/tsv/S3_Verification_scope.tsv"
+ ],
+ "sqlite": [
+  "ljcr_snapshot_db"
+ ]
+}

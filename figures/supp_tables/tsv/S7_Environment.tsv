@@ -1,0 +1,17 @@
+env_id	scope	item	value	source_id
+E01	frozen computation environment (FREEZE_v1/ENV.txt, verbatim)	python	3.13.11 | packaged by Anaconda, Inc. | (main, Dec 10 2025, 21:21:58) [MSC v.1929 64 bit (AMD64)]	witnessflow/FREEZE_v1/ENV.txt
+E02	frozen computation environment (FREEZE_v1/ENV.txt, verbatim)	platform	Windows-11-10.0.26200-SP0	witnessflow/FREEZE_v1/ENV.txt
+E03	frozen computation environment (FREEZE_v1/ENV.txt, verbatim)	numpy	2.4.2	witnessflow/FREEZE_v1/ENV.txt
+E04	frozen computation environment (FREEZE_v1/ENV.txt, verbatim)	scipy	1.16.3	witnessflow/FREEZE_v1/ENV.txt
+E05	frozen computation environment (FREEZE_v1/ENV.txt, verbatim)	pandas	2.2.3	witnessflow/FREEZE_v1/ENV.txt
+E06	frozen computation environment (FREEZE_v1/ENV.txt, verbatim)	sklearn	1.9.0	witnessflow/FREEZE_v1/ENV.txt
+E07	frozen computation environment (FREEZE_v1/ENV.txt, verbatim)	numba	0.64.0	witnessflow/FREEZE_v1/ENV.txt
+E08	frozen computation environment (FREEZE_v1/ENV.txt, verbatim)	matplotlib	3.10.8	witnessflow/FREEZE_v1/ENV.txt
+E09	freeze documentation (REPRODUCE.md; not in ENV.txt)	networkx	3.6.1 (needed only by the isomorphism check tools/scan/lat02_structure.py)	witnessflow/FREEZE_v1/REPRODUCE.md
+E10	freeze documentation (REPRODUCE.md; not in ENV.txt)	CPU	104 logical cores; processes run in processor group 0 by default (run times are wall-clock)	witnessflow/FREEZE_v1/REPRODUCE.md
+E11	post-freeze generation environment (supplementary tables)	Python	3.13.11	witnessflow/figures/scripts/wftables.py
+E12	post-freeze generation environment (supplementary tables)	openpyxl	3.1.5	witnessflow/figures/scripts/wftables.py
+E13	post-freeze generation environment (supplementary tables)	lxml	6.0.2.0	witnessflow/figures/scripts/wftables.py
+E14	post-freeze generation environment (supplementary tables)	zlib	1.2.13	witnessflow/figures/scripts/wftables.py
+E15	post-freeze generation environment (supplementary tables)	pandas	2.2.3	witnessflow/figures/scripts/wftables.py
+E16	post-freeze generation environment (supplementary tables)	numpy	2.4.2	witnessflow/figures/scripts/wftables.py

@@ -1,0 +1,62 @@
+{
+ "script": "witnessflow/figures/scripts/fig4.py",
+ "argv": [
+  "witnessflow\\figures\\scripts/fig4.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704458.2374744,
+ "end": 1791704467.3608382,
+ "exit": 0,
+ "reads": [
+  "ljcr_snapshot_db",
+  "witnessflow/figures/data/fig4B_qc_fixed_family.tsv",
+  "witnessflow/figures/data/supp_boundary_composition.tsv",
+  "witnessflow/figures/data/supp_calibration.tsv",
+  "witnessflow/figures/derived/d3b_pair_tubes.tsv",
+  "witnessflow/figures/scripts/fig4.py",
+  "witnessflow/figures/scripts/wfgeom.py",
+  "witnessflow/figures/scripts/wfstyle.py",
+  "witnessflow/protocols/levine32_v2.json",
+  "witnessflow/protocols/levine32_v2_rareB_0p1.json",
+  "witnessflow/protocols/levine32_v2_rareB_0p3.json",
+  "witnessflow/protocols/levine32_v2_rareB_1.json",
+  "witnessflow/protocols/wingmen_v1.json",
+  "witnessflow/results/cytonorm_real_batch/batch_shift.tsv",
+  "witnessflow/results/levine32_v2/e5k_boundary.tsv",
+  "witnessflow/results/levine32_v2/initial_audit.tsv",
+  "witnessflow/results/levine32_v2_rareB_0p1/initial_audit.tsv",
+  "witnessflow/results/levine32_v2_rareB_0p3/initial_audit.tsv",
+  "witnessflow/results/levine32_v2_rareB_1/initial_audit.tsv",
+  "witnessflow/results/levine32_v2_shiftAllp0p5/initial_audit.tsv",
+  "witnessflow/results/levine32_v2_shiftNonBBm0p5/initial_audit.tsv",
+  "witnessflow/results/levine32_v2_shiftNonBBp0p5/initial_audit.tsv",
+  "witnessflow/results/wingmen_v1/e5k_boundary.tsv",
+  "witnessflow/results/wingmen_v1/initial_audit.tsv",
+  "witnessflow/results/wingmen_v1/thresholds.json",
+  "witnessflow/src/audit.py",
+  "witnessflow/src/e5h_calib.py"
+ ],
+ "writes": [
+  "witnessflow/figures/derived/fig4_A_instances.tsv",
+  "witnessflow/figures/derived/fig4_A_matrix.tsv",
+  "witnessflow/figures/derived/fig4_A_summary.tsv",
+  "witnessflow/figures/derived/fig4_C_pair_tubes.tsv",
+  "witnessflow/figures/derived/fig4_D_cells.tsv",
+  "witnessflow/figures/derived/fig4_E_alarms.tsv",
+  "witnessflow/figures/derived/fig4_E_cytonorm.tsv",
+  "witnessflow/figures/derived/fig4_E_shift_keys.tsv",
+  "witnessflow/figures/panels/fig4A.pdf",
+  "witnessflow/figures/panels/fig4A.png",
+  "witnessflow/figures/panels/fig4B.pdf",
+  "witnessflow/figures/panels/fig4B.png",
+  "witnessflow/figures/panels/fig4C.pdf",
+  "witnessflow/figures/panels/fig4C.png",
+  "witnessflow/figures/panels/fig4D.pdf",
+  "witnessflow/figures/panels/fig4D.png",
+  "witnessflow/figures/panels/fig4E.pdf",
+  "witnessflow/figures/panels/fig4E.png"
+ ],
+ "sqlite": [
+  "ljcr_snapshot_db"
+ ]
+}

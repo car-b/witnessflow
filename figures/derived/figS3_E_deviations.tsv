@@ -1,0 +1,9 @@
+date	event	source	evidence
+2026-10-08	Levine-32 v1 frozen before unblinding	protocols/levine32_v1.json	frozen_before_unblinding = true
+2026-10-08	Levine-32 v2: threshold rule revised after the v1 quick run	protocols/levine32_v2.json	frozen_before_unblinding = false; amendment
+2026-10-09	WINGMEN v1 frozen before unblinding	protocols/wingmen_v1.json	frozen_before_unblinding = true
+2026-10-09	WINGMEN e3 section added after the quick replay (exploratory)	protocols/wingmen_v1.json	e3.note: added 2026-10-09 after the quick replay; mirrors the Levine e3e choices (larger parent tighter eps)
+2026-10-09	e5b per-donor grid used 180 instead of the specified 195 (exploratory)	design/witnessflow/exp_protocols_v1.md; FREEZE_v1/README.md sec.3	spec: shape criterion uses the 195 node; README: grid 180 not 195
+2026-10-09	e5b tolerances are mechanism-display thresholds chosen after earlier results	FREEZE_v1/README.md sec.3; exp_protocols_v1.md	e5b eps chosen post hoc (replay tolerance class only)
+2026-10-09	FREEZE_v1 (448 MANIFEST entries)	FREEZE_v1/MANIFEST.tsv	448 rows
+2026-10-10	tests/test_toy.py rerun: 26 PASS, 0 FAIL (post-freeze)	FREEZE_v1_ADDENDUM/test_toy_rerun_2026-10-10.log	not evidence of PASS at the freeze date

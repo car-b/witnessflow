@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/raw/*
+!data/raw/README.md
+figures/panels/
+figures/composite/
+figures/png/
+figures/review/

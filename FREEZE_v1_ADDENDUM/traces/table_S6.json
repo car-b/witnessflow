@@ -1,0 +1,43 @@
+{
+ "script": "witnessflow/figures/scripts/table_S6.py",
+ "argv": [
+  "witnessflow\\figures\\scripts/table_S6.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704664.5806832,
+ "end": 1791704668.8558285,
+ "exit": 0,
+ "reads": [
+  "witnessflow/FREEZE_v1/MANIFEST.tsv",
+  "witnessflow/figures/data/fig4B_qc_fixed_family.tsv",
+  "witnessflow/figures/data/supp_boundary_composition.tsv",
+  "witnessflow/figures/derived/figS1_batch.tsv",
+  "witnessflow/figures/scripts/table_S6.py",
+  "witnessflow/figures/scripts/wftables.py",
+  "witnessflow/results/calibration/e5h_direct_only.tsv",
+  "witnessflow/results/calibration/e5h_mixed.tsv",
+  "witnessflow/results/calibration/e5h_pairs+direct.tsv",
+  "witnessflow/results/calibration/e5h_pairs.tsv",
+  "witnessflow/results/calibration/e5h_singles.tsv",
+  "witnessflow/results/cytonorm_real_batch/batch_shift.tsv",
+  "witnessflow/results/levine32_v2/e5d_fixed_family_summary.tsv",
+  "witnessflow/results/levine32_v2/e5d_qc_merged.tsv",
+  "witnessflow/results/levine32_v2/e5k_boundary.tsv",
+  "witnessflow/results/wingmen_v1/e5d_fixed_family_summary.tsv",
+  "witnessflow/results/wingmen_v1/e5d_qc_merged.tsv",
+  "witnessflow/results/wingmen_v1/e5k_boundary.tsv",
+  "witnessflow/src/e5d.py",
+  "witnessflow/src/e5h_calib.py",
+  "witnessflow/src/e5k_boundary.py",
+  "witnessflow/src/sum_e5d_fixed.py"
+ ],
+ "writes": [
+  "witnessflow/figures/supp_tables/Supplementary_Table_S6.xlsx",
+  "witnessflow/figures/supp_tables/tsv/S6_Batch_reference.tsv",
+  "witnessflow/figures/supp_tables/tsv/S6_Boundary_runs.tsv",
+  "witnessflow/figures/supp_tables/tsv/S6_Calibration.tsv",
+  "witnessflow/figures/supp_tables/tsv/S6_QC_fixed_family.tsv",
+  "witnessflow/figures/supp_tables/tsv/S6_QC_runs.tsv"
+ ],
+ "sqlite": []
+}

@@ -1,0 +1,39 @@
+{
+ "script": "witnessflow/figures/derive/sf3_certificates.py",
+ "argv": [
+  "witnessflow\\figures\\derive/sf3_certificates.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704491.985738,
+ "end": 1791704501.1470842,
+ "exit": 0,
+ "reads": [
+  "ljcr_snapshot_db",
+  "witnessflow/FREEZE_v1/MANIFEST.tsv",
+  "witnessflow/figures/derive/sf3_certificates.py",
+  "witnessflow/figures/derived/fig2_D_codebook_RS53.tsv",
+  "witnessflow/figures/derived/fig2_D_strength_counts.tsv",
+  "witnessflow/figures/scripts/wfgeom.py",
+  "witnessflow/protocols/wingmen_v1.json",
+  "witnessflow/results/wingmen_v1/thresholds.json",
+  "witnessflow/src/design.py",
+  "witnessflow/tools/scan/out_lat/lat01_hist.tsv",
+  "witnessflow/tools/scan/out_lat/lat01_psl19_orbits.tsv",
+  "witnessflow/tools/scan/out_lat/lat01_summary.tsv",
+  "witnessflow/tools/scan/out_lat/lat02_structure.txt",
+  "witnessflow/tools/scan/out_lat/lat02b_aut20.txt",
+  "witnessflow/tools/scan/out_lat/lat06_derived.txt",
+  "witnessflow/tools/scan/out_lat/psl19_3design_570.txt"
+ ],
+ "writes": [
+  "witnessflow/figures/derived/figS3_B_certificates.tsv",
+  "witnessflow/figures/derived/figS3_B_distributions.tsv",
+  "witnessflow/figures/derived/figS3_B_gf25.tsv",
+  "witnessflow/figures/derived/figS3_B_oa_strength.tsv",
+  "witnessflow/figures/derived/figS3_B_psl_orbits.tsv",
+  "witnessflow/figures/derived/figS3_B_relabel.tsv"
+ ],
+ "sqlite": [
+  "ljcr_snapshot_db"
+ ]
+}

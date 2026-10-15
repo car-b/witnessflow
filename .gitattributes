@@ -1,0 +1,2 @@
+# keep every file byte-identical to the SHA256 values in release_map.tsv: no end-of-line conversion
+* -text

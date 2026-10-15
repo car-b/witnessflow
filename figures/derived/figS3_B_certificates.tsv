@@ -1,0 +1,24 @@
+design	item	value	how
+S26	blocks	130	LJCR C(26,6,3)
+S26	lambda_check	PASS: 2600/2600 triples lambda = 1	enumeration of the saved block table
+S26	aut	>= 31200 computed	invariant under z+1, g*z (g primitive), 1/z (PGL(2,25)) and z^5; lat02 records the same bound
+S26	aut_literature	PGammaL(2,25), order 31200	literature full group (lat02_structure.txt)
+S26	iso	inversive plane of order 5 (Miquelian, GF(25))	lat02_structure.txt
+S26	derived_AG25_all_points	True	26/26 points: 30 tubes, pairs 300/300 once, triples 300/2300
+S26	sha256_blocks	c437cab28a0a8ebeec86bfbd67d8bd1d8dd382e98b507e26d71552b61345cdf2	canonical sorted block text (identity only)
+C20	blocks	71	LJCR C(20,6,3)
+C20	lambda_check	PASS: 1140/1140 triples lambda >= 1 (lambda 1-6)	enumeration of the saved block table
+C20	aut	= 3 computed	stabiliser chain (lat02); order-3 map of lat02b_aut20.txt re-checked; block orbits 15x3 + 26x1
+C20	special_pair	{10,15} lambda = 12	lat02b_aut20.txt / pair distribution
+C20	sha256_blocks	8ddfff4f23bd3c08d05037fd29c540173d7184322120d32aaeddb2f7b735a501	canonical sorted block text (identity only)
+both	sha256_base_ljcr.db	fb62a8bc7fd3f402e29c1de04beca3375c9f2c1001cd214daa7ee026297a94b8	equals FREEZE_v1/MANIFEST.tsv
+OA	blocks	125	quadratic OA over F5, 5 families x 5 slots
+OA	lambda_check	PASS: 1250/1250 cross-family triples lambda = 1	enumeration; equals the 125 quadratic polynomials over F5
+OA	sha256_file	a0fb0aadcd5c7f7f5d706ba8c7178195483cc9fc8c5e4a91a4bd4c96881abaeb	fig2_D_codebook_RS53.tsv (derived by fig2_data.py; content re-derived from the 125 quadratics)
+PSL	blocks	570	one PSL(2,19)-orbit on 6-sets
+PSL	lambda_check	PASS: 1140/1140 triples lambda = 10	enumeration of the saved block table
+PSL	group_of_construction	PSL(2,19), order 3420, block stabiliser 6	lat01_psl19_orbits.tsv; full |Aut| not computed
+PSL	sha256_file	6cf16b014a97ae12821e9f734b8176e7945e3596c95480b1eb899d0fe0db662f	psl19_3design_570.txt; equals FREEZE_v1/MANIFEST.tsv
+C7	gate_on_x	30 tubes through x; pairs 300/300 (lambda 1); triples 300/2300 = 13%	lat06_derived.txt; re-enumerated for all 26 points
+C7	repair	x promoted to backbone (x + 6 = 7 slots): C(25,6,3) = 130 tubes; x within 6 slots (x + 5): C(25,5,3) = 256 tubes	lat06_derived.txt; LJCR table sizes (feasible certificates, not proven minima)
+GF25	erratum	5a+b: 130/130 blocks match; a+5b: 30/130	figS3_B_gf25.tsv

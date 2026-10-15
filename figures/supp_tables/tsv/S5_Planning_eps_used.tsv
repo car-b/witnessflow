@@ -1,0 +1,18 @@
+protocol_id	dataset	parent	experiment	epsilon	epsilon_type	n_tubes_list	tolerance_source	note	source_id	source_row
+levine32_v2	Levine-32	B	e5b	0.08	replay_tolerance	57,64,71,85,100,120,142,170,213,284,570	results/levine32_v2/e5b_steiner_nodes.tsv		witnessflow/figures/derived/figS3_C_used_eps.tsv	1
+levine32_v2	Levine-32	T	e5b	0.06	replay_tolerance	57,64,71,85,100,120,142,170,213,284,570	results/levine32_v2/e5b_steiner_nodes.tsv		witnessflow/figures/derived/figS3_C_used_eps.tsv	2
+levine32_v2	Levine-32	B	e5f	0.07	replay_tolerance	142,180	results/levine32_v2/e5f_attribution.tsv		witnessflow/figures/derived/figS3_C_used_eps.tsv	3
+levine32_v2	Levine-32	T	e5f	0.05	replay_tolerance	142,180	results/levine32_v2/e5f_attribution.tsv		witnessflow/figures/derived/figS3_C_used_eps.tsv	4
+levine32_v2	Levine-32	T	e5g	0.06	replay_tolerance	71,100	results/levine32_v2/e5g_threshold_design.tsv		witnessflow/figures/derived/figS3_C_used_eps.tsv	5
+levine32_v2	Levine-32	T	e5i	0.05	replay_tolerance	142	results/levine32_v2/e5i_shuffle.tsv		witnessflow/figures/derived/figS3_C_used_eps.tsv	6
+wingmen_v1	WINGMEN	CD4T	e5b	0.05	replay_tolerance	104,117,130,136,142,156,169,195,221,247,260	results/wingmen_v1/e5b_steiner_nodes.tsv		witnessflow/figures/derived/figS3_C_used_eps.tsv	7
+wingmen_v1	WINGMEN	CD8T	e5b	0.08	replay_tolerance	104,117,130,136,142,156,169,195,221,247,260	results/wingmen_v1/e5b_steiner_nodes.tsv		witnessflow/figures/derived/figS3_C_used_eps.tsv	8
+wingmen_v1	WINGMEN	CD4T	e5f	0.03	replay_tolerance	142,180	results/wingmen_v1/e5f_attribution.tsv		witnessflow/figures/derived/figS3_C_used_eps.tsv	9
+wingmen_v1	WINGMEN	CD8T	e5f	0.05	replay_tolerance	142,180	results/wingmen_v1/e5f_attribution.tsv		witnessflow/figures/derived/figS3_C_used_eps.tsv	10
+wingmen_v1	WINGMEN	CD4T	e5g	0.05	replay_tolerance	130,180	results/wingmen_v1/e5g_threshold_design.tsv		witnessflow/figures/derived/figS3_C_used_eps.tsv	11
+wingmen_v1	WINGMEN	CD4T	e5i	0.03	replay_tolerance	180	results/wingmen_v1/e5i_shuffle.tsv		witnessflow/figures/derived/figS3_C_used_eps.tsv	12
+wingmen_v1	WINGMEN	CD8T	e5i	0.05	replay_tolerance	180	results/wingmen_v1/e5i_shuffle.tsv		witnessflow/figures/derived/figS3_C_used_eps.tsv	13
+wingmen_v1	WINGMEN	CD4T	e5c	0.05	replay_tolerance	125	results/wingmen_v1/e5c_oa_replay.tsv		witnessflow/figures/derived/figS3_C_used_eps.tsv	14
+wingmen_v1	WINGMEN	CD8T	e5c	0.08	replay_tolerance	125	results/wingmen_v1/e5c_oa_replay.tsv		witnessflow/figures/derived/figS3_C_used_eps.tsv	15
+wingmen_v1	WINGMEN	CD4T	e5b r=180	0.05	replay_tolerance	180	results/wingmen_v1/e5b_r180.tsv + src/e5b.py CONFIG	eps column absent; frozen e5b setting	witnessflow/figures/derived/figS3_C_used_eps.tsv	16
+wingmen_v1	WINGMEN	CD8T	e5b r=180	0.08	replay_tolerance	180	results/wingmen_v1/e5b_r180.tsv + src/e5b.py CONFIG	eps column absent; frozen e5b setting	witnessflow/figures/derived/figS3_C_used_eps.tsv	17

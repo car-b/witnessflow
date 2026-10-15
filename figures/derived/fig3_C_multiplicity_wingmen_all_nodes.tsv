@@ -1,0 +1,13 @@
+r	n_lam0	n_lam1	n_lam2	lam_min	share_ratio	lam_source	lam_min_source
+104	520	2080	0	0	0.0	fig3B_multiplicity_wingmen.tsv (formula agrees)	results/wingmen_v1/e5b_steiner_nodes.tsv
+117	260	2340	0	0	0.0	exact formula	results/wingmen_v1/e5b_steiner_nodes.tsv
+130	0	2600	0	1	1.0	fig3B_multiplicity_wingmen.tsv (formula agrees)	results/wingmen_v1/e5b_steiner_nodes.tsv
+136	0	2480	120	1	0.9558823529411764	exact formula	results/wingmen_v1/e5b_steiner_nodes.tsv
+142	0	2360	240	1	0.9154929577464789	fig3B_multiplicity_wingmen.tsv (formula agrees)	results/wingmen_v1/e5b_steiner_nodes.tsv
+156	0	2080	520	1	0.8333333333333333	exact formula	results/wingmen_v1/e5b_steiner_nodes.tsv
+169	0	1820	780	1	0.7692307692307692	exact formula	results/wingmen_v1/e5b_steiner_nodes.tsv
+180	0	1600	1000	1	0.7222222222222222	fig3B_multiplicity_wingmen.tsv (formula agrees)	results/wingmen_v1/e5b_r180.tsv
+195	0	1300	1300	1	0.6666666666666666	exact formula	results/wingmen_v1/e5b_steiner_nodes.tsv
+221	0	780	1820	1	0.5882352941176471	fig3B_multiplicity_wingmen.tsv (formula agrees)	results/wingmen_v1/e5b_steiner_nodes.tsv
+247	0	260	2340	1	0.5263157894736842	exact formula	results/wingmen_v1/e5b_steiner_nodes.tsv
+260	0	0	2600	2	1.0	fig3B_multiplicity_wingmen.tsv (formula agrees)	results/wingmen_v1/e5b_steiner_nodes.tsv

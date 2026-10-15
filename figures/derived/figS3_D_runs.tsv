@@ -1,0 +1,21 @@
+method	budget	seed	seconds	wall_s	deficiency	n_lambda0	n_lambda1	lam_min	certificate	file
+anneal	600 s	0	600.0	601.1495418548584	3	0	3	1	False	results/e5e_lambda2/anneal_r141_s0.json
+anneal	600 s	1	600.0	601.859500169754	3	0	3	1	False	results/e5e_lambda2/anneal_r141_s1.json
+anneal	600 s	2	600.0	601.3239438533783	2	0	2	1	False	results/e5e_lambda2/anneal_r141_s2.json
+anneal	600 s	3	600.0	601.2409255504608	3	0	3	1	False	results/e5e_lambda2/anneal_r141_s3.json
+anneal	600 s	4	600.0	600.1627566814423	3	0	3	1	False	results/e5e_lambda2/anneal_r141_s4.json
+breakout	600 s	0	600.0	600.0045239925385	6	0	6	1	False	results/e5e_lambda2/breakout_r141_s0.json
+breakout	600 s	1	600.0	600.0038194656372	5	0	5	1	False	results/e5e_lambda2/breakout_r141_s1.json
+breakout	600 s	2	600.0	600.0025863647461	6	0	6	1	False	results/e5e_lambda2/breakout_r141_s2.json
+breakout	600 s	3	600.0	600.0026104450226	5	0	5	1	False	results/e5e_lambda2/breakout_r141_s3.json
+breakout	600 s	4	600.0	600.003518819809	6	0	6	1	False	results/e5e_lambda2/breakout_r141_s4.json
+anneal	1800 s	10	1800.0	1801.2693932056427	2	0	2	1	False	results/e5e_lambda2_long/anneal_r141_s10.json
+anneal	1800 s	11	1800.0	1800.2132313251495	2	0	2	1	False	results/e5e_lambda2_long/anneal_r141_s11.json
+anneal	1800 s	12	1800.0	1800.556209564209	3	0	3	1	False	results/e5e_lambda2_long/anneal_r141_s12.json
+anneal	1800 s	13	1800.0	1801.7360372543335	3	0	3	1	False	results/e5e_lambda2_long/anneal_r141_s13.json
+anneal	1800 s	14	1800.0	1801.2261731624603	2	0	2	1	False	results/e5e_lambda2_long/anneal_r141_s14.json
+breakout	1800 s	10	1800.0	1800.0032374858856	3	0	3	1	False	results/e5e_lambda2_long/breakout_r141_s10.json
+breakout	1800 s	11	1800.0	1800.0033094882965	7	0	7	1	False	results/e5e_lambda2_long/breakout_r141_s11.json
+breakout	1800 s	12	1800.0	1800.0026445388794	7	0	7	1	False	results/e5e_lambda2_long/breakout_r141_s12.json
+breakout	1800 s	13	1800.0	1800.0016272068024	5	0	5	1	False	results/e5e_lambda2_long/breakout_r141_s13.json
+breakout	1800 s	14	1800.0	1800.0015842914581	6	0	6	1	False	results/e5e_lambda2_long/breakout_r141_s14.json

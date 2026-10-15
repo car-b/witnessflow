@@ -1,0 +1,11 @@
+method	seed	triple_min	triple_max	triple_covered	single_min	single_max	pair_min	pair_max
+OA_quadratic	0	1	1	1.0	25	25	5	5
+legal_random	0	0	7	0.6152	16	36	0	15
+balanced_random	0	0	5	0.6472	25	25	1	10
+anneal_search	0	0	2	0.9192	24	27	3	6
+legal_random	1	0	6	0.6384	15	32	0	12
+balanced_random	1	0	5	0.6584	25	25	1	10
+anneal_search	1	0	3	0.908	23	27	3	7
+legal_random	2	0	5	0.6424	16	33	1	12
+balanced_random	2	0	5	0.656	25	25	0	10
+anneal_search	2	0	3	0.9136	24	26	4	7

@@ -1,0 +1,13 @@
+# Python 3.13.11 on Windows 11
+# analysis code (frozen environment, FREEZE_v1/ENV.txt)
+numpy==2.4.2
+scipy==1.16.3
+pandas==2.2.3
+scikit-learn==1.9.0
+matplotlib==3.10.8
+# design-structure checks (tools/scan/lat02_structure.py)
+networkx==3.6.1
+# figure scripts (PDF audit, page composition, PNG export)
+PyMuPDF==1.27.1
+fonttools==4.61.1
+pillow==12.1.1

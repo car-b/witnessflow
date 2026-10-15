@@ -1,0 +1,176 @@
+block	dataset	parent	claim	offset	value	unit	design_replayed	ref_in	n_direct	knn_err
+top_pi	levine32_v2	HSPC		-0.25	0.0592188235294117	parent fraction (initial split)	False			
+top_pi	levine32_v2	HSPC		-0.125	0.0552658823529411	parent fraction (initial split)	False			
+top_pi	levine32_v2	HSPC		0.0	0.0515011764705882	parent fraction (initial split)	False			
+top_pi	levine32_v2	HSPC		0.125	0.0484329411764705	parent fraction (initial split)	False			
+top_pi	levine32_v2	HSPC		0.25	0.046315294117647	parent fraction (initial split)	False			
+top_pi	levine32_v2	T		-0.25	0.3780047058823529	parent fraction (initial split)	True			
+top_pi	levine32_v2	T		-0.125	0.3976470588235294	parent fraction (initial split)	True			
+top_pi	levine32_v2	T		0.0	0.4105411764705882	parent fraction (initial split)	True			
+top_pi	levine32_v2	T		0.125	0.41856	parent fraction (initial split)	True			
+top_pi	levine32_v2	T		0.25	0.4233976470588235	parent fraction (initial split)	True			
+top_pi	levine32_v2	B		-0.25	0.2448941176470588	parent fraction (initial split)	False			
+top_pi	levine32_v2	B		-0.125	0.2278870588235294	parent fraction (initial split)	False			
+top_pi	levine32_v2	B		0.0	0.2156329411764705	parent fraction (initial split)	False			
+top_pi	levine32_v2	B		0.125	0.2073129411764706	parent fraction (initial split)	False			
+top_pi	levine32_v2	B		0.25	0.2010541176470588	parent fraction (initial split)	False			
+top_pi	levine32_v2	Mono		-0.25	0.1034635294117647	parent fraction (initial split)	False			
+top_pi	levine32_v2	Mono		-0.125	0.0635670588235294	parent fraction (initial split)	False			
+top_pi	levine32_v2	Mono		0.0	0.0424094117647058	parent fraction (initial split)	False			
+top_pi	levine32_v2	Mono		0.125	0.0289223529411764	parent fraction (initial split)	False			
+top_pi	levine32_v2	Mono		0.25	0.0196329411764705	parent fraction (initial split)	False			
+top_pi	levine32_v2	NK		-0.25	0.0577788235294117	parent fraction (initial split)	False			
+top_pi	levine32_v2	NK		-0.125	0.0599435294117647	parent fraction (initial split)	False			
+top_pi	levine32_v2	NK		0.0	0.0611294117647058	parent fraction (initial split)	False			
+top_pi	levine32_v2	NK		0.125	0.06144	parent fraction (initial split)	False			
+top_pi	levine32_v2	NK		0.25	0.0614588235294117	parent fraction (initial split)	False			
+bottom_audit	levine32_v2	H	H1	-0.25	0.2576658619860864	audit interval width (conf_hi - conf_lo)		True	0.0	0.0036627802119691
+bottom_audit	levine32_v2	H	H1	-0.125	0.2061023759949167	audit interval width (conf_hi - conf_lo)		True	0.0	0.007882014459834
+bottom_audit	levine32_v2	H	H1	0.0	0.144592825779901	audit interval width (conf_hi - conf_lo)		True	0.0	0.0076633454400017
+bottom_audit	levine32_v2	H	H1	0.125	0.0927632219843034	audit interval width (conf_hi - conf_lo)		True	0.0	0.0094030913658756
+bottom_audit	levine32_v2	H	H1	0.25	0.0651266105184371	audit interval width (conf_hi - conf_lo)		True	0.0	0.0073213806251219
+bottom_audit	levine32_v2	H	H2	-0.25	0.1426822294993566	audit interval width (conf_hi - conf_lo)		True	0.0	0.00752244021587
+bottom_audit	levine32_v2	H	H2	-0.125	0.1607895747349111	audit interval width (conf_hi - conf_lo)		True	0.0	0.0131492640218361
+bottom_audit	levine32_v2	H	H2	0.0	0.1786663619073757	audit interval width (conf_hi - conf_lo)		True	0.0	0.0087461896423128
+bottom_audit	levine32_v2	H	H2	0.125	0.195145112676433	audit interval width (conf_hi - conf_lo)		True	0.0	0.0097453242590834
+bottom_audit	levine32_v2	H	H2	0.25	0.2217611703746024	audit interval width (conf_hi - conf_lo)		True	0.0	0.0093246793310204
+bottom_audit	levine32_v2	T	T1	-0.25	0.3982864963219784	audit interval width (conf_hi - conf_lo)		True	0.0	0.041297386698858
+bottom_audit	levine32_v2	T	T1	-0.125	0.3279559906344445	audit interval width (conf_hi - conf_lo)		True	0.0	0.0376667535478003
+bottom_audit	levine32_v2	T	T1	0.0	0.2662438039252811	audit interval width (conf_hi - conf_lo)		True	0.0	0.034872955109148
+bottom_audit	levine32_v2	T	T1	0.125	0.2139811899763896	audit interval width (conf_hi - conf_lo)		True	0.0	0.0267905374527095
+bottom_audit	levine32_v2	T	T1	0.25	0.1689805651774866	audit interval width (conf_hi - conf_lo)		True	0.0	0.020027855581067
+bottom_audit	levine32_v2	T	T2	-0.25	0.1443403733117949	audit interval width (conf_hi - conf_lo)		True	0.0	0.0041255972374716
+bottom_audit	levine32_v2	T	T2	-0.125	0.0969868394551689	audit interval width (conf_hi - conf_lo)		True	0.0	0.0037831114167355
+bottom_audit	levine32_v2	T	T2	0.0	0.068278175424891	audit interval width (conf_hi - conf_lo)		True	0.0	0.0021434073140155
+bottom_audit	levine32_v2	T	T2	0.125	0.0525734714024604	audit interval width (conf_hi - conf_lo)		True	0.0	0.0018366301137243
+bottom_audit	levine32_v2	T	T2	0.25	0.0411863226211619	audit interval width (conf_hi - conf_lo)		True	0.0	0.0012910949062139
+bottom_audit	levine32_v2	T	T3	-0.25	0.1443403733117949	audit interval width (conf_hi - conf_lo)		True	0.0	0.0085022779959276
+bottom_audit	levine32_v2	T	T3	-0.125	0.0969868394551689	audit interval width (conf_hi - conf_lo)		True	0.0	0.0061591588427432
+bottom_audit	levine32_v2	T	T3	0.0	0.068278175424891	audit interval width (conf_hi - conf_lo)		True	0.0	0.0041211815019733
+bottom_audit	levine32_v2	T	T3	0.125	0.0525734714024604	audit interval width (conf_hi - conf_lo)		True	0.0	0.0028844828524089
+bottom_audit	levine32_v2	T	T3	0.25	0.0411863226211619	audit interval width (conf_hi - conf_lo)		True	0.0	0.0019534303263739
+bottom_audit	levine32_v2	B	B1	-0.25	0.3512300446026382	audit interval width (conf_hi - conf_lo)		True	0.0	0.0147911114778192
+bottom_audit	levine32_v2	B	B1	-0.125	0.379037334906991	audit interval width (conf_hi - conf_lo)		True	0.0	0.0152334900701222
+bottom_audit	levine32_v2	B	B1	0.0	0.3876487749416309	audit interval width (conf_hi - conf_lo)		True	0.0	0.0188190099045371
+bottom_audit	levine32_v2	B	B1	0.125	0.3996386987705225	audit interval width (conf_hi - conf_lo)		True	0.0	0.013899083243332
+bottom_audit	levine32_v2	B	B1	0.25	0.4144065885129396	audit interval width (conf_hi - conf_lo)		True	0.0	0.020123917020158
+bottom_audit	levine32_v2	B	B2	-0.25	0.0514945735673191	audit interval width (conf_hi - conf_lo)		True	0.0	0.0051814529651004
+bottom_audit	levine32_v2	B	B2	-0.125	0.0514032340923526	audit interval width (conf_hi - conf_lo)		True	0.0	0.0056836963902201
+bottom_audit	levine32_v2	B	B2	0.0	0.0473153765358598	audit interval width (conf_hi - conf_lo)		True	0.0	0.0028847812233931
+bottom_audit	levine32_v2	B	B2	0.125	0.0476151904647126	audit interval width (conf_hi - conf_lo)		True	0.0	0.0022164823175957
+bottom_audit	levine32_v2	B	B2	0.25	0.0483197221016971	audit interval width (conf_hi - conf_lo)		True	0.0	0.0019899912137296
+bottom_audit	levine32_v2	M	M1	-0.25	0.2229655979414688	audit interval width (conf_hi - conf_lo)		True	0.0	0.0193369482688258
+bottom_audit	levine32_v2	M	M1	-0.125	0.2196213438107288	audit interval width (conf_hi - conf_lo)		True	0.0	0.0324599805757915
+bottom_audit	levine32_v2	M	M1	0.0	0.1929451178689317	audit interval width (conf_hi - conf_lo)		True	0.0	0.0364700589833069
+bottom_audit	levine32_v2	M	M1	0.125	0.1840921286444318	audit interval width (conf_hi - conf_lo)		True	0.0	0.0295425059339109
+bottom_audit	levine32_v2	M	M1	0.25	0.2172998671431381	audit interval width (conf_hi - conf_lo)		True	0.0	0.0382376183485139
+bottom_audit	levine32_v2	M	M2	-0.25	0.4311484319480265	audit interval width (conf_hi - conf_lo)		True	0.0	0.0035966308319855
+bottom_audit	levine32_v2	M	M2	-0.125	0.4399598398501926	audit interval width (conf_hi - conf_lo)		True	0.0	0.0125413275727997
+bottom_audit	levine32_v2	M	M2	0.0	0.4372890203802592	audit interval width (conf_hi - conf_lo)		True	0.0	0.0396263221648787
+bottom_audit	levine32_v2	M	M2	0.125	0.3796069992191135	audit interval width (conf_hi - conf_lo)		True	0.0	0.0444142232790377
+bottom_audit	levine32_v2	M	M2	0.25	0.3531416770949289	audit interval width (conf_hi - conf_lo)		True	0.0	0.0367741790508149
+bottom_audit	levine32_v2	N	N1	-0.25	0.306019848820542	audit interval width (conf_hi - conf_lo)		True	0.0	0.0182514179093426
+bottom_audit	levine32_v2	N	N1	-0.125	0.3062968856848149	audit interval width (conf_hi - conf_lo)		True	0.0	0.0114307286945501
+bottom_audit	levine32_v2	N	N1	0.0	0.3182907344850972	audit interval width (conf_hi - conf_lo)		True	0.0	0.0138332348950246
+bottom_audit	levine32_v2	N	N1	0.125	0.3291627609647158	audit interval width (conf_hi - conf_lo)		True	0.0	0.0136178670186023
+bottom_audit	levine32_v2	N	N1	0.25	0.3305590863936803	audit interval width (conf_hi - conf_lo)		True	0.0	0.0086192405454854
+bottom_audit	levine32_v2	N	N2	-0.25	0.3548627150148871	audit interval width (conf_hi - conf_lo)		True	0.0	0.0111104118230686
+bottom_audit	levine32_v2	N	N2	-0.125	0.3660850015562443	audit interval width (conf_hi - conf_lo)		True	0.0	0.0029842296123409
+bottom_audit	levine32_v2	N	N2	0.0	0.3756678443419573	audit interval width (conf_hi - conf_lo)		True	0.0	0.0022380273670286
+bottom_audit	levine32_v2	N	N2	0.125	0.3817601494648631	audit interval width (conf_hi - conf_lo)		True	0.0	0.0004909816490698
+bottom_audit	levine32_v2	N	N2	0.25	0.3815203808880314	audit interval width (conf_hi - conf_lo)		True	0.0	0.0020139191496436
+top_pi	wingmen_v1	CD4T		-0.25	0.3545770204002185	parent fraction (initial split)	True			
+top_pi	wingmen_v1	CD4T		-0.125	0.3661804687843378	parent fraction (initial split)	True			
+top_pi	wingmen_v1	CD4T		0.0	0.3704312991718101	parent fraction (initial split)	True			
+top_pi	wingmen_v1	CD4T		0.125	0.3695899235855158	parent fraction (initial split)	True			
+top_pi	wingmen_v1	CD4T		0.25	0.3648587556431814	parent fraction (initial split)	True			
+top_pi	wingmen_v1	CD8T		-0.25	0.1439003409454801	parent fraction (initial split)	False			
+top_pi	wingmen_v1	CD8T		-0.125	0.1462047054243609	parent fraction (initial split)	False			
+top_pi	wingmen_v1	CD8T		0.0	0.1466316721397939	parent fraction (initial split)	False			
+top_pi	wingmen_v1	CD8T		0.125	0.1459378512272153	parent fraction (initial split)	False			
+top_pi	wingmen_v1	CD8T		0.25	0.1445878829357729	parent fraction (initial split)	False			
+top_pi	wingmen_v1	B		-0.25	0.093019094202671	parent fraction (initial split)	False			
+top_pi	wingmen_v1	B		-0.125	0.0834814112505729	parent fraction (initial split)	False			
+top_pi	wingmen_v1	B		0.0	0.0775384113070832	parent fraction (initial split)	False			
+top_pi	wingmen_v1	B		0.125	0.0736329216453288	parent fraction (initial split)	False			
+top_pi	wingmen_v1	B		0.25	0.0707540357772991	parent fraction (initial split)	False			
+top_pi	wingmen_v1	NK		-0.25	0.1117271431531491	parent fraction (initial split)	False			
+top_pi	wingmen_v1	NK		-0.125	0.1164520321731977	parent fraction (initial split)	False			
+top_pi	wingmen_v1	NK		0.0	0.1177172350137822	parent fraction (initial split)	False			
+top_pi	wingmen_v1	NK		0.125	0.1169669038006316	parent fraction (initial split)	False			
+top_pi	wingmen_v1	NK		0.25	0.1154725202966162	parent fraction (initial split)	False			
+top_pi	wingmen_v1	Mono		-0.25	0.1171050400909188	parent fraction (initial split)	False			
+top_pi	wingmen_v1	Mono		-0.125	0.1214814489241066	parent fraction (initial split)	False			
+top_pi	wingmen_v1	Mono		0.0	0.1220622492355412	parent fraction (initial split)	False			
+top_pi	wingmen_v1	Mono		0.125	0.1192147579789404	parent fraction (initial split)	False			
+top_pi	wingmen_v1	Mono		0.25	0.1139216264920289	parent fraction (initial split)	False			
+bottom_audit	wingmen_v1	C	C1	-0.25	0.1285856734371811	audit interval width (conf_hi - conf_lo)		True	0.0	0.0109756611972072
+bottom_audit	wingmen_v1	C	C1	-0.125	0.1581900946950229	audit interval width (conf_hi - conf_lo)		True	0.0	0.01290983172732
+bottom_audit	wingmen_v1	C	C1	0.0	0.1867564697612598	audit interval width (conf_hi - conf_lo)		True	0.0	0.0161949261265976
+bottom_audit	wingmen_v1	C	C1	0.125	0.1529003921703239	audit interval width (conf_hi - conf_lo)		True	0.0	0.0176660603606793
+bottom_audit	wingmen_v1	C	C1	0.25	0.12356932149423	audit interval width (conf_hi - conf_lo)		True	0.0	0.0186721336537411
+bottom_audit	wingmen_v1	C	C2	-0.25	0.2637914165204122	audit interval width (conf_hi - conf_lo)		True	0.0	0.0330952168574021
+bottom_audit	wingmen_v1	C	C2	-0.125	0.2330084525127284	audit interval width (conf_hi - conf_lo)		True	0.0	0.0344891918953325
+bottom_audit	wingmen_v1	C	C2	0.0	0.2072825091418912	audit interval width (conf_hi - conf_lo)		True	0.0	0.0313739204499987
+bottom_audit	wingmen_v1	C	C2	0.125	0.1848195220150777	audit interval width (conf_hi - conf_lo)		True	0.0	0.0279634180742439
+bottom_audit	wingmen_v1	C	C2	0.25	0.1626434181269111	audit interval width (conf_hi - conf_lo)		True	0.0	0.0267675607688152
+bottom_audit	wingmen_v1	C	C3	-0.25	0.0500491320809055	audit interval width (conf_hi - conf_lo)		True	0.0	0.0126465360751481
+bottom_audit	wingmen_v1	C	C3	-0.125	0.0377825037553737	audit interval width (conf_hi - conf_lo)		True	0.0	0.0108665100297132
+bottom_audit	wingmen_v1	C	C3	0.0	0.0296322382619038	audit interval width (conf_hi - conf_lo)		True	0.0	0.0095409145579332
+bottom_audit	wingmen_v1	C	C3	0.125	0.023619791025944	audit interval width (conf_hi - conf_lo)		True	0.0	0.0089863708876177
+bottom_audit	wingmen_v1	C	C3	0.25	0.0198852270417148	audit interval width (conf_hi - conf_lo)		True	0.0	0.0083182195873521
+bottom_audit	wingmen_v1	C	C4	-0.25	0.0130425668535587	audit interval width (conf_hi - conf_lo)		True	0.0	0.0035458934741006
+bottom_audit	wingmen_v1	C	C4	-0.125	0.0097479883263961	audit interval width (conf_hi - conf_lo)		True	0.0	0.0034541305520562
+bottom_audit	wingmen_v1	C	C4	0.0	0.0083493642073403	audit interval width (conf_hi - conf_lo)		True	0.0	0.0033426539642321
+bottom_audit	wingmen_v1	C	C4	0.125	0.0071791258074196	audit interval width (conf_hi - conf_lo)		True	0.0	0.0030663161530616
+bottom_audit	wingmen_v1	C	C4	0.25	0.0067484236056087	audit interval width (conf_hi - conf_lo)		True	0.0	0.0031572607548654
+bottom_audit	wingmen_v1	C	C5	-0.25	0.2718188632620824	audit interval width (conf_hi - conf_lo)		True	0.0	0.0270228649883512
+bottom_audit	wingmen_v1	C	C5	-0.125	0.2462672775607829	audit interval width (conf_hi - conf_lo)		True	0.0	0.0241381996767205
+bottom_audit	wingmen_v1	C	C5	0.0	0.2286763845759541	audit interval width (conf_hi - conf_lo)		True	0.0	0.0206320837878303
+bottom_audit	wingmen_v1	C	C5	0.125	0.2154535612539925	audit interval width (conf_hi - conf_lo)		True	0.0	0.0187065600573484
+bottom_audit	wingmen_v1	C	C5	0.25	0.2042254752480858	audit interval width (conf_hi - conf_lo)		True	0.0	0.016937926831574
+bottom_audit	wingmen_v1	D	D1	-0.25	0.2712120592085296	audit interval width (conf_hi - conf_lo)		True	0.0	0.0459282812669276
+bottom_audit	wingmen_v1	D	D1	-0.125	0.2450874300795449	audit interval width (conf_hi - conf_lo)		True	0.0	0.044073371855596
+bottom_audit	wingmen_v1	D	D1	0.0	0.2269439840000018	audit interval width (conf_hi - conf_lo)		True	0.0	0.0412437177862626
+bottom_audit	wingmen_v1	D	D1	0.125	0.2149746087904976	audit interval width (conf_hi - conf_lo)		True	0.0	0.0376666950468498
+bottom_audit	wingmen_v1	D	D1	0.25	0.2064799776508523	audit interval width (conf_hi - conf_lo)		True	0.0	0.0345489746797305
+bottom_audit	wingmen_v1	D	D3	-0.25	0.0637649462958494	audit interval width (conf_hi - conf_lo)		True	0.0	0.0158861661135482
+bottom_audit	wingmen_v1	D	D3	-0.125	0.050652078272821	audit interval width (conf_hi - conf_lo)		True	0.0	0.0145462608655846
+bottom_audit	wingmen_v1	D	D3	0.0	0.0417508922939049	audit interval width (conf_hi - conf_lo)		True	0.0	0.0131250389943849
+bottom_audit	wingmen_v1	D	D3	0.125	0.035002474061393	audit interval width (conf_hi - conf_lo)		True	0.0	0.0120837888033076
+bottom_audit	wingmen_v1	D	D3	0.25	0.0288665746222217	audit interval width (conf_hi - conf_lo)		True	0.0	0.0109693670458669
+bottom_audit	wingmen_v1	D	D4	-0.25	0.4890874475618508	audit interval width (conf_hi - conf_lo)		True	0.0	0.0413609447374926
+bottom_audit	wingmen_v1	D	D4	-0.125	0.4622202883155768	audit interval width (conf_hi - conf_lo)		True	0.0	0.0446535128187381
+bottom_audit	wingmen_v1	D	D4	0.0	0.4362086506844403	audit interval width (conf_hi - conf_lo)		True	0.0	0.0482636092817263
+bottom_audit	wingmen_v1	D	D4	0.125	0.414984007025068	audit interval width (conf_hi - conf_lo)		True	0.0	0.049051892970772
+bottom_audit	wingmen_v1	D	D4	0.25	0.3926106791487355	audit interval width (conf_hi - conf_lo)		True	0.0	0.0478422852218331
+bottom_audit	wingmen_v1	E	E1	-0.25	0.0197479539567062	audit interval width (conf_hi - conf_lo)		True	7392.0	7.646196135513428e-05
+bottom_audit	wingmen_v1	E	E1	-0.125	0.0217413006121195	audit interval width (conf_hi - conf_lo)		True	6636.0	0.0029709553686512
+bottom_audit	wingmen_v1	E	E1	0.0	0.0228600849648657	audit interval width (conf_hi - conf_lo)		True	6188.0	0.0038531230156429
+bottom_audit	wingmen_v1	E	E1	0.125	0.0235132294887754	audit interval width (conf_hi - conf_lo)		True	5908.0	0.0034032969171366
+bottom_audit	wingmen_v1	E	E1	0.25	0.0238363340198626	audit interval width (conf_hi - conf_lo)		True	5671.0	0.006557076735909
+bottom_audit	wingmen_v1	E	E2	-0.25	0.2672349630228947	audit interval width (conf_hi - conf_lo)		True	0.0	0.0108086085891825
+bottom_audit	wingmen_v1	E	E2	-0.125	0.2081391862418242	audit interval width (conf_hi - conf_lo)		True	0.0	0.0150663057778608
+bottom_audit	wingmen_v1	E	E2	0.0	0.172523763542172	audit interval width (conf_hi - conf_lo)		True	0.0	0.0140770447238467
+bottom_audit	wingmen_v1	E	E2	0.125	0.1471786473853523	audit interval width (conf_hi - conf_lo)		True	0.0	0.0182523762612028
+bottom_audit	wingmen_v1	E	E2	0.25	0.1338617067747695	audit interval width (conf_hi - conf_lo)		True	0.0	0.0151533814143528
+bottom_audit	wingmen_v1	E	E3	-0.25	0.0770114201337869	audit interval width (conf_hi - conf_lo)		True	0.0	0.0017179827210751
+bottom_audit	wingmen_v1	E	E3	-0.125	0.0644014989507845	audit interval width (conf_hi - conf_lo)		True	0.0	0.0022208326636983
+bottom_audit	wingmen_v1	E	E3	0.0	0.0545597113989576	audit interval width (conf_hi - conf_lo)		True	0.0	0.0019251325189356
+bottom_audit	wingmen_v1	E	E3	0.125	0.0456483691994564	audit interval width (conf_hi - conf_lo)		True	0.0	0.0011221240487497
+bottom_audit	wingmen_v1	E	E3	0.25	0.0408423787552644	audit interval width (conf_hi - conf_lo)		True	0.0	0.0016475827303862
+bottom_audit	wingmen_v1	F	F1	-0.25	0.2314366378405473	audit interval width (conf_hi - conf_lo)		True	0.0	0.0155194563701714
+bottom_audit	wingmen_v1	F	F1	-0.125	0.2491202475249105	audit interval width (conf_hi - conf_lo)		True	0.0	0.0221548358983478
+bottom_audit	wingmen_v1	F	F1	0.0	0.265076062630137	audit interval width (conf_hi - conf_lo)		True	0.0	0.0259885081427019
+bottom_audit	wingmen_v1	F	F1	0.125	0.2869107611971169	audit interval width (conf_hi - conf_lo)		True	0.0	0.0284305847256707
+bottom_audit	wingmen_v1	F	F1	0.25	0.3104588160330706	audit interval width (conf_hi - conf_lo)		True	0.0	0.0335774731561712
+bottom_audit	wingmen_v1	G	G1	-0.25	0.0757677672879846	audit interval width (conf_hi - conf_lo)		True	0.0	0.0155866980729625
+bottom_audit	wingmen_v1	G	G1	-0.125	0.0656116213507478	audit interval width (conf_hi - conf_lo)		True	0.0	0.0109139755885825
+bottom_audit	wingmen_v1	G	G1	0.0	0.0594005670821152	audit interval width (conf_hi - conf_lo)		True	0.0	0.0078920740276181
+bottom_audit	wingmen_v1	G	G1	0.125	0.056379663530149	audit interval width (conf_hi - conf_lo)		True	0.0	0.0116477681228135
+bottom_audit	wingmen_v1	G	G1	0.25	0.0549105875002839	audit interval width (conf_hi - conf_lo)		True	0.0	0.0107204763910142
+bottom_audit	wingmen_v1	G	G2	-0.25	0.0216969034650874	audit interval width (conf_hi - conf_lo)		True	0.0	0.0008524743097826
+bottom_audit	wingmen_v1	G	G2	-0.125	0.0154308673148257	audit interval width (conf_hi - conf_lo)		True	0.0	0.0010547212259203
+bottom_audit	wingmen_v1	G	G2	0.0	0.0116665103766697	audit interval width (conf_hi - conf_lo)		True	0.0	0.000584111471145
+bottom_audit	wingmen_v1	G	G2	0.125	0.0092586060313652	audit interval width (conf_hi - conf_lo)		True	0.0	0.0001343912396278
+bottom_audit	wingmen_v1	G	G2	0.25	0.0085795818426926	audit interval width (conf_hi - conf_lo)		True	0.0	0.0008001453057304

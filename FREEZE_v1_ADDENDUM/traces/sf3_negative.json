@@ -1,0 +1,44 @@
+{
+ "script": "witnessflow/figures/derive/sf3_negative.py",
+ "argv": [
+  "witnessflow\\figures\\derive/sf3_negative.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704504.0448205,
+ "end": 1791704505.4829607,
+ "exit": 0,
+ "reads": [
+  "ljcr_snapshot_db",
+  "witnessflow/figures/derive/sf3_negative.py",
+  "witnessflow/results/e5e_lambda2/anneal_r141_s0.json",
+  "witnessflow/results/e5e_lambda2/anneal_r141_s1.json",
+  "witnessflow/results/e5e_lambda2/anneal_r141_s2.json",
+  "witnessflow/results/e5e_lambda2/anneal_r141_s3.json",
+  "witnessflow/results/e5e_lambda2/anneal_r141_s4.json",
+  "witnessflow/results/e5e_lambda2/breakout_r141_s0.json",
+  "witnessflow/results/e5e_lambda2/breakout_r141_s1.json",
+  "witnessflow/results/e5e_lambda2/breakout_r141_s2.json",
+  "witnessflow/results/e5e_lambda2/breakout_r141_s3.json",
+  "witnessflow/results/e5e_lambda2/breakout_r141_s4.json",
+  "witnessflow/results/e5e_lambda2_long/anneal_r141_s10.json",
+  "witnessflow/results/e5e_lambda2_long/anneal_r141_s11.json",
+  "witnessflow/results/e5e_lambda2_long/anneal_r141_s12.json",
+  "witnessflow/results/e5e_lambda2_long/anneal_r141_s13.json",
+  "witnessflow/results/e5e_lambda2_long/anneal_r141_s14.json",
+  "witnessflow/results/e5e_lambda2_long/breakout_r141_s10.json",
+  "witnessflow/results/e5e_lambda2_long/breakout_r141_s11.json",
+  "witnessflow/results/e5e_lambda2_long/breakout_r141_s12.json",
+  "witnessflow/results/e5e_lambda2_long/breakout_r141_s13.json",
+  "witnessflow/results/e5e_lambda2_long/breakout_r141_s14.json",
+  "witnessflow/src/design.py"
+ ],
+ "writes": [
+  "witnessflow/figures/derived/figS3_D_defect.tsv",
+  "witnessflow/figures/derived/figS3_D_lambda.tsv",
+  "witnessflow/figures/derived/figS3_D_runs.tsv",
+  "witnessflow/figures/derived/figS3_D_summary.tsv"
+ ],
+ "sqlite": [
+  "ljcr_snapshot_db"
+ ]
+}

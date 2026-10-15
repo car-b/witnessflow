@@ -1,0 +1,10 @@
+item	value
+tube split: rows (parent x allocation)	20
+tube split: max|dcount| == 0	20
+tube split: half_ok identical	20
+tube split: err_ok identical	20
+per donor: CD4T donors / diff>0	13/13
+per donor: CD8T donors / diff>0	12/12
+per donor: difference range (pp)	2.1-32.6
+per donor: CD4T delta = min(mean_130, mean_260) - mean_180, range (pp)	14.2-32.6
+per donor: CD8T delta = min(mean_130, mean_260) - mean_180, range (pp)	2.1-31.9

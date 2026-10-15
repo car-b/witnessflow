@@ -1,0 +1,42 @@
+{
+ "script": "witnessflow/figures/scripts/fig1.py",
+ "argv": [
+  "witnessflow\\figures\\scripts/fig1.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704429.2448115,
+ "end": 1791704435.5902784,
+ "exit": 0,
+ "reads": [
+  "ljcr_snapshot_db",
+  "witnessflow/figures/derived/d3_check.json",
+  "witnessflow/figures/derived/d3_tstar_tube130.tsv",
+  "witnessflow/figures/scripts/fig1.py",
+  "witnessflow/figures/scripts/wfgeom.py",
+  "witnessflow/figures/scripts/wfstyle.py",
+  "witnessflow/protocols/levine32_v2.json",
+  "witnessflow/protocols/wingmen_v1.json",
+  "witnessflow/results/levine32_v2/initial_audit.tsv",
+  "witnessflow/results/wingmen_v1/initial_audit.tsv",
+  "witnessflow/results/wingmen_v1/thresholds.json",
+  "witnessflow/tools/scan/main_table.tsv"
+ ],
+ "writes": [
+  "witnessflow/figures/derived/fig1_cells_1A.tsv",
+  "witnessflow/figures/derived/fig1_paths_1A.tsv",
+  "witnessflow/figures/derived/fig1_tiers_1E.tsv",
+  "witnessflow/figures/panels/fig1A.pdf",
+  "witnessflow/figures/panels/fig1A.png",
+  "witnessflow/figures/panels/fig1B.pdf",
+  "witnessflow/figures/panels/fig1B.png",
+  "witnessflow/figures/panels/fig1C.pdf",
+  "witnessflow/figures/panels/fig1C.png",
+  "witnessflow/figures/panels/fig1D.pdf",
+  "witnessflow/figures/panels/fig1D.png",
+  "witnessflow/figures/panels/fig1E.pdf",
+  "witnessflow/figures/panels/fig1E.png"
+ ],
+ "sqlite": [
+  "ljcr_snapshot_db"
+ ]
+}

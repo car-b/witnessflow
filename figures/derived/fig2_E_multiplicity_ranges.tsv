@@ -1,0 +1,5 @@
+method	single_lo	single_hi	pair_lo	pair_hi	triple_lo	triple_hi	covered_lo	covered_hi	covered_mean	n_designs	source
+OA_quadratic	25	25	5	5	1	1	1.0	1.0	1.0	1	results/wingmen_v1/e5c_multiplicities.tsv (range over design seeds)
+anneal_search	23	27	3	7	0	3	0.908	0.9192	0.9136000000000001	3	results/wingmen_v1/e5c_multiplicities.tsv (range over design seeds)
+balanced_random	25	25	0	10	0	5	0.6472	0.6584	0.6538666666666667	3	results/wingmen_v1/e5c_multiplicities.tsv (range over design seeds)
+legal_random	15	36	0	15	0	7	0.6152	0.6424	0.632	3	results/wingmen_v1/e5c_multiplicities.tsv (range over design seeds)

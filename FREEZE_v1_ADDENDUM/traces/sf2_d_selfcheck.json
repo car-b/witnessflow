@@ -1,0 +1,23 @@
+{
+ "script": "witnessflow/figures/derive/sf2_d_selfcheck.py",
+ "argv": [
+  "witnessflow\\figures\\derive/sf2_d_selfcheck.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704488.4818819,
+ "end": 1791704489.3535988,
+ "exit": 0,
+ "reads": [
+  "witnessflow/figures/data/fig4B_qc_fixed_family.tsv",
+  "witnessflow/figures/data/supp_boundary_composition.tsv",
+  "witnessflow/figures/derive/sf2_d_selfcheck.py",
+  "witnessflow/results/levine32_v2/e5d_fixed_family_summary.tsv",
+  "witnessflow/results/levine32_v2/e5k_boundary.tsv",
+  "witnessflow/results/wingmen_v1/e5d_fixed_family_summary.tsv",
+  "witnessflow/results/wingmen_v1/e5k_boundary.tsv"
+ ],
+ "writes": [
+  "witnessflow/figures/derived/figS2_D_matrix.tsv"
+ ],
+ "sqlite": []
+}

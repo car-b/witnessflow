@@ -1,0 +1,84 @@
+{
+ "S1B": {
+  "rows": "32+37",
+  "backbone": "8+8",
+  "unreliable": "4+3",
+  "candidates": "20+26",
+  "D_lt_2": "16/32, 13/37",
+  "flagged": {
+   "Flt3": "H3 10 records",
+   "TIGIT": "D2 10 records"
+  },
+  "amendment_text_says": "D=2 would drop 13/32 (frozen data: 16/32; 13/37 is WINGMEN)"
+ },
+ "S1C": {
+  "design_rows": "60+60",
+  "audit_rows": "55+70",
+  "claims": "11+14",
+  "ref_in_all": true,
+  "levine_mono_pct": [
+   10.35,
+   1.96
+  ],
+  "width_range": [
+   0.0067,
+   0.4891
+  ],
+  "knn_err_pp_max": 4.91
+ },
+ "S1D": {
+  "claims": 27,
+  "M2_half": 0.020989,
+  "half_gt_eps": [
+   "M2"
+  ],
+  "max_se_over_eps_pct": {
+   "T": 6.75,
+   "CD4T": 6.86,
+   "CD8T": 6.5
+  },
+  "n_targets": {
+   "T": 1140,
+   "CD4T": 2600,
+   "CD8T": 2600
+  },
+  "note": "SE = sqrt(ref_var / n_ref), ref_var = max_pattern p(1-p): approximation",
+  "M1_M2": {
+   "n_ref": 2215,
+   "ref_pct": [
+    84.65,
+    53.36
+   ],
+   "half_pp": [
+    1.523,
+    2.099
+   ]
+  }
+ },
+ "S1E": {
+  "rows": 111,
+  "reliable": 87,
+  "unreliable": 24,
+  "reliable_markers": 29,
+  "abs_shift": {
+   "n": 87,
+   "median": 0.045,
+   "p90": 0.235,
+   "max": 0.492,
+   "n_ge_025": 8,
+   "n_ge_05": 0,
+   "max_abs_dpos_pp": 18.1
+  },
+  "markers_max_ge_025": "5/29",
+  "donors_ge_025": {
+   "PTLG021": "4/29",
+   "PTLG028": "1/29",
+   "PTLG034": "3/29"
+  },
+  "label_overlap": {
+   "levine": "14 = 7 candidate + 7 backbone",
+   "wingmen": "16 = 8 candidate + 8 backbone",
+   "spelling_map": "HLADR <-> HLA-DR only"
+  }
+ }
+}

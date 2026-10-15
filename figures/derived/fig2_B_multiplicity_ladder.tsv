@@ -1,0 +1,4 @@
+level	classical_130	levine71_min	levine71_max	source
+point	30	21	24	tools/scan/out_lat/lat02_structure.txt
+pair	6	5	12	tools/scan/out_lat/lat02_structure.txt
+triple	1	1	6	tools/scan/out_lat/lat02_structure.txt

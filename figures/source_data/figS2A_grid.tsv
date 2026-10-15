@@ -1,0 +1,185 @@
+dataset	parent	r	method	n_runs	status
+wingmen_v1	CD4T	104	classical_stack	10	run
+wingmen_v1	CD4T	104	random	30	run
+wingmen_v1	CD4T	104	balanced_random	30	run
+wingmen_v1	CD4T	104	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD4T	117	classical_stack	10	run
+wingmen_v1	CD4T	117	random	30	run
+wingmen_v1	CD4T	117	balanced_random	30	run
+wingmen_v1	CD4T	117	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD4T	130	classical_stack	10	run
+wingmen_v1	CD4T	130	random	30	run
+wingmen_v1	CD4T	130	balanced_random	30	run
+wingmen_v1	CD4T	130	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD4T	136	classical_stack	10	run
+wingmen_v1	CD4T	136	random	30	run
+wingmen_v1	CD4T	136	balanced_random	30	run
+wingmen_v1	CD4T	136	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD4T	142	classical_stack	10	run
+wingmen_v1	CD4T	142	random	30	run
+wingmen_v1	CD4T	142	balanced_random	30	run
+wingmen_v1	CD4T	142	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD4T	156	classical_stack	10	run
+wingmen_v1	CD4T	156	random	30	run
+wingmen_v1	CD4T	156	balanced_random	30	run
+wingmen_v1	CD4T	156	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD4T	169	classical_stack	10	run
+wingmen_v1	CD4T	169	random	30	run
+wingmen_v1	CD4T	169	balanced_random	30	run
+wingmen_v1	CD4T	169	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD4T	180	classical_stack	10	run
+wingmen_v1	CD4T	180	random	30	run
+wingmen_v1	CD4T	180	balanced_random	30	run
+wingmen_v1	CD4T	180	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD4T	195	classical_stack	10	run
+wingmen_v1	CD4T	195	random	30	run
+wingmen_v1	CD4T	195	balanced_random	30	run
+wingmen_v1	CD4T	195	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD4T	221	classical_stack	10	run
+wingmen_v1	CD4T	221	random	30	run
+wingmen_v1	CD4T	221	balanced_random	30	run
+wingmen_v1	CD4T	221	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD4T	247	classical_stack	10	run
+wingmen_v1	CD4T	247	random	30	run
+wingmen_v1	CD4T	247	balanced_random	30	run
+wingmen_v1	CD4T	247	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD4T	260	classical_stack	10	run
+wingmen_v1	CD4T	260	random	30	run
+wingmen_v1	CD4T	260	balanced_random	30	run
+wingmen_v1	CD4T	260	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD8T	104	classical_stack	10	run
+wingmen_v1	CD8T	104	random	30	run
+wingmen_v1	CD8T	104	balanced_random	30	run
+wingmen_v1	CD8T	104	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD8T	117	classical_stack	10	run
+wingmen_v1	CD8T	117	random	30	run
+wingmen_v1	CD8T	117	balanced_random	30	run
+wingmen_v1	CD8T	117	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD8T	130	classical_stack	10	run
+wingmen_v1	CD8T	130	random	30	run
+wingmen_v1	CD8T	130	balanced_random	30	run
+wingmen_v1	CD8T	130	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD8T	136	classical_stack	10	run
+wingmen_v1	CD8T	136	random	30	run
+wingmen_v1	CD8T	136	balanced_random	30	run
+wingmen_v1	CD8T	136	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD8T	142	classical_stack	10	run
+wingmen_v1	CD8T	142	random	30	run
+wingmen_v1	CD8T	142	balanced_random	30	run
+wingmen_v1	CD8T	142	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD8T	156	classical_stack	10	run
+wingmen_v1	CD8T	156	random	30	run
+wingmen_v1	CD8T	156	balanced_random	30	run
+wingmen_v1	CD8T	156	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD8T	169	classical_stack	10	run
+wingmen_v1	CD8T	169	random	30	run
+wingmen_v1	CD8T	169	balanced_random	30	run
+wingmen_v1	CD8T	169	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD8T	180	classical_stack	10	run
+wingmen_v1	CD8T	180	random	30	run
+wingmen_v1	CD8T	180	balanced_random	30	run
+wingmen_v1	CD8T	180	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD8T	195	classical_stack	10	run
+wingmen_v1	CD8T	195	random	30	run
+wingmen_v1	CD8T	195	balanced_random	30	run
+wingmen_v1	CD8T	195	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD8T	221	classical_stack	10	run
+wingmen_v1	CD8T	221	random	30	run
+wingmen_v1	CD8T	221	balanced_random	30	run
+wingmen_v1	CD8T	221	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD8T	247	classical_stack	10	run
+wingmen_v1	CD8T	247	random	30	run
+wingmen_v1	CD8T	247	balanced_random	30	run
+wingmen_v1	CD8T	247	PSL_3design	0	not run (no record; not interpolated)
+wingmen_v1	CD8T	260	classical_stack	10	run
+wingmen_v1	CD8T	260	random	30	run
+wingmen_v1	CD8T	260	balanced_random	30	run
+wingmen_v1	CD8T	260	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	B	57	classical_stack	10	run
+levine32_v2	B	57	random	30	run
+levine32_v2	B	57	balanced_random	30	run
+levine32_v2	B	57	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	B	64	classical_stack	10	run
+levine32_v2	B	64	random	30	run
+levine32_v2	B	64	balanced_random	30	run
+levine32_v2	B	64	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	B	71	classical_stack	10	run
+levine32_v2	B	71	random	30	run
+levine32_v2	B	71	balanced_random	30	run
+levine32_v2	B	71	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	B	85	classical_stack	10	run
+levine32_v2	B	85	random	30	run
+levine32_v2	B	85	balanced_random	30	run
+levine32_v2	B	85	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	B	100	classical_stack	10	run
+levine32_v2	B	100	random	30	run
+levine32_v2	B	100	balanced_random	30	run
+levine32_v2	B	100	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	B	120	classical_stack	10	run
+levine32_v2	B	120	random	30	run
+levine32_v2	B	120	balanced_random	30	run
+levine32_v2	B	120	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	B	142	classical_stack	10	run
+levine32_v2	B	142	random	30	run
+levine32_v2	B	142	balanced_random	30	run
+levine32_v2	B	142	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	B	170	classical_stack	10	run
+levine32_v2	B	170	random	30	run
+levine32_v2	B	170	balanced_random	30	run
+levine32_v2	B	170	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	B	213	classical_stack	10	run
+levine32_v2	B	213	random	30	run
+levine32_v2	B	213	balanced_random	30	run
+levine32_v2	B	213	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	B	284	classical_stack	10	run
+levine32_v2	B	284	random	30	run
+levine32_v2	B	284	balanced_random	30	run
+levine32_v2	B	284	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	B	570	classical_stack	10	run
+levine32_v2	B	570	random	30	run
+levine32_v2	B	570	balanced_random	30	run
+levine32_v2	B	570	PSL_3design	10	run
+levine32_v2	T	57	classical_stack	10	run
+levine32_v2	T	57	random	30	run
+levine32_v2	T	57	balanced_random	30	run
+levine32_v2	T	57	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	T	64	classical_stack	10	run
+levine32_v2	T	64	random	30	run
+levine32_v2	T	64	balanced_random	30	run
+levine32_v2	T	64	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	T	71	classical_stack	10	run
+levine32_v2	T	71	random	30	run
+levine32_v2	T	71	balanced_random	30	run
+levine32_v2	T	71	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	T	85	classical_stack	10	run
+levine32_v2	T	85	random	30	run
+levine32_v2	T	85	balanced_random	30	run
+levine32_v2	T	85	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	T	100	classical_stack	10	run
+levine32_v2	T	100	random	30	run
+levine32_v2	T	100	balanced_random	30	run
+levine32_v2	T	100	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	T	120	classical_stack	10	run
+levine32_v2	T	120	random	30	run
+levine32_v2	T	120	balanced_random	30	run
+levine32_v2	T	120	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	T	142	classical_stack	10	run
+levine32_v2	T	142	random	30	run
+levine32_v2	T	142	balanced_random	30	run
+levine32_v2	T	142	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	T	170	classical_stack	10	run
+levine32_v2	T	170	random	30	run
+levine32_v2	T	170	balanced_random	30	run
+levine32_v2	T	170	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	T	213	classical_stack	10	run
+levine32_v2	T	213	random	30	run
+levine32_v2	T	213	balanced_random	30	run
+levine32_v2	T	213	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	T	284	classical_stack	10	run
+levine32_v2	T	284	random	30	run
+levine32_v2	T	284	balanced_random	30	run
+levine32_v2	T	284	PSL_3design	0	not run (no record; not interpolated)
+levine32_v2	T	570	classical_stack	10	run
+levine32_v2	T	570	random	30	run
+levine32_v2	T	570	balanced_random	30	run
+levine32_v2	T	570	PSL_3design	10	run

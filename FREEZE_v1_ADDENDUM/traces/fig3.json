@@ -1,0 +1,50 @@
+{
+ "script": "witnessflow/figures/scripts/fig3.py",
+ "argv": [
+  "witnessflow\\figures\\scripts/fig3.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704450.3005326,
+ "end": 1791704457.851371,
+ "exit": 0,
+ "reads": [
+  "witnessflow/figures/data/fig3A_sawtooth.tsv",
+  "witnessflow/figures/data/fig3B_multiplicity_wingmen.tsv",
+  "witnessflow/figures/data/fig3C_per_donor_shape.tsv",
+  "witnessflow/figures/data/fig3D_tube_split.tsv",
+  "witnessflow/figures/data/supp_boundary_unequal.tsv",
+  "witnessflow/figures/data/supp_threshold_design.tsv",
+  "witnessflow/figures/scripts/fig3.py",
+  "witnessflow/figures/scripts/wfstyle.py",
+  "witnessflow/results/levine32_v2/e5b_steiner_nodes.tsv",
+  "witnessflow/results/levine32_v2/e5k_boundary.tsv",
+  "witnessflow/results/wingmen_v1/e5b_r180.tsv",
+  "witnessflow/results/wingmen_v1/e5b_steiner_nodes.tsv",
+  "witnessflow/results/wingmen_v1/e5k_boundary.tsv",
+  "witnessflow/tools/scan/out_lat/lat01_hist.tsv",
+  "witnessflow/tools/scan/out_lat/lat01_summary.tsv",
+  "witnessflow/tools/scan/out_lat/lat02_structure.txt"
+ ],
+ "writes": [
+  "witnessflow/figures/derived/fig3_B_annotations.tsv",
+  "witnessflow/figures/derived/fig3_B_series.tsv",
+  "witnessflow/figures/derived/fig3_B_threshold_ranges.tsv",
+  "witnessflow/figures/derived/fig3_C_levine_lambda.tsv",
+  "witnessflow/figures/derived/fig3_C_multiplicity_wingmen_all_nodes.tsv",
+  "witnessflow/figures/derived/fig3_D_summary.tsv",
+  "witnessflow/figures/derived/fig3_E_annotations.tsv",
+  "witnessflow/figures/derived/fig3_E_mincells.tsv",
+  "witnessflow/figures/derived/fig3_E_reps.tsv",
+  "witnessflow/figures/panels/fig3A.pdf",
+  "witnessflow/figures/panels/fig3A.png",
+  "witnessflow/figures/panels/fig3B.pdf",
+  "witnessflow/figures/panels/fig3B.png",
+  "witnessflow/figures/panels/fig3C.pdf",
+  "witnessflow/figures/panels/fig3C.png",
+  "witnessflow/figures/panels/fig3D.pdf",
+  "witnessflow/figures/panels/fig3D.png",
+  "witnessflow/figures/panels/fig3E.pdf",
+  "witnessflow/figures/panels/fig3E.png"
+ ],
+ "sqlite": []
+}

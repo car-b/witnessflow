@@ -1,0 +1,335 @@
+{
+  "protocol_id": "levine32_v2_shiftNonBBp0p5",
+  "frozen_utc": "2026-10-08",
+  "frozen_before_unblinding": false,
+  "note": "Stress test (simulated, not real batch data): in every replicate, cells of initial tube 0 get +0.5 asinh units on nonbackbone markers measured in that tube, then are re-gated with the global thresholds.  Reference and follow-up cells unshifted.",
+  "dataset": {
+    "name": "Levine_32dim",
+    "file": "data/raw/Levine32/Levine_32dim_notransform.fcs",
+    "source": "https://github.com/lmweber/benchmark-data-Levine-32-dim",
+    "sha256": "2306dc06200bc3c05f6697ec7446e83c1777668a3392e1de8b1ce511358e100d",
+    "transform": "asinh(x/5)",
+    "sample_column": "individual",
+    "exclude_columns": [
+      "Time",
+      "Cell_length",
+      "DNA1",
+      "DNA2",
+      "Viability",
+      "file_number",
+      "event_number",
+      "label",
+      "individual"
+    ]
+  },
+  "split": {
+    "calibration": 0.2,
+    "initial": 0.4,
+    "followup": 0.2,
+    "reference": 0.2,
+    "by": "individual",
+    "seed": 20261008
+  },
+  "threshold_rule": {
+    "method": "zero-spike-excluded 2-GMM",
+    "zero_cut": 0.05,
+    "D_min": 1.5,
+    "w_min": 0.03,
+    "sensitivity_offsets": [
+      -0.25,
+      -0.125,
+      0.0,
+      0.125,
+      0.25
+    ]
+  },
+  "backbone": [
+    "CD45",
+    "CD3",
+    "CD19",
+    "CD33",
+    "CD34",
+    "CD14",
+    "CD7",
+    "CD11b"
+  ],
+  "parents": {
+    "HSPC": {
+      "pos": [
+        "CD34"
+      ],
+      "neg": [
+        "CD3",
+        "CD19"
+      ]
+    },
+    "T": {
+      "pos": [
+        "CD3"
+      ],
+      "neg": [
+        "CD19"
+      ]
+    },
+    "B": {
+      "pos": [
+        "CD19"
+      ],
+      "neg": [
+        "CD3"
+      ]
+    },
+    "Mono": {
+      "pos": [
+        "CD33",
+        "CD14"
+      ],
+      "neg": [
+        "CD3",
+        "CD19"
+      ]
+    },
+    "NK": {
+      "pos": [
+        "CD7"
+      ],
+      "neg": [
+        "CD3",
+        "CD19",
+        "CD33"
+      ]
+    }
+  },
+  "micro_strata": {
+    "primary_K": 1,
+    "sensitivity_K": [
+      4,
+      8
+    ],
+    "fit_on": "calibration backbone"
+  },
+  "claims": [
+    {
+      "id": "H1",
+      "parent": "HSPC",
+      "markers": [
+        "CD38",
+        "CD123",
+        "CD45RA"
+      ],
+      "pattern": [
+        1,
+        1,
+        1
+      ],
+      "rationale": "GMP-like progenitor phenotype"
+    },
+    {
+      "id": "H2",
+      "parent": "HSPC",
+      "markers": [
+        "CD38",
+        "CD45RA",
+        "CD117"
+      ],
+      "pattern": [
+        0,
+        0,
+        1
+      ],
+      "rationale": "HSC/MPP-like (CD38- CD45RA- CD117+)"
+    },
+    {
+      "id": "H3",
+      "parent": "HSPC",
+      "markers": [
+        "CD117",
+        "Flt3",
+        "CD133"
+      ],
+      "pattern": [
+        1,
+        1,
+        1
+      ],
+      "rationale": "primitive multipotent-like progenitors"
+    },
+    {
+      "id": "T1",
+      "parent": "T",
+      "markers": [
+        "CD4",
+        "CD8",
+        "CD45RA"
+      ],
+      "pattern": [
+        1,
+        0,
+        1
+      ],
+      "rationale": "CD45RA+ CD4 T (naive-like)"
+    },
+    {
+      "id": "T2",
+      "parent": "T",
+      "markers": [
+        "CD8",
+        "HLA-DR",
+        "CD38"
+      ],
+      "pattern": [
+        1,
+        1,
+        1
+      ],
+      "rationale": "activated CD8 T (HLA-DR+ CD38+)"
+    },
+    {
+      "id": "T3",
+      "parent": "T",
+      "markers": [
+        "CD4",
+        "HLA-DR",
+        "CD38"
+      ],
+      "pattern": [
+        1,
+        1,
+        1
+      ],
+      "rationale": "activated CD4 T"
+    },
+    {
+      "id": "B1",
+      "parent": "B",
+      "markers": [
+        "CD20",
+        "CD22",
+        "CD38"
+      ],
+      "pattern": [
+        1,
+        1,
+        0
+      ],
+      "rationale": "mature-like B"
+    },
+    {
+      "id": "B2",
+      "parent": "B",
+      "markers": [
+        "CD20",
+        "CD38",
+        "HLA-DR"
+      ],
+      "pattern": [
+        0,
+        1,
+        0
+      ],
+      "rationale": "plasma-like B (CD20- CD38+ HLA-DR low)"
+    },
+    {
+      "id": "M1",
+      "parent": "Mono",
+      "markers": [
+        "CD16",
+        "CD64",
+        "HLA-DR"
+      ],
+      "pattern": [
+        0,
+        1,
+        1
+      ],
+      "rationale": "classical-like monocytes"
+    },
+    {
+      "id": "M2",
+      "parent": "Mono",
+      "markers": [
+        "CD11c",
+        "CD13",
+        "CD15"
+      ],
+      "pattern": [
+        1,
+        1,
+        0
+      ],
+      "rationale": "monocytic vs granulocytic separation"
+    },
+    {
+      "id": "N1",
+      "parent": "NK",
+      "markers": [
+        "CD8",
+        "CD16",
+        "CD38"
+      ],
+      "pattern": [
+        0,
+        1,
+        1
+      ],
+      "rationale": "CD16+ CD38+ NK subset"
+    },
+    {
+      "id": "N2",
+      "parent": "NK",
+      "markers": [
+        "CD16",
+        "CD45RA",
+        "CD11c"
+      ],
+      "pattern": [
+        1,
+        1,
+        0
+      ],
+      "rationale": "CD16+ CD45RA+ NK subset"
+    }
+  ],
+  "claim_goal": {
+    "type": "frequency_precision",
+    "epsilon": 0.02,
+    "ci": "Clopper-Pearson 95%"
+  },
+  "initial_design": {
+    "type": "random disjoint partition of non-backbone markers into tubes",
+    "n_tubes": 4,
+    "capacity": 6,
+    "replicates": 10,
+    "seed": 7
+  },
+  "followup": {
+    "capacity": 6,
+    "r_grid": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "methods": [
+      "random",
+      "naive_packing",
+      "greedy",
+      "greedy+anneal",
+      "uniform_LJCR",
+      "ilp"
+    ],
+    "replicates": 5
+  },
+  "exploratory": {
+    "q1_all_triples": true,
+    "note": "exploratory scan reported separately; not used to choose primary claims"
+  },
+  "amends": "levine32_v2",
+  "amendment": "Threshold rule changed after the v1 quick run (2 replicates) showed that the 2-GMM split the CyTOF zero spike from non-zero values (cuts ~0.02 for CD4/CD133/CD14/CD15/CD117), and that dBIC>=10 is uninformative at n~50k.  v2: values <= 0.05 are negative and excluded from the fit; 2-GMM on the rest; reliable iff Ashman's D >= 1.5 and upper weight >= 0.03 (D_min chosen after seeing the per-marker D diagnostic; textbook value 2 would drop 13/32 markers in mixed bone marrow).  Claims, splits, designs, budgets unchanged.",
+  "tube_shift": {
+    "tube": 0,
+    "markers": "nonbackbone",
+    "delta": 0.5
+  }
+}

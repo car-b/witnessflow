@@ -1,0 +1,12 @@
+design	r	covered	lam_min	lam_max	cv	frac0	min_share	share_bound	covered_best
+OA64 (hyperoval, GF(4))	64	1.0	1.0	1.0	0.0	0.0	0.015625	0.015625	
+OA64 x2	128	1.0	2.0	2.0	0.0	0.0	0.015625	0.015625	
+random transversal (200 seeds)	64	0.6347812500000001	0.0	5.53	0.991960642029144	0.36521875000000004	0.0	0.015625	
+random transversal (200 seeds)	128	0.8677070312500001	0.0	7.965	0.7010105633477858	0.13229296875000002	0.0	0.015625	
+random transversal (200 seeds)	192	0.9504765625	0.0	10.045	0.5748590615414924	0.049523437499999996	0.0	0.015625	
+random transversal (200 seeds)	256	0.9819374999999999	0.0	11.785	0.49727301084747294	0.0180625	0.0	0.015625	
+random transversal (200 seeds)	320	0.9933164062500001	0.0	13.625	0.4442179952583979	0.0066835937499999986	0.0	0.015625	
+anneal search, 200000 iters (3 seeds; mean / best)	64	1.0							1.0
+anneal search, 1000000 iters (3 seeds; mean / best)	64	1.0							1.0
+anneal search, 300k iters, seed 0	66	1.0							
+(reference) La Jolla C(24,6,3), all 2024 triples, ignores families	116								

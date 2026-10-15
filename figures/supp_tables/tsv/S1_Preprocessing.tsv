@@ -1,0 +1,76 @@
+dataset	protocol_id	step	parameter	value	unit	source_id	source_key
+Levine-32	levine32_v2	input	file	data/raw/Levine32/Levine_32dim_notransform.fcs	path	witnessflow/protocols/levine32_v2.json	dataset.file
+Levine-32	levine32_v2	input	sha256	2306dc06200bc3c05f6697ec7446e83c1777668a3392e1de8b1ce511358e100d	hex	witnessflow/protocols/levine32_v2.json	dataset.sha256
+Levine-32	levine32_v2	input	sample_column	individual		witnessflow/protocols/levine32_v2.json	dataset.sample_column
+Levine-32	levine32_v2	input	exclude_columns	Time, Cell_length, DNA1, DNA2, Viability, file_number, event_number, label, individual	parameter names	witnessflow/protocols/levine32_v2.json	dataset.exclude_columns
+Levine-32	levine32_v2	transform	transform	asinh(x/5)		witnessflow/protocols/levine32_v2.json	dataset.transform
+Levine-32	levine32_v2	event filter	min_events / dead-cell filter	none (all events kept)		witnessflow/protocols/levine32_v2.json	dataset (no filter keys)
+Levine-32	levine32_v2	split	fraction_calibration	0.2	fraction (0-1)	witnessflow/protocols/levine32_v2.json	split.calibration
+Levine-32	levine32_v2	split	fraction_initial	0.4	fraction (0-1)	witnessflow/protocols/levine32_v2.json	split.initial
+Levine-32	levine32_v2	split	fraction_followup	0.2	fraction (0-1)	witnessflow/protocols/levine32_v2.json	split.followup
+Levine-32	levine32_v2	split	fraction_reference	0.2	fraction (0-1)	witnessflow/protocols/levine32_v2.json	split.reference
+Levine-32	levine32_v2	split	split_unit	individual		witnessflow/protocols/levine32_v2.json	split.by
+Levine-32	levine32_v2	split	split_seed	20261008	integer seed	witnessflow/protocols/levine32_v2.json	split.seed
+Levine-32	levine32_v2	threshold rule	method	zero-spike-excluded 2-GMM		witnessflow/protocols/levine32_v2.json	threshold_rule.method
+Levine-32	levine32_v2	threshold rule	zero_cut	0.05	asinh(x/5) units	witnessflow/protocols/levine32_v2.json	threshold_rule.zero_cut
+Levine-32	levine32_v2	threshold rule	D_min	1.5	Ashman's D	witnessflow/protocols/levine32_v2.json	threshold_rule.D_min
+Levine-32	levine32_v2	threshold rule	w_min	0.03	mixture weight (0-1)	witnessflow/protocols/levine32_v2.json	threshold_rule.w_min
+Levine-32	levine32_v2	threshold rule	sensitivity_offsets	-0.25, -0.125, 0.0, 0.125, 0.25	asinh(x/5) units	witnessflow/protocols/levine32_v2.json	threshold_rule.sensitivity_offsets
+Levine-32	levine32_v2	gating	backbone	CD45, CD3, CD19, CD33, CD34, CD14, CD7, CD11b	marker names (8, measured in every tube)	witnessflow/protocols/levine32_v2.json	backbone
+Levine-32	levine32_v2	gating	micro_strata primary_K	1	strata	witnessflow/protocols/levine32_v2.json	micro_strata.primary_K
+Levine-32	levine32_v2	gating	micro_strata sensitivity_K	4, 8	strata	witnessflow/protocols/levine32_v2.json	micro_strata.sensitivity_K
+Levine-32	levine32_v2	initial design	type	random disjoint partition of non-backbone markers into tubes		witnessflow/protocols/levine32_v2.json	initial_design.type
+Levine-32	levine32_v2	initial design	n_tubes	4	tubes	witnessflow/protocols/levine32_v2.json	initial_design.n_tubes
+Levine-32	levine32_v2	initial design	capacity	6	candidate markers per tube	witnessflow/protocols/levine32_v2.json	initial_design.capacity
+Levine-32	levine32_v2	initial design	replicates	10	random partitions	witnessflow/protocols/levine32_v2.json	initial_design.replicates
+Levine-32	levine32_v2	initial design	seed	7	integer seed	witnessflow/protocols/levine32_v2.json	initial_design.seed
+Levine-32	levine32_v2	follow-up design	capacity	6	candidate markers per tube	witnessflow/protocols/levine32_v2.json	followup.capacity
+Levine-32	levine32_v2	follow-up design	r_grid	1, 2, 3, 4, 6	added follow-up tubes	witnessflow/protocols/levine32_v2.json	followup.r_grid
+Levine-32	levine32_v2	follow-up design	methods	random, naive_packing, greedy, greedy+anneal, uniform_LJCR, ilp		witnessflow/protocols/levine32_v2.json	followup.methods
+Levine-32	levine32_v2	follow-up design	replicates	5	design replicates (random-type methods)	witnessflow/protocols/levine32_v2.json	followup.replicates
+Levine-32	levine32_v2	claim goal	type	frequency_precision		witnessflow/protocols/levine32_v2.json	claim_goal.type
+Levine-32	levine32_v2	claim goal	epsilon	0.02	frequency (0-1); protocol precision target	witnessflow/protocols/levine32_v2.json	claim_goal.epsilon
+Levine-32	levine32_v2	claim goal	ci	Clopper-Pearson 95%		witnessflow/protocols/levine32_v2.json	claim_goal.ci
+WINGMEN	wingmen_v1	input	dir	data/raw/WINGMEN	path	witnessflow/protocols/wingmen_v1.json	dataset.dir
+WINGMEN	wingmen_v1	input	pattern	PreWN*.fcs		witnessflow/protocols/wingmen_v1.json	dataset.pattern
+WINGMEN	wingmen_v1	input	min_events	30000	events per file	witnessflow/protocols/wingmen_v1.json	dataset.min_events
+WINGMEN	wingmen_v1	input	marker naming	marker = $PnS with the '<mass><element>_' prefix removed		witnessflow/src/datasets.py	strip_metal()
+WINGMEN	wingmen_v1	input	markers	CD39, CD19, CD127, CD69, CD4, IgD, CD11c, CD16, CD38, BDCA1, CD123, CD66b, TIGIT, CD3, CD36, TCRgd, CCR4, CCR7, CD14, CTLA4, FoxP3, CD56, CD161, CD45RO, CD141, CD27, CD8a, CD25, CD45RA, CD20, ki67, HLADR, PD1, PDL1, CD57, GranzymeB, CD11b	marker names	witnessflow/protocols/wingmen_v1.json	dataset.markers
+WINGMEN	wingmen_v1	transform	cofactor	5.0	asinh(x/cofactor)	witnessflow/protocols/wingmen_v1.json	dataset.cofactor
+WINGMEN	wingmen_v1	event filter	dead_channel	dead	marker name	witnessflow/protocols/wingmen_v1.json	dataset.dead_channel
+WINGMEN	wingmen_v1	event filter	dead_max_asinh	4.0	asinh(x/5) units; cells above removed	witnessflow/protocols/wingmen_v1.json	dataset.dead_max_asinh
+WINGMEN	wingmen_v1	split	fraction_calibration	0.2	fraction (0-1)	witnessflow/protocols/wingmen_v1.json	split.calibration
+WINGMEN	wingmen_v1	split	fraction_initial	0.4	fraction (0-1)	witnessflow/protocols/wingmen_v1.json	split.initial
+WINGMEN	wingmen_v1	split	fraction_followup	0.2	fraction (0-1)	witnessflow/protocols/wingmen_v1.json	split.followup
+WINGMEN	wingmen_v1	split	fraction_reference	0.2	fraction (0-1)	witnessflow/protocols/wingmen_v1.json	split.reference
+WINGMEN	wingmen_v1	split	split_unit	sample		witnessflow/protocols/wingmen_v1.json	split.by
+WINGMEN	wingmen_v1	split	split_seed	20261009	integer seed	witnessflow/protocols/wingmen_v1.json	split.seed
+WINGMEN	wingmen_v1	threshold rule	method	zero-spike-excluded 2-GMM (as levine32_v2)		witnessflow/protocols/wingmen_v1.json	threshold_rule.method
+WINGMEN	wingmen_v1	threshold rule	zero_cut	0.05	asinh(x/5) units	witnessflow/protocols/wingmen_v1.json	threshold_rule.zero_cut
+WINGMEN	wingmen_v1	threshold rule	D_min	1.5	Ashman's D	witnessflow/protocols/wingmen_v1.json	threshold_rule.D_min
+WINGMEN	wingmen_v1	threshold rule	w_min	0.03	mixture weight (0-1)	witnessflow/protocols/wingmen_v1.json	threshold_rule.w_min
+WINGMEN	wingmen_v1	threshold rule	sensitivity_offsets	-0.25, -0.125, 0.0, 0.125, 0.25	asinh(x/5) units	witnessflow/protocols/wingmen_v1.json	threshold_rule.sensitivity_offsets
+WINGMEN	wingmen_v1	gating	backbone	CD3, CD4, CD8a, CD19, CD14, CD56, CD16, CD11c	marker names (8, measured in every tube)	witnessflow/protocols/wingmen_v1.json	backbone
+WINGMEN	wingmen_v1	gating	micro_strata primary_K	1	strata	witnessflow/protocols/wingmen_v1.json	micro_strata.primary_K
+WINGMEN	wingmen_v1	gating	micro_strata sensitivity_K	4	strata	witnessflow/protocols/wingmen_v1.json	micro_strata.sensitivity_K
+WINGMEN	wingmen_v1	initial design	type	random disjoint partition of non-backbone markers into tubes		witnessflow/protocols/wingmen_v1.json	initial_design.type
+WINGMEN	wingmen_v1	initial design	n_tubes	4	tubes	witnessflow/protocols/wingmen_v1.json	initial_design.n_tubes
+WINGMEN	wingmen_v1	initial design	capacity	8	candidate markers per tube	witnessflow/protocols/wingmen_v1.json	initial_design.capacity
+WINGMEN	wingmen_v1	initial design	replicates	10	random partitions	witnessflow/protocols/wingmen_v1.json	initial_design.replicates
+WINGMEN	wingmen_v1	initial design	seed	7	integer seed	witnessflow/protocols/wingmen_v1.json	initial_design.seed
+WINGMEN	wingmen_v1	follow-up design	capacity	6	candidate markers per tube	witnessflow/protocols/wingmen_v1.json	followup.capacity
+WINGMEN	wingmen_v1	follow-up design	r_grid	1, 2, 3, 4, 6	added follow-up tubes	witnessflow/protocols/wingmen_v1.json	followup.r_grid
+WINGMEN	wingmen_v1	follow-up design	methods	random, naive_packing, greedy, greedy+anneal, uniform_LJCR, ilp		witnessflow/protocols/wingmen_v1.json	followup.methods
+WINGMEN	wingmen_v1	follow-up design	replicates	5	design replicates (random-type methods)	witnessflow/protocols/wingmen_v1.json	followup.replicates
+WINGMEN	wingmen_v1	claim goal	type	frequency_precision		witnessflow/protocols/wingmen_v1.json	claim_goal.type
+WINGMEN	wingmen_v1	claim goal	epsilon	0.02	frequency (0-1); protocol precision target	witnessflow/protocols/wingmen_v1.json	claim_goal.epsilon
+WINGMEN	wingmen_v1	claim goal	ci	Clopper-Pearson 95%		witnessflow/protocols/wingmen_v1.json	claim_goal.ci
+WINGMEN	wingmen_v1	replay tolerances (exploratory)	e3.eps	CD4T: 0.03, 0.05; CD8T: 0.05, 0.07	frequency (0-1); replay tolerance, not protocol epsilon	witnessflow/protocols/wingmen_v1.json	e3.eps
+CytoNorm	none	input	files	data/raw/CytoNorm/*.fcs (6 files)	path	witnessflow/src/real_batch.py	files = sorted(glob(...))
+CytoNorm	none	input	parameters kept	$PnS differs from $PnN; not Time, Event_length, beadDist, DNA1, DNA2 or BC*		witnessflow/src/real_batch.py	keep / skip
+CytoNorm	none	transform	transform	asinh(x/5)		witnessflow/src/real_batch.py	np.arcsinh(X[:, keep] / 5.0)
+CytoNorm	none	event filter	min_events / dead-cell filter	none (all events kept)		witnessflow/src/real_batch.py	no filter
+CytoNorm	none	threshold rule	method	zero-spike-excluded 2-GMM on the pooled 6 files		witnessflow/src/real_batch.py	replay.thresholds_v2(pooled, ...)
+CytoNorm	none	threshold rule	zero_cut	0.05	asinh(x/5) units	witnessflow/src/real_batch.py	thresholds_v2 rule
+CytoNorm	none	threshold rule	D_min	1.5	Ashman's D	witnessflow/src/real_batch.py	thresholds_v2 rule
+CytoNorm	none	threshold rule	w_min	0.03	mixture weight (0-1)	witnessflow/src/real_batch.py	thresholds_v2 rule

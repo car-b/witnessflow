@@ -1,0 +1,223 @@
+block	dataset	item	group	value	unit	note
+A_files	wingmen_v1	PreWN01.fcs	Pre	67492.0	events ($TOT)	used
+A_files	wingmen_v1	PreWN02.fcs	Pre	48370.0	events ($TOT)	used
+A_files	wingmen_v1	PreWN03.fcs	Pre	7278.0	events ($TOT)	< min_events 30000
+A_files	wingmen_v1	PreWN04.fcs	Pre	4324.0	events ($TOT)	< min_events 30000
+A_files	wingmen_v1	PreWN05.fcs	Pre	393.0	events ($TOT)	< min_events 30000
+A_files	wingmen_v1	PreWN06.fcs	Pre	33751.0	events ($TOT)	used
+A_files	wingmen_v1	PreWN07.fcs	Pre	6567.0	events ($TOT)	< min_events 30000
+A_files	wingmen_v1	PreWN08.fcs	Pre	28060.0	events ($TOT)	< min_events 30000
+A_files	wingmen_v1	PreWN09.fcs	Pre	39528.0	events ($TOT)	used
+A_files	wingmen_v1	PreWN10.fcs	Pre	35627.0	events ($TOT)	used
+A_files	wingmen_v1	PreWN11.fcs	Pre	73097.0	events ($TOT)	used
+A_files	wingmen_v1	PreWN12.fcs	Pre	148.0	events ($TOT)	< min_events 30000
+A_files	wingmen_v1	PreWN13.fcs	Pre	5713.0	events ($TOT)	< min_events 30000
+A_files	wingmen_v1	PreWN14.fcs	Pre	44828.0	events ($TOT)	used
+A_files	wingmen_v1	PreWN15.fcs	Pre	421.0	events ($TOT)	< min_events 30000
+A_files	wingmen_v1	PreWN16.fcs	Pre	2704.0	events ($TOT)	< min_events 30000
+A_files	wingmen_v1	PreWN17.fcs	Pre	30672.0	events ($TOT)	used
+A_files	wingmen_v1	PreWN18.fcs	Pre	49498.0	events ($TOT)	used
+A_files	wingmen_v1	PreWN19.fcs	Pre	160953.0	events ($TOT)	used
+A_files	wingmen_v1	PreWN20.fcs	Pre	5908.0	events ($TOT)	< min_events 30000
+A_files	wingmen_v1	PreWN21.fcs	Pre	136418.0	events ($TOT)	used
+A_files	wingmen_v1	PreWN22.fcs	Pre	877.0	events ($TOT)	< min_events 30000
+A_files	wingmen_v1	PreWN23.fcs	Pre	45279.0	events ($TOT)	used
+A_files	wingmen_v1	PreWN24.fcs	Pre	7057.0	events ($TOT)	< min_events 30000
+A_files	wingmen_v1	PreWN25.fcs	Pre	22291.0	events ($TOT)	< min_events 30000
+A_files	wingmen_v1	PreWN26.fcs	Pre	13711.0	events ($TOT)	< min_events 30000
+A_files	wingmen_v1	PreWN27.fcs	Pre	32453.0	events ($TOT)	used
+A_files	wingmen_v1	PostWN01.fcs	Post	3311.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN02.fcs	Post	136015.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN03.fcs	Post	16525.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN04.fcs	Post	1630.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN05.fcs	Post	15813.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN06.fcs	Post	23371.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN07.fcs	Post	1550.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN08.fcs	Post	16472.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN09.fcs	Post	33186.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN10.fcs	Post	11491.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN11.fcs	Post	37535.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN12.fcs	Post	32151.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN13.fcs	Post	15915.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN14.fcs	Post	58453.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN15.fcs	Post	117130.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN16.fcs	Post	140555.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN17.fcs	Post	655.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN18.fcs	Post	46677.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN19.fcs	Post	41358.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN20.fcs	Post	15315.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN21.fcs	Post	74233.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN22.fcs	Post	1873.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN23.fcs	Post	4252.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN24.fcs	Post	53455.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN25.fcs	Post	79.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN26.fcs	Post	3817.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+A_files	wingmen_v1	PostWN27.fcs	Post	25705.0	events ($TOT)	Post-treatment files not in protocol (pattern PreWN*.fcs)
+B_split	levine32_v2	individual 1 Levine_32dim_notransform.fcs	calibration	38270.0	cells after QC	events_raw=191351; cells_qc=191351
+B_split	levine32_v2	individual 1 Levine_32dim_notransform.fcs	initial	76540.0	cells after QC	events_raw=191351; cells_qc=191351
+B_split	levine32_v2	individual 1 Levine_32dim_notransform.fcs	followup	38270.0	cells after QC	events_raw=191351; cells_qc=191351
+B_split	levine32_v2	individual 1 Levine_32dim_notransform.fcs	reference	38271.0	cells after QC	events_raw=191351; cells_qc=191351
+B_split	levine32_v2	individual 2 Levine_32dim_notransform.fcs	calibration	14855.0	cells after QC	events_raw=74276; cells_qc=74276
+B_split	levine32_v2	individual 2 Levine_32dim_notransform.fcs	initial	29710.0	cells after QC	events_raw=74276; cells_qc=74276
+B_split	levine32_v2	individual 2 Levine_32dim_notransform.fcs	followup	14855.0	cells after QC	events_raw=74276; cells_qc=74276
+B_split	levine32_v2	individual 2 Levine_32dim_notransform.fcs	reference	14856.0	cells after QC	events_raw=74276; cells_qc=74276
+B_split	wingmen_v1	donor 0 PreWN01.fcs	calibration	13472.0	cells after QC	events_raw=67492; cells_qc=67359
+B_split	wingmen_v1	donor 0 PreWN01.fcs	initial	26944.0	cells after QC	events_raw=67492; cells_qc=67359
+B_split	wingmen_v1	donor 0 PreWN01.fcs	followup	13472.0	cells after QC	events_raw=67492; cells_qc=67359
+B_split	wingmen_v1	donor 0 PreWN01.fcs	reference	13471.0	cells after QC	events_raw=67492; cells_qc=67359
+B_split	wingmen_v1	donor 1 PreWN02.fcs	calibration	9649.0	cells after QC	events_raw=48370; cells_qc=48244
+B_split	wingmen_v1	donor 1 PreWN02.fcs	initial	19298.0	cells after QC	events_raw=48370; cells_qc=48244
+B_split	wingmen_v1	donor 1 PreWN02.fcs	followup	9649.0	cells after QC	events_raw=48370; cells_qc=48244
+B_split	wingmen_v1	donor 1 PreWN02.fcs	reference	9648.0	cells after QC	events_raw=48370; cells_qc=48244
+B_split	wingmen_v1	donor 2 PreWN06.fcs	calibration	6743.0	cells after QC	events_raw=33751; cells_qc=33716
+B_split	wingmen_v1	donor 2 PreWN06.fcs	initial	13486.0	cells after QC	events_raw=33751; cells_qc=33716
+B_split	wingmen_v1	donor 2 PreWN06.fcs	followup	6743.0	cells after QC	events_raw=33751; cells_qc=33716
+B_split	wingmen_v1	donor 2 PreWN06.fcs	reference	6744.0	cells after QC	events_raw=33751; cells_qc=33716
+B_split	wingmen_v1	donor 3 PreWN09.fcs	calibration	7892.0	cells after QC	events_raw=39528; cells_qc=39459
+B_split	wingmen_v1	donor 3 PreWN09.fcs	initial	15784.0	cells after QC	events_raw=39528; cells_qc=39459
+B_split	wingmen_v1	donor 3 PreWN09.fcs	followup	7892.0	cells after QC	events_raw=39528; cells_qc=39459
+B_split	wingmen_v1	donor 3 PreWN09.fcs	reference	7891.0	cells after QC	events_raw=39528; cells_qc=39459
+B_split	wingmen_v1	donor 4 PreWN10.fcs	calibration	7116.0	cells after QC	events_raw=35627; cells_qc=35578
+B_split	wingmen_v1	donor 4 PreWN10.fcs	initial	14231.0	cells after QC	events_raw=35627; cells_qc=35578
+B_split	wingmen_v1	donor 4 PreWN10.fcs	followup	7116.0	cells after QC	events_raw=35627; cells_qc=35578
+B_split	wingmen_v1	donor 4 PreWN10.fcs	reference	7115.0	cells after QC	events_raw=35627; cells_qc=35578
+B_split	wingmen_v1	donor 5 PreWN11.fcs	calibration	14596.0	cells after QC	events_raw=73097; cells_qc=72982
+B_split	wingmen_v1	donor 5 PreWN11.fcs	initial	29193.0	cells after QC	events_raw=73097; cells_qc=72982
+B_split	wingmen_v1	donor 5 PreWN11.fcs	followup	14596.0	cells after QC	events_raw=73097; cells_qc=72982
+B_split	wingmen_v1	donor 5 PreWN11.fcs	reference	14597.0	cells after QC	events_raw=73097; cells_qc=72982
+B_split	wingmen_v1	donor 6 PreWN14.fcs	calibration	8949.0	cells after QC	events_raw=44828; cells_qc=44744
+B_split	wingmen_v1	donor 6 PreWN14.fcs	initial	17898.0	cells after QC	events_raw=44828; cells_qc=44744
+B_split	wingmen_v1	donor 6 PreWN14.fcs	followup	8949.0	cells after QC	events_raw=44828; cells_qc=44744
+B_split	wingmen_v1	donor 6 PreWN14.fcs	reference	8948.0	cells after QC	events_raw=44828; cells_qc=44744
+B_split	wingmen_v1	donor 7 PreWN17.fcs	calibration	6122.0	cells after QC	events_raw=30672; cells_qc=30612
+B_split	wingmen_v1	donor 7 PreWN17.fcs	initial	12245.0	cells after QC	events_raw=30672; cells_qc=30612
+B_split	wingmen_v1	donor 7 PreWN17.fcs	followup	6122.0	cells after QC	events_raw=30672; cells_qc=30612
+B_split	wingmen_v1	donor 7 PreWN17.fcs	reference	6123.0	cells after QC	events_raw=30672; cells_qc=30612
+B_split	wingmen_v1	donor 8 PreWN18.fcs	calibration	9885.0	cells after QC	events_raw=49498; cells_qc=49423
+B_split	wingmen_v1	donor 8 PreWN18.fcs	initial	19769.0	cells after QC	events_raw=49498; cells_qc=49423
+B_split	wingmen_v1	donor 8 PreWN18.fcs	followup	9885.0	cells after QC	events_raw=49498; cells_qc=49423
+B_split	wingmen_v1	donor 8 PreWN18.fcs	reference	9884.0	cells after QC	events_raw=49498; cells_qc=49423
+B_split	wingmen_v1	donor 9 PreWN19.fcs	calibration	32152.0	cells after QC	events_raw=160953; cells_qc=160758
+B_split	wingmen_v1	donor 9 PreWN19.fcs	initial	64303.0	cells after QC	events_raw=160953; cells_qc=160758
+B_split	wingmen_v1	donor 9 PreWN19.fcs	followup	32152.0	cells after QC	events_raw=160953; cells_qc=160758
+B_split	wingmen_v1	donor 9 PreWN19.fcs	reference	32151.0	cells after QC	events_raw=160953; cells_qc=160758
+B_split	wingmen_v1	donor 10 PreWN21.fcs	calibration	27216.0	cells after QC	events_raw=136418; cells_qc=136081
+B_split	wingmen_v1	donor 10 PreWN21.fcs	initial	54432.0	cells after QC	events_raw=136418; cells_qc=136081
+B_split	wingmen_v1	donor 10 PreWN21.fcs	followup	27216.0	cells after QC	events_raw=136418; cells_qc=136081
+B_split	wingmen_v1	donor 10 PreWN21.fcs	reference	27217.0	cells after QC	events_raw=136418; cells_qc=136081
+B_split	wingmen_v1	donor 11 PreWN23.fcs	calibration	9009.0	cells after QC	events_raw=45279; cells_qc=45045
+B_split	wingmen_v1	donor 11 PreWN23.fcs	initial	18018.0	cells after QC	events_raw=45279; cells_qc=45045
+B_split	wingmen_v1	donor 11 PreWN23.fcs	followup	9009.0	cells after QC	events_raw=45279; cells_qc=45045
+B_split	wingmen_v1	donor 11 PreWN23.fcs	reference	9009.0	cells after QC	events_raw=45279; cells_qc=45045
+B_split	wingmen_v1	donor 12 PreWN27.fcs	calibration	6463.0	cells after QC	events_raw=32453; cells_qc=32313
+B_split	wingmen_v1	donor 12 PreWN27.fcs	initial	12925.0	cells after QC	events_raw=32453; cells_qc=32313
+B_split	wingmen_v1	donor 12 PreWN27.fcs	followup	6463.0	cells after QC	events_raw=32453; cells_qc=32313
+B_split	wingmen_v1	donor 12 PreWN27.fcs	reference	6462.0	cells after QC	events_raw=32453; cells_qc=32313
+per_donor_CD4T	wingmen_v1	donor 0 PreWN01.fcs	followup	4921.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 0 PreWN01.fcs	reference	5076.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 1 PreWN02.fcs	followup	3193.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 1 PreWN02.fcs	reference	3249.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 2 PreWN06.fcs	followup	2619.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 2 PreWN06.fcs	reference	2613.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 3 PreWN09.fcs	followup	2588.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 3 PreWN09.fcs	reference	2597.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 4 PreWN10.fcs	followup	3698.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 4 PreWN10.fcs	reference	3655.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 5 PreWN11.fcs	followup	6286.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 5 PreWN11.fcs	reference	6366.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 6 PreWN14.fcs	followup	3263.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 6 PreWN14.fcs	reference	3193.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 7 PreWN17.fcs	followup	2287.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 7 PreWN17.fcs	reference	2315.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 8 PreWN18.fcs	followup	4205.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 8 PreWN18.fcs	reference	4388.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 9 PreWN19.fcs	followup	13309.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 9 PreWN19.fcs	reference	13191.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 10 PreWN21.fcs	followup	7898.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 10 PreWN21.fcs	reference	7805.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 11 PreWN23.fcs	followup	2487.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 11 PreWN23.fcs	reference	2517.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 12 PreWN27.fcs	followup	2064.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD4T	wingmen_v1	donor 12 PreWN27.fcs	reference	1978.0	CD4T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 0 PreWN01.fcs	followup	1344.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 0 PreWN01.fcs	reference	1322.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 1 PreWN02.fcs	followup	1728.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 1 PreWN02.fcs	reference	1837.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 2 PreWN06.fcs	followup	1442.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 2 PreWN06.fcs	reference	1497.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 3 PreWN09.fcs	followup	715.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 3 PreWN09.fcs	reference	727.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 4 PreWN10.fcs	followup	1321.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 4 PreWN10.fcs	reference	1280.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 5 PreWN11.fcs	followup	1678.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 5 PreWN11.fcs	reference	1607.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 6 PreWN14.fcs	followup	410.0	CD8T cells	included=False; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 6 PreWN14.fcs	reference	384.0	CD8T cells	included=False; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 7 PreWN17.fcs	followup	1145.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 7 PreWN17.fcs	reference	1241.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 8 PreWN18.fcs	followup	1491.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 8 PreWN18.fcs	reference	1499.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 9 PreWN19.fcs	followup	6288.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 9 PreWN19.fcs	reference	6247.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 10 PreWN21.fcs	followup	3375.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 10 PreWN21.fcs	reference	3329.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 11 PreWN23.fcs	followup	2096.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 11 PreWN23.fcs	reference	2203.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 12 PreWN27.fcs	followup	506.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+per_donor_CD8T	wingmen_v1	donor 12 PreWN27.fcs	reference	511.0	CD8T cells	included=True; e5b: >= 500 parent cells in follow-up and in reference split
+C_parents	levine32_v2	HSPC	calibration	2779.0	parent cells	gate CD34/-CD3-CD19
+C_parents	levine32_v2	HSPC	initial	5472.0	parent cells	gate CD34/-CD3-CD19
+C_parents	levine32_v2	HSPC	followup	2715.0	parent cells	gate CD34/-CD3-CD19
+C_parents	levine32_v2	HSPC	reference	2705.0	parent cells	gate CD34/-CD3-CD19
+C_pi	levine32_v2	HSPC	initial	0.0515011764705882	fraction of all initial cells	n_initial=5472 / all initial cells 106250
+C_parents	levine32_v2	T	calibration	21969.0	parent cells	gate CD3/-CD19
+C_parents	levine32_v2	T	initial	43620.0	parent cells	gate CD3/-CD19
+C_parents	levine32_v2	T	followup	21974.0	parent cells	gate CD3/-CD19
+C_parents	levine32_v2	T	reference	21977.0	parent cells	gate CD3/-CD19
+C_pi	levine32_v2	T	initial	0.4105411764705882	fraction of all initial cells	n_initial=43620 / all initial cells 106250
+C_parents	levine32_v2	B	calibration	11325.0	parent cells	gate CD19/-CD3
+C_parents	levine32_v2	B	initial	22911.0	parent cells	gate CD19/-CD3
+C_parents	levine32_v2	B	followup	11286.0	parent cells	gate CD19/-CD3
+C_parents	levine32_v2	B	reference	11199.0	parent cells	gate CD19/-CD3
+C_pi	levine32_v2	B	initial	0.2156329411764705	fraction of all initial cells	n_initial=22911 / all initial cells 106250
+C_parents	levine32_v2	Mono	calibration	2236.0	parent cells	gate CD33+CD14/-CD3-CD19
+C_parents	levine32_v2	Mono	initial	4506.0	parent cells	gate CD33+CD14/-CD3-CD19
+C_parents	levine32_v2	Mono	followup	2189.0	parent cells	gate CD33+CD14/-CD3-CD19
+C_parents	levine32_v2	Mono	reference	2215.0	parent cells	gate CD33+CD14/-CD3-CD19
+C_pi	levine32_v2	Mono	initial	0.0424094117647058	fraction of all initial cells	n_initial=4506 / all initial cells 106250
+C_parents	levine32_v2	NK	calibration	3308.0	parent cells	gate CD7/-CD3-CD19-CD33
+C_parents	levine32_v2	NK	initial	6495.0	parent cells	gate CD7/-CD3-CD19-CD33
+C_parents	levine32_v2	NK	followup	3358.0	parent cells	gate CD7/-CD3-CD19-CD33
+C_parents	levine32_v2	NK	reference	3265.0	parent cells	gate CD7/-CD3-CD19-CD33
+C_pi	levine32_v2	NK	initial	0.0611294117647058	fraction of all initial cells	n_initial=6495 / all initial cells 106250
+C_parents	wingmen_v1	CD4T	calibration	59069.0	parent cells	gate CD3+CD4/-CD8a-CD19
+C_parents	wingmen_v1	CD4T	initial	117992.0	parent cells	gate CD3+CD4/-CD8a-CD19
+C_parents	wingmen_v1	CD4T	followup	58818.0	parent cells	gate CD3+CD4/-CD8a-CD19
+C_parents	wingmen_v1	CD4T	reference	58943.0	parent cells	gate CD3+CD4/-CD8a-CD19
+C_pi	wingmen_v1	CD4T	initial	0.3704312991718101	fraction of all initial cells	n_initial=117992 / all initial cells 318526
+C_parents	wingmen_v1	CD8T	calibration	23294.0	parent cells	gate CD3+CD8a/-CD4-CD19
+C_parents	wingmen_v1	CD8T	initial	46706.0	parent cells	gate CD3+CD8a/-CD4-CD19
+C_parents	wingmen_v1	CD8T	followup	23539.0	parent cells	gate CD3+CD8a/-CD4-CD19
+C_parents	wingmen_v1	CD8T	reference	23684.0	parent cells	gate CD3+CD8a/-CD4-CD19
+C_pi	wingmen_v1	CD8T	initial	0.1466316721397939	fraction of all initial cells	n_initial=46706 / all initial cells 318526
+C_parents	wingmen_v1	B	calibration	12512.0	parent cells	gate CD19/-CD3
+C_parents	wingmen_v1	B	initial	24698.0	parent cells	gate CD19/-CD3
+C_parents	wingmen_v1	B	followup	12299.0	parent cells	gate CD19/-CD3
+C_parents	wingmen_v1	B	reference	12382.0	parent cells	gate CD19/-CD3
+C_pi	wingmen_v1	B	initial	0.0775384113070832	fraction of all initial cells	n_initial=24698 / all initial cells 318526
+C_parents	wingmen_v1	NK	calibration	18742.0	parent cells	gate CD56/-CD3-CD19-CD14
+C_parents	wingmen_v1	NK	initial	37496.0	parent cells	gate CD56/-CD3-CD19-CD14
+C_parents	wingmen_v1	NK	followup	18745.0	parent cells	gate CD56/-CD3-CD19-CD14
+C_parents	wingmen_v1	NK	reference	18654.0	parent cells	gate CD56/-CD3-CD19-CD14
+C_pi	wingmen_v1	NK	initial	0.1177172350137822	fraction of all initial cells	n_initial=37496 / all initial cells 318526
+C_parents	wingmen_v1	Mono	calibration	19325.0	parent cells	gate CD14/-CD3-CD19-CD56
+C_parents	wingmen_v1	Mono	initial	38880.0	parent cells	gate CD14/-CD3-CD19-CD56
+C_parents	wingmen_v1	Mono	followup	19381.0	parent cells	gate CD14/-CD3-CD19-CD56
+C_parents	wingmen_v1	Mono	reference	19134.0	parent cells	gate CD14/-CD3-CD19-CD56
+C_pi	wingmen_v1	Mono	initial	0.1220622492355412	fraction of all initial cells	n_initial=38880 / all initial cells 318526
+C_rareB	levine32_v2	levine32_v2_rareB_1	initial	842.0	B cells after thinning	target_frac=0.01; seed=11; reference untouched 11199
+C_rareB	levine32_v2	levine32_v2_rareB_1	followup	423.0	B cells after thinning	target_frac=0.01; seed=11; reference untouched 11199
+C_rareB	levine32_v2	levine32_v2_rareB_0p3	initial	251.0	B cells after thinning	target_frac=0.003; seed=11; reference untouched 11199
+C_rareB	levine32_v2	levine32_v2_rareB_0p3	followup	126.0	B cells after thinning	target_frac=0.003; seed=11; reference untouched 11199
+C_rareB	levine32_v2	levine32_v2_rareB_0p1	initial	83.0	B cells after thinning	target_frac=0.001; seed=11; reference untouched 11199
+C_rareB	levine32_v2	levine32_v2_rareB_0p1	followup	42.0	B cells after thinning	target_frac=0.001; seed=11; reference untouched 11199

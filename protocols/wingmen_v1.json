@@ -1,0 +1,417 @@
+{
+  "protocol_id": "wingmen_v1",
+  "frozen_utc": "2026-10-09",
+  "frozen_before_unblinding": true,
+  "note": "Written after reading channel names and QC channels (DNA/dead/beads quantiles of 3 files) only; no protein-marker values inspected. Threshold rule = levine32_v2 rule fixed in advance.",
+  "dataset": {
+    "name": "WINGMEN_PBMC_pre",
+    "type": "fcs_dir",
+    "dir": "data/raw/WINGMEN",
+    "pattern": "PreWN*.fcs",
+    "min_events": 30000,
+    "source": "figshare 30174547, doi 10.6084/m9.figshare.30174547.v1, CC BY 4.0 (WINGMEN trial NCT05110495, PBMC CyTOF)",
+    "cofactor": 5.0,
+    "dead_channel": "dead",
+    "dead_max_asinh": 4.0,
+    "markers": [
+      "CD39",
+      "CD19",
+      "CD127",
+      "CD69",
+      "CD4",
+      "IgD",
+      "CD11c",
+      "CD16",
+      "CD38",
+      "BDCA1",
+      "CD123",
+      "CD66b",
+      "TIGIT",
+      "CD3",
+      "CD36",
+      "TCRgd",
+      "CCR4",
+      "CCR7",
+      "CD14",
+      "CTLA4",
+      "FoxP3",
+      "CD56",
+      "CD161",
+      "CD45RO",
+      "CD141",
+      "CD27",
+      "CD8a",
+      "CD25",
+      "CD45RA",
+      "CD20",
+      "ki67",
+      "HLADR",
+      "PD1",
+      "PDL1",
+      "CD57",
+      "GranzymeB",
+      "CD11b"
+    ]
+  },
+  "split": {
+    "calibration": 0.2,
+    "initial": 0.4,
+    "followup": 0.2,
+    "reference": 0.2,
+    "by": "sample",
+    "seed": 20261009
+  },
+  "threshold_rule": {
+    "method": "zero-spike-excluded 2-GMM (as levine32_v2)",
+    "zero_cut": 0.05,
+    "D_min": 1.5,
+    "w_min": 0.03,
+    "sensitivity_offsets": [
+      -0.25,
+      -0.125,
+      0.0,
+      0.125,
+      0.25
+    ]
+  },
+  "backbone": [
+    "CD3",
+    "CD4",
+    "CD8a",
+    "CD19",
+    "CD14",
+    "CD56",
+    "CD16",
+    "CD11c"
+  ],
+  "parents": {
+    "CD4T": {
+      "pos": [
+        "CD3",
+        "CD4"
+      ],
+      "neg": [
+        "CD8a",
+        "CD19"
+      ]
+    },
+    "CD8T": {
+      "pos": [
+        "CD3",
+        "CD8a"
+      ],
+      "neg": [
+        "CD4",
+        "CD19"
+      ]
+    },
+    "B": {
+      "pos": [
+        "CD19"
+      ],
+      "neg": [
+        "CD3"
+      ]
+    },
+    "NK": {
+      "pos": [
+        "CD56"
+      ],
+      "neg": [
+        "CD3",
+        "CD19",
+        "CD14"
+      ]
+    },
+    "Mono": {
+      "pos": [
+        "CD14"
+      ],
+      "neg": [
+        "CD3",
+        "CD19",
+        "CD56"
+      ]
+    }
+  },
+  "micro_strata": {
+    "primary_K": 1,
+    "sensitivity_K": [
+      4
+    ]
+  },
+  "claims": [
+    {
+      "id": "C1",
+      "parent": "CD4T",
+      "markers": [
+        "CD25",
+        "FoxP3",
+        "CD127"
+      ],
+      "pattern": [
+        1,
+        1,
+        0
+      ],
+      "rationale": "regulatory T cells (CD25+ FoxP3+ CD127-)"
+    },
+    {
+      "id": "C2",
+      "parent": "CD4T",
+      "markers": [
+        "CCR7",
+        "CD45RA",
+        "CD27"
+      ],
+      "pattern": [
+        1,
+        1,
+        1
+      ],
+      "rationale": "naive CD4 T"
+    },
+    {
+      "id": "C3",
+      "parent": "CD4T",
+      "markers": [
+        "HLADR",
+        "CD38",
+        "ki67"
+      ],
+      "pattern": [
+        1,
+        1,
+        1
+      ],
+      "rationale": "activated, proliferating CD4 T"
+    },
+    {
+      "id": "C4",
+      "parent": "CD4T",
+      "markers": [
+        "CD57",
+        "GranzymeB",
+        "CD27"
+      ],
+      "pattern": [
+        1,
+        1,
+        0
+      ],
+      "rationale": "cytotoxic CD4 T"
+    },
+    {
+      "id": "C5",
+      "parent": "CD4T",
+      "markers": [
+        "CCR4",
+        "CD45RO",
+        "CD161"
+      ],
+      "pattern": [
+        1,
+        1,
+        1
+      ],
+      "rationale": "Th17-like memory CD4 T"
+    },
+    {
+      "id": "D1",
+      "parent": "CD8T",
+      "markers": [
+        "CD45RA",
+        "CCR7",
+        "CD57"
+      ],
+      "pattern": [
+        1,
+        0,
+        1
+      ],
+      "rationale": "TEMRA CD8 T"
+    },
+    {
+      "id": "D2",
+      "parent": "CD8T",
+      "markers": [
+        "PD1",
+        "TIGIT",
+        "CD39"
+      ],
+      "pattern": [
+        1,
+        1,
+        1
+      ],
+      "rationale": "exhausted-like CD8 T"
+    },
+    {
+      "id": "D3",
+      "parent": "CD8T",
+      "markers": [
+        "HLADR",
+        "CD38",
+        "ki67"
+      ],
+      "pattern": [
+        1,
+        1,
+        1
+      ],
+      "rationale": "activated, proliferating CD8 T"
+    },
+    {
+      "id": "D4",
+      "parent": "CD8T",
+      "markers": [
+        "CCR7",
+        "CD45RA",
+        "CD27"
+      ],
+      "pattern": [
+        1,
+        1,
+        1
+      ],
+      "rationale": "naive CD8 T"
+    },
+    {
+      "id": "E1",
+      "parent": "B",
+      "markers": [
+        "IgD",
+        "CD27",
+        "CD38"
+      ],
+      "pattern": [
+        0,
+        1,
+        0
+      ],
+      "rationale": "switched memory B"
+    },
+    {
+      "id": "E2",
+      "parent": "B",
+      "markers": [
+        "IgD",
+        "CD27",
+        "CD20"
+      ],
+      "pattern": [
+        1,
+        0,
+        1
+      ],
+      "rationale": "naive B"
+    },
+    {
+      "id": "E3",
+      "parent": "B",
+      "markers": [
+        "CD27",
+        "CD38",
+        "CD20"
+      ],
+      "pattern": [
+        1,
+        1,
+        0
+      ],
+      "rationale": "plasmablasts"
+    },
+    {
+      "id": "F1",
+      "parent": "NK",
+      "markers": [
+        "CD57",
+        "GranzymeB",
+        "CD27"
+      ],
+      "pattern": [
+        1,
+        1,
+        0
+      ],
+      "rationale": "mature cytotoxic NK"
+    },
+    {
+      "id": "G1",
+      "parent": "Mono",
+      "markers": [
+        "HLADR",
+        "CD36",
+        "CD11b"
+      ],
+      "pattern": [
+        1,
+        1,
+        1
+      ],
+      "rationale": "classical-like monocytes"
+    },
+    {
+      "id": "G2",
+      "parent": "Mono",
+      "markers": [
+        "HLADR",
+        "PDL1",
+        "CD38"
+      ],
+      "pattern": [
+        1,
+        1,
+        1
+      ],
+      "rationale": "PD-L1+ activated monocytes"
+    }
+  ],
+  "claim_goal": {
+    "type": "frequency_precision",
+    "epsilon": 0.02,
+    "ci": "Clopper-Pearson 95%"
+  },
+  "initial_design": {
+    "type": "random disjoint partition of non-backbone markers into tubes",
+    "n_tubes": 4,
+    "capacity": 8,
+    "replicates": 10,
+    "seed": 7
+  },
+  "followup": {
+    "capacity": 6,
+    "r_grid": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "methods": [
+      "random",
+      "naive_packing",
+      "greedy",
+      "greedy+anneal",
+      "uniform_LJCR",
+      "ilp"
+    ],
+    "replicates": 5
+  },
+  "exploratory": {
+    "q1_all_triples": true
+  },
+  "e3": {
+    "eps": {
+      "CD4T": [
+        0.03,
+        0.05
+      ],
+      "CD8T": [
+        0.05,
+        0.07
+      ]
+    },
+    "note": "added 2026-10-09 after the quick replay; mirrors the Levine e3e choices (larger parent tighter eps)"
+  }
+}

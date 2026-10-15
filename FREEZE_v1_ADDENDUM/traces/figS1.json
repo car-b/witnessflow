@@ -1,0 +1,46 @@
+{
+ "script": "witnessflow/figures/scripts/figS1.py",
+ "argv": [
+  "witnessflow\\figures\\scripts/figS1.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704507.2076585,
+ "end": 1791704517.1377406,
+ "exit": 0,
+ "reads": [
+  "witnessflow/figures/derived/figS1_batch.tsv",
+  "witnessflow/figures/derived/figS1_batch_donor.tsv",
+  "witnessflow/figures/derived/figS1_batch_marker.tsv",
+  "witnessflow/figures/derived/figS1_donor_parent.tsv",
+  "witnessflow/figures/derived/figS1_files.tsv",
+  "witnessflow/figures/derived/figS1_label_overlap.tsv",
+  "witnessflow/figures/derived/figS1_markers.tsv",
+  "witnessflow/figures/derived/figS1_offset_audit.tsv",
+  "witnessflow/figures/derived/figS1_offset_pi.tsv",
+  "witnessflow/figures/derived/figS1_parents.tsv",
+  "witnessflow/figures/derived/figS1_rareB.tsv",
+  "witnessflow/figures/derived/figS1_refci.tsv",
+  "witnessflow/figures/derived/figS1_refse.tsv",
+  "witnessflow/figures/derived/figS1_split.tsv",
+  "witnessflow/figures/scripts/figS1.py",
+  "witnessflow/figures/scripts/wfstyle.py"
+ ],
+ "writes": [
+  "witnessflow/figures/panels/figS1A.pdf",
+  "witnessflow/figures/panels/figS1A.png",
+  "witnessflow/figures/panels/figS1B.pdf",
+  "witnessflow/figures/panels/figS1B.png",
+  "witnessflow/figures/panels/figS1C.pdf",
+  "witnessflow/figures/panels/figS1C.png",
+  "witnessflow/figures/panels/figS1D.pdf",
+  "witnessflow/figures/panels/figS1D.png",
+  "witnessflow/figures/panels/figS1E.pdf",
+  "witnessflow/figures/panels/figS1E.png",
+  "witnessflow/figures/source_data/figS1A.tsv",
+  "witnessflow/figures/source_data/figS1B.tsv",
+  "witnessflow/figures/source_data/figS1C.tsv",
+  "witnessflow/figures/source_data/figS1D.tsv",
+  "witnessflow/figures/source_data/figS1E.tsv"
+ ],
+ "sqlite": []
+}

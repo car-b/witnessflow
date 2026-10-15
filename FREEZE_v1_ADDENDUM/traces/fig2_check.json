@@ -1,0 +1,16 @@
+{
+ "script": "witnessflow/figures/scripts/fig2_check.py",
+ "argv": [
+  "witnessflow\\figures\\scripts/fig2_check.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704449.129898,
+ "end": 1791704450.1001885,
+ "exit": 0,
+ "reads": [
+  "witnessflow/figures/scripts/fig2_check.py",
+  "witnessflow/figures/scripts/wfstyle.py"
+ ],
+ "writes": [],
+ "sqlite": []
+}

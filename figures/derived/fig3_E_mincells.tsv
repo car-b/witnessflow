@@ -1,0 +1,9 @@
+dataset	sigma	tube_size_cv	min_cells_mean	min_cells_lo	min_cells_hi	n	source
+levine32_v2	0.0	0.03574852207012636	267.7	253.0	276.0	10	results/<ds>/e5k_boundary.tsv part A, classical, min_cells (= min over triples of n(T))
+levine32_v2	0.25	0.24962226873270504	162.9	133.0	193.0	10	results/<ds>/e5k_boundary.tsv part A, classical, min_cells (= min over triples of n(T))
+levine32_v2	0.5	0.49565053103124274	68.8	46.0	97.0	10	results/<ds>/e5k_boundary.tsv part A, classical, min_cells (= min over triples of n(T))
+levine32_v2	1.0	1.0381943300763583	18.6	11.0	28.0	10	results/<ds>/e5k_boundary.tsv part A, classical, min_cells (= min over triples of n(T))
+wingmen_v1	0.0	0.028803742089544438	396.7	382.0	409.0	10	results/<ds>/e5k_boundary.tsv part A, classical, min_cells (= min over triples of n(T))
+wingmen_v1	0.25	0.255648344178539	226.4	188.0	276.0	10	results/<ds>/e5k_boundary.tsv part A, classical, min_cells (= min over triples of n(T))
+wingmen_v1	0.5	0.5141934637003625	102.6	55.0	161.0	10	results/<ds>/e5k_boundary.tsv part A, classical, min_cells (= min over triples of n(T))
+wingmen_v1	1.0	1.1923473770862425	17.2	5.0	33.0	10	results/<ds>/e5k_boundary.tsv part A, classical, min_cells (= min over triples of n(T))

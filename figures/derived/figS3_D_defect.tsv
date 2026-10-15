@@ -1,0 +1,3 @@
+run	triple_0based	triple_1based	lam	shared_pair_1based	note
+anneal 600 s seed 2	(6, 10, 11)	(7, 11, 12)	1	(11, 12)	design labels only
+anneal 600 s seed 2	(7, 10, 11)	(8, 11, 12)	1	(11, 12)	design labels only

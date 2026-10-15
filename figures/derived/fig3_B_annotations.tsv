@@ -1,0 +1,9 @@
+item	value	source
+WINGMEN CD4T r=180 classical half_ok (main curve)	0.6396153846153846	fig3A_sawtooth.tsv (e5b_r180.tsv; mean of 10 allocations)
+WINGMEN CD4T r=180 classical half_ok (threshold run, offset 0)	0.6456410256410257	supp_threshold_design.tsv (e5g; mean of 3 allocations)
+Levine B r=71 classical half_ok	0.7929824561403509	fig3A_sawtooth.tsv
+Levine B r=142 classical half_ok	0.8368421052631578	fig3A_sawtooth.tsv
+eps wingmen_v1 CD4T	0.05	results/<ds>/e5b_steiner_nodes.tsv eps column
+eps wingmen_v1 CD8T	0.08	results/<ds>/e5b_steiner_nodes.tsv eps column
+eps levine32_v2 B	0.08	results/<ds>/e5b_steiner_nodes.tsv eps column
+eps levine32_v2 T	0.06	results/<ds>/e5b_steiner_nodes.tsv eps column

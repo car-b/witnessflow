@@ -1,0 +1,19 @@
+{
+ "script": "witnessflow/figures/derive/sf2_b_donor.py",
+ "argv": [
+  "witnessflow\\figures\\derive/sf2_b_donor.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704486.2064378,
+ "end": 1791704487.1413786,
+ "exit": 0,
+ "reads": [
+  "witnessflow/figures/data/fig3C_per_donor_shape.tsv",
+  "witnessflow/figures/derive/sf2_b_donor.py",
+  "witnessflow/results/wingmen_v1/e5b_per_donor.tsv"
+ ],
+ "writes": [
+  "witnessflow/figures/derived/figS2_B_cells.tsv"
+ ],
+ "sqlite": []
+}

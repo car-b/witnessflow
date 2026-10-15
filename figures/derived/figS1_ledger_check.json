@@ -1,0 +1,58 @@
+{
+ "levine32_v2": {
+  "tot": 265627,
+  "n_individuals": 2,
+  "followup": 53125,
+  "initial_all_cells": 106250,
+  "asserted": [
+   "followup=53125",
+   "n_ref (reference_claims)",
+   "n_parent (initial_audit)",
+   "calibration_N/reference_N (explore_q1)",
+   "pi (lat06, 4 dp)"
+  ]
+ },
+ "rareB_initial_kept": {
+  "levine32_v2_rareB_1": 842,
+  "levine32_v2_rareB_0p3": 251,
+  "levine32_v2_rareB_0p1": 83
+ },
+ "wingmen_v1": {
+  "pre_files": 27,
+  "pre_used": 13,
+  "PreWN08": 28060,
+  "post_files": 27,
+  "events_raw_used": 797966,
+  "cells_after_dead_filter": 796314,
+  "initial_all_cells": 318526,
+  "CD4T_per_donor": {
+   "min_followup": 2064,
+   "min_reference": 1978,
+   "max": 13309,
+   "included": "13/13"
+  },
+  "followup": 159264,
+  "CD8T_donor6": {
+   "followup": 410,
+   "reference": 384
+  },
+  "asserted": [
+   "27 Pre / 13 used / PreWN08=28060",
+   "followup=159264",
+   "N_d per donor (e5b_per_donor)",
+   "n_ref",
+   "n_parent",
+   "calibration_N/reference_N",
+   "pi (lat06)",
+   "e5b per-donor inclusion rule reproduces donor sets; only CD8T donor 6 excluded"
+  ]
+ },
+ "cytonorm_tot": {
+  "Gates_PTLG021_Unstim_Control_1.fcs": 1000,
+  "Gates_PTLG021_Unstim_Control_2.fcs": 1000,
+  "Gates_PTLG028_Unstim_Control_1.fcs": 1000,
+  "Gates_PTLG028_Unstim_Control_2.fcs": 1000,
+  "Gates_PTLG034_Unstim_Control_1.fcs": 1000,
+  "Gates_PTLG034_Unstim_Control_2.fcs": 1000
+ }
+}

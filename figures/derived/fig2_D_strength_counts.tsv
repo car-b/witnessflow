@@ -1,0 +1,3 @@
+design	tubes	triples_covered	triples_total	strength	cross_family_pair_mult	single_mult
+lines a+bx (c=0)	25	250	1250	2	1	5
+quadratics a+bx+cx^2	125	1250	1250	3	5	25

@@ -1,0 +1,13 @@
+path	round	label_in_panel	edge_in	node_id_S3Fig_a	run_ids	evidence
+Codewords	R2	formulation	first	L08	G0S03 → G2S11 → lib.type_reweight	A sec. 2(3)
+Codewords	R2	library	inherited	L08	G0S03 → G2S11 → lib.type_reweight	A sec. 2(3)
+Codewords	R3	library reuse	library reuse	L09	P14–P17	B sec. 1, point_types row
+Codewords	R4	reimplementation	independent reimplementation	L10	R4_23	B sec. 2, rediscovery table
+Codewords	WF	marker codewords; 3-way AND = 1 tube	used in WitnessFlow	L11		B sec. 4, item 2
+Cyclic orbits	R2	C(32,19,3)	first	L04		A sec. 1, item 12
+Cyclic orbits	R3	reimplementation	independent reimplementation	L05	g1_1	B sec. 2, rediscovery table
+Cyclic orbits	R4	reimplementation	independent reimplementation	L06	R4_29	B sec. 2, rediscovery table
+Cyclic orbits	WF	130 tubes = 5 orbits x 26	used in WitnessFlow	L07		code wfgeom.py, ROSE_BASE and rose_orbits()
+AG/PG flats	R1	geometric constructions	first	L01	3 independent runs (R1)	A sec. 2(1)
+AG/PG flats	R4	2 reimplementations	independent reimplementation	L02	R4_22, R4_26	B sec. 2, rediscovery table
+AG/PG flats	WF	AG(2,5) through any one marker	used in WitnessFlow	L03		G main findings, item 1

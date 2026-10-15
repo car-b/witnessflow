@@ -1,0 +1,62 @@
+dataset	file	group	tot	used	reason
+levine32_v2	Levine_32dim_notransform.fcs	single file	265627	True	all events (no event filter in protocol)
+wingmen_v1	PreWN01.fcs	Pre	67492	True	used
+wingmen_v1	PreWN02.fcs	Pre	48370	True	used
+wingmen_v1	PreWN03.fcs	Pre	7278	False	< min_events 30000
+wingmen_v1	PreWN04.fcs	Pre	4324	False	< min_events 30000
+wingmen_v1	PreWN05.fcs	Pre	393	False	< min_events 30000
+wingmen_v1	PreWN06.fcs	Pre	33751	True	used
+wingmen_v1	PreWN07.fcs	Pre	6567	False	< min_events 30000
+wingmen_v1	PreWN08.fcs	Pre	28060	False	< min_events 30000
+wingmen_v1	PreWN09.fcs	Pre	39528	True	used
+wingmen_v1	PreWN10.fcs	Pre	35627	True	used
+wingmen_v1	PreWN11.fcs	Pre	73097	True	used
+wingmen_v1	PreWN12.fcs	Pre	148	False	< min_events 30000
+wingmen_v1	PreWN13.fcs	Pre	5713	False	< min_events 30000
+wingmen_v1	PreWN14.fcs	Pre	44828	True	used
+wingmen_v1	PreWN15.fcs	Pre	421	False	< min_events 30000
+wingmen_v1	PreWN16.fcs	Pre	2704	False	< min_events 30000
+wingmen_v1	PreWN17.fcs	Pre	30672	True	used
+wingmen_v1	PreWN18.fcs	Pre	49498	True	used
+wingmen_v1	PreWN19.fcs	Pre	160953	True	used
+wingmen_v1	PreWN20.fcs	Pre	5908	False	< min_events 30000
+wingmen_v1	PreWN21.fcs	Pre	136418	True	used
+wingmen_v1	PreWN22.fcs	Pre	877	False	< min_events 30000
+wingmen_v1	PreWN23.fcs	Pre	45279	True	used
+wingmen_v1	PreWN24.fcs	Pre	7057	False	< min_events 30000
+wingmen_v1	PreWN25.fcs	Pre	22291	False	< min_events 30000
+wingmen_v1	PreWN26.fcs	Pre	13711	False	< min_events 30000
+wingmen_v1	PreWN27.fcs	Pre	32453	True	used
+wingmen_v1	PostWN01.fcs	Post	3311	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN02.fcs	Post	136015	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN03.fcs	Post	16525	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN04.fcs	Post	1630	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN05.fcs	Post	15813	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN06.fcs	Post	23371	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN07.fcs	Post	1550	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN08.fcs	Post	16472	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN09.fcs	Post	33186	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN10.fcs	Post	11491	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN11.fcs	Post	37535	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN12.fcs	Post	32151	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN13.fcs	Post	15915	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN14.fcs	Post	58453	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN15.fcs	Post	117130	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN16.fcs	Post	140555	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN17.fcs	Post	655	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN18.fcs	Post	46677	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN19.fcs	Post	41358	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN20.fcs	Post	15315	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN21.fcs	Post	74233	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN22.fcs	Post	1873	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN23.fcs	Post	4252	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN24.fcs	Post	53455	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN25.fcs	Post	79	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN26.fcs	Post	3817	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+wingmen_v1	PostWN27.fcs	Post	25705	False	Post-treatment files not in protocol (pattern PreWN*.fcs)
+cytonorm	Gates_PTLG021_Unstim_Control_1.fcs	batch file	1000	True	real_batch.py: all events
+cytonorm	Gates_PTLG021_Unstim_Control_2.fcs	batch file	1000	True	real_batch.py: all events
+cytonorm	Gates_PTLG028_Unstim_Control_1.fcs	batch file	1000	True	real_batch.py: all events
+cytonorm	Gates_PTLG028_Unstim_Control_2.fcs	batch file	1000	True	real_batch.py: all events
+cytonorm	Gates_PTLG034_Unstim_Control_1.fcs	batch file	1000	True	real_batch.py: all events
+cytonorm	Gates_PTLG034_Unstim_Control_2.fcs	batch file	1000	True	real_batch.py: all events

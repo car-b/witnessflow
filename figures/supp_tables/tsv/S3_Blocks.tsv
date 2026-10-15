@@ -1,0 +1,897 @@
+design_id	block_index	block_size	point_1	point_2	point_3	point_4	point_5	point_6	point_6_status	source_id
+S26	0	6	0	1	2	5	14	23	present	ljcr_snapshot_db
+S26	1	6	0	1	3	7	9	10	present	ljcr_snapshot_db
+S26	2	6	0	1	4	13	22	25	present	ljcr_snapshot_db
+S26	3	6	0	1	6	11	12	19	present	ljcr_snapshot_db
+S26	4	6	0	1	8	15	16	21	present	ljcr_snapshot_db
+S26	5	6	0	1	17	18	20	24	present	ljcr_snapshot_db
+S26	6	6	0	2	3	19	20	22	present	ljcr_snapshot_db
+S26	7	6	0	2	4	12	15	18	present	ljcr_snapshot_db
+S26	8	6	0	2	6	8	9	25	present	ljcr_snapshot_db
+S26	9	6	0	2	7	11	17	21	present	ljcr_snapshot_db
+S26	10	6	0	2	10	13	16	24	present	ljcr_snapshot_db
+S26	11	6	0	3	4	5	8	17	present	ljcr_snapshot_db
+S26	12	6	0	3	6	14	16	18	present	ljcr_snapshot_db
+S26	13	6	0	3	11	13	15	23	present	ljcr_snapshot_db
+S26	14	6	0	3	12	21	24	25	present	ljcr_snapshot_db
+S26	15	6	0	4	6	7	23	24	present	ljcr_snapshot_db
+S26	16	6	0	4	9	11	16	20	present	ljcr_snapshot_db
+S26	17	6	0	4	10	14	19	21	present	ljcr_snapshot_db
+S26	18	6	0	5	6	13	20	21	present	ljcr_snapshot_db
+S26	19	6	0	5	7	12	16	22	present	ljcr_snapshot_db
+S26	20	6	0	5	9	15	19	24	present	ljcr_snapshot_db
+S26	21	6	0	5	10	11	18	25	present	ljcr_snapshot_db
+S26	22	6	0	6	10	15	17	22	present	ljcr_snapshot_db
+S26	23	6	0	7	8	13	18	19	present	ljcr_snapshot_db
+S26	24	6	0	7	14	15	20	25	present	ljcr_snapshot_db
+S26	25	6	0	8	10	12	20	23	present	ljcr_snapshot_db
+S26	26	6	0	8	11	14	22	24	present	ljcr_snapshot_db
+S26	27	6	0	9	12	13	14	17	present	ljcr_snapshot_db
+S26	28	6	0	9	18	21	22	23	present	ljcr_snapshot_db
+S26	29	6	0	16	17	19	23	25	present	ljcr_snapshot_db
+S26	30	6	1	2	3	6	15	24	present	ljcr_snapshot_db
+S26	31	6	1	2	4	8	10	11	present	ljcr_snapshot_db
+S26	32	6	1	2	7	12	13	20	present	ljcr_snapshot_db
+S26	33	6	1	2	9	16	17	22	present	ljcr_snapshot_db
+S26	34	6	1	2	18	19	21	25	present	ljcr_snapshot_db
+S26	35	6	1	3	4	20	21	23	present	ljcr_snapshot_db
+S26	36	6	1	3	5	13	16	19	present	ljcr_snapshot_db
+S26	37	6	1	3	8	12	18	22	present	ljcr_snapshot_db
+S26	38	6	1	3	11	14	17	25	present	ljcr_snapshot_db
+S26	39	6	1	4	5	6	9	18	present	ljcr_snapshot_db
+S26	40	6	1	4	7	15	17	19	present	ljcr_snapshot_db
+S26	41	6	1	4	12	14	16	24	present	ljcr_snapshot_db
+S26	42	6	1	5	7	8	24	25	present	ljcr_snapshot_db
+S26	43	6	1	5	10	12	17	21	present	ljcr_snapshot_db
+S26	44	6	1	5	11	15	20	22	present	ljcr_snapshot_db
+S26	45	6	1	6	7	14	21	22	present	ljcr_snapshot_db
+S26	46	6	1	6	8	13	17	23	present	ljcr_snapshot_db
+S26	47	6	1	6	10	16	20	25	present	ljcr_snapshot_db
+S26	48	6	1	7	11	16	18	23	present	ljcr_snapshot_db
+S26	49	6	1	8	9	14	19	20	present	ljcr_snapshot_db
+S26	50	6	1	9	11	13	21	24	present	ljcr_snapshot_db
+S26	51	6	1	9	12	15	23	25	present	ljcr_snapshot_db
+S26	52	6	1	10	13	14	15	18	present	ljcr_snapshot_db
+S26	53	6	1	10	19	22	23	24	present	ljcr_snapshot_db
+S26	54	6	2	3	4	7	16	25	present	ljcr_snapshot_db
+S26	55	6	2	3	5	9	11	12	present	ljcr_snapshot_db
+S26	56	6	2	3	8	13	14	21	present	ljcr_snapshot_db
+S26	57	6	2	3	10	17	18	23	present	ljcr_snapshot_db
+S26	58	6	2	4	5	21	22	24	present	ljcr_snapshot_db
+S26	59	6	2	4	6	14	17	20	present	ljcr_snapshot_db
+S26	60	6	2	4	9	13	19	23	present	ljcr_snapshot_db
+S26	61	6	2	5	6	7	10	19	present	ljcr_snapshot_db
+S26	62	6	2	5	8	16	18	20	present	ljcr_snapshot_db
+S26	63	6	2	5	13	15	17	25	present	ljcr_snapshot_db
+S26	64	6	2	6	11	13	18	22	present	ljcr_snapshot_db
+S26	65	6	2	6	12	16	21	23	present	ljcr_snapshot_db
+S26	66	6	2	7	8	15	22	23	present	ljcr_snapshot_db
+S26	67	6	2	7	9	14	18	24	present	ljcr_snapshot_db
+S26	68	6	2	8	12	17	19	24	present	ljcr_snapshot_db
+S26	69	6	2	9	10	15	20	21	present	ljcr_snapshot_db
+S26	70	6	2	10	12	14	22	25	present	ljcr_snapshot_db
+S26	71	6	2	11	14	15	16	19	present	ljcr_snapshot_db
+S26	72	6	2	11	20	23	24	25	present	ljcr_snapshot_db
+S26	73	6	3	4	6	10	12	13	present	ljcr_snapshot_db
+S26	74	6	3	4	9	14	15	22	present	ljcr_snapshot_db
+S26	75	6	3	4	11	18	19	24	present	ljcr_snapshot_db
+S26	76	6	3	5	6	22	23	25	present	ljcr_snapshot_db
+S26	77	6	3	5	7	15	18	21	present	ljcr_snapshot_db
+S26	78	6	3	5	10	14	20	24	present	ljcr_snapshot_db
+S26	79	6	3	6	7	8	11	20	present	ljcr_snapshot_db
+S26	80	6	3	6	9	17	19	21	present	ljcr_snapshot_db
+S26	81	6	3	7	12	14	19	23	present	ljcr_snapshot_db
+S26	82	6	3	7	13	17	22	24	present	ljcr_snapshot_db
+S26	83	6	3	8	9	16	23	24	present	ljcr_snapshot_db
+S26	84	6	3	8	10	15	19	25	present	ljcr_snapshot_db
+S26	85	6	3	9	13	18	20	25	present	ljcr_snapshot_db
+S26	86	6	3	10	11	16	21	22	present	ljcr_snapshot_db
+S26	87	6	3	12	15	16	17	20	present	ljcr_snapshot_db
+S26	88	6	4	5	7	11	13	14	present	ljcr_snapshot_db
+S26	89	6	4	5	10	15	16	23	present	ljcr_snapshot_db
+S26	90	6	4	5	12	19	20	25	present	ljcr_snapshot_db
+S26	91	6	4	6	8	16	19	22	present	ljcr_snapshot_db
+S26	92	6	4	6	11	15	21	25	present	ljcr_snapshot_db
+S26	93	6	4	7	8	9	12	21	present	ljcr_snapshot_db
+S26	94	6	4	7	10	18	20	22	present	ljcr_snapshot_db
+S26	95	6	4	8	13	15	20	24	present	ljcr_snapshot_db
+S26	96	6	4	8	14	18	23	25	present	ljcr_snapshot_db
+S26	97	6	4	9	10	17	24	25	present	ljcr_snapshot_db
+S26	98	6	4	11	12	17	22	23	present	ljcr_snapshot_db
+S26	99	6	4	13	16	17	18	21	present	ljcr_snapshot_db
+S26	100	6	5	6	8	12	14	15	present	ljcr_snapshot_db
+S26	101	6	5	6	11	16	17	24	present	ljcr_snapshot_db
+S26	102	6	5	7	9	17	20	23	present	ljcr_snapshot_db
+S26	103	6	5	8	9	10	13	22	present	ljcr_snapshot_db
+S26	104	6	5	8	11	19	21	23	present	ljcr_snapshot_db
+S26	105	6	5	9	14	16	21	25	present	ljcr_snapshot_db
+S26	106	6	5	12	13	18	23	24	present	ljcr_snapshot_db
+S26	107	6	5	14	17	18	19	22	present	ljcr_snapshot_db
+S26	108	6	6	7	9	13	15	16	present	ljcr_snapshot_db
+S26	109	6	6	7	12	17	18	25	present	ljcr_snapshot_db
+S26	110	6	6	8	10	18	21	24	present	ljcr_snapshot_db
+S26	111	6	6	9	10	11	14	23	present	ljcr_snapshot_db
+S26	112	6	6	9	12	20	22	24	present	ljcr_snapshot_db
+S26	113	6	6	13	14	19	24	25	present	ljcr_snapshot_db
+S26	114	6	6	15	18	19	20	23	present	ljcr_snapshot_db
+S26	115	6	7	8	10	14	16	17	present	ljcr_snapshot_db
+S26	116	6	7	9	11	19	22	25	present	ljcr_snapshot_db
+S26	117	6	7	10	11	12	15	24	present	ljcr_snapshot_db
+S26	118	6	7	10	13	21	23	25	present	ljcr_snapshot_db
+S26	119	6	7	16	19	20	21	24	present	ljcr_snapshot_db
+S26	120	6	8	9	11	15	17	18	present	ljcr_snapshot_db
+S26	121	6	8	11	12	13	16	25	present	ljcr_snapshot_db
+S26	122	6	8	17	20	21	22	25	present	ljcr_snapshot_db
+S26	123	6	9	10	12	16	18	19	present	ljcr_snapshot_db
+S26	124	6	10	11	13	17	19	20	present	ljcr_snapshot_db
+S26	125	6	11	12	14	18	20	21	present	ljcr_snapshot_db
+S26	126	6	12	13	15	19	21	22	present	ljcr_snapshot_db
+S26	127	6	13	14	16	20	22	23	present	ljcr_snapshot_db
+S26	128	6	14	15	17	21	23	24	present	ljcr_snapshot_db
+S26	129	6	15	16	18	22	24	25	present	ljcr_snapshot_db
+C20	0	6	0	1	2	5	13	16	present	ljcr_snapshot_db
+C20	1	6	0	1	3	4	6	17	present	ljcr_snapshot_db
+C20	2	6	0	1	6	10	15	18	present	ljcr_snapshot_db
+C20	3	6	0	1	7	9	12	19	present	ljcr_snapshot_db
+C20	4	6	0	1	8	11	14	18	present	ljcr_snapshot_db
+C20	5	6	0	2	3	8	15	18	present	ljcr_snapshot_db
+C20	6	6	0	2	4	6	12	14	present	ljcr_snapshot_db
+C20	7	6	0	2	4	8	9	10	present	ljcr_snapshot_db
+C20	8	6	0	2	7	11	17	19	present	ljcr_snapshot_db
+C20	9	6	0	3	5	11	12	13	present	ljcr_snapshot_db
+C20	10	6	0	3	7	10	16	19	present	ljcr_snapshot_db
+C20	11	6	0	3	9	13	14	18	present	ljcr_snapshot_db
+C20	12	6	0	4	5	7	18	19	present	ljcr_snapshot_db
+C20	13	6	0	4	6	9	11	16	present	ljcr_snapshot_db
+C20	14	6	0	4	10	11	13	15	present	ljcr_snapshot_db
+C20	15	6	0	5	6	9	15	17	present	ljcr_snapshot_db
+C20	16	6	0	5	8	10	12	15	present	ljcr_snapshot_db
+C20	17	6	0	5	10	13	14	17	present	ljcr_snapshot_db
+C20	18	6	0	6	7	8	13	19	present	ljcr_snapshot_db
+C20	19	6	0	7	14	15	16	19	present	ljcr_snapshot_db
+C20	20	6	0	8	12	16	17	18	present	ljcr_snapshot_db
+C20	21	6	1	2	3	9	11	17	present	ljcr_snapshot_db
+C20	22	6	1	2	3	12	15	16	present	ljcr_snapshot_db
+C20	23	6	1	2	4	7	8	16	present	ljcr_snapshot_db
+C20	24	6	1	2	6	16	18	19	present	ljcr_snapshot_db
+C20	25	6	1	2	9	10	14	16	present	ljcr_snapshot_db
+C20	26	6	1	3	5	8	17	19	present	ljcr_snapshot_db
+C20	27	6	1	3	7	13	17	18	present	ljcr_snapshot_db
+C20	28	6	1	3	10	11	12	14	present	ljcr_snapshot_db
+C20	29	6	1	4	5	9	12	18	present	ljcr_snapshot_db
+C20	30	6	1	4	8	10	15	19	present	ljcr_snapshot_db
+C20	31	6	1	4	11	13	14	19	present	ljcr_snapshot_db
+C20	32	6	1	5	6	7	11	14	present	ljcr_snapshot_db
+C20	33	6	1	5	7	10	13	15	present	ljcr_snapshot_db
+C20	34	6	1	6	8	9	12	13	present	ljcr_snapshot_db
+C20	35	6	1	9	12	14	15	17	present	ljcr_snapshot_db
+C20	36	6	1	10	11	15	16	17	present	ljcr_snapshot_db
+C20	37	6	2	3	4	13	15	19	present	ljcr_snapshot_db
+C20	38	6	2	3	5	6	7	15	present	ljcr_snapshot_db
+C20	39	6	2	3	10	14	15	17	present	ljcr_snapshot_db
+C20	40	6	2	4	5	11	17	18	present	ljcr_snapshot_db
+C20	41	6	2	5	8	12	14	19	present	ljcr_snapshot_db
+C20	42	6	2	5	9	10	13	19	present	ljcr_snapshot_db
+C20	43	6	2	6	7	9	10	18	present	ljcr_snapshot_db
+C20	44	6	2	6	8	11	13	17	present	ljcr_snapshot_db
+C20	45	6	2	7	12	13	14	18	present	ljcr_snapshot_db
+C20	46	6	2	9	10	11	12	15	present	ljcr_snapshot_db
+C20	47	6	2	11	12	14	16	17	present	ljcr_snapshot_db
+C20	48	6	3	4	5	10	16	18	present	ljcr_snapshot_db
+C20	49	6	3	4	6	9	14	19	present	ljcr_snapshot_db
+C20	50	6	3	4	7	8	11	12	present	ljcr_snapshot_db
+C20	51	6	3	5	7	8	9	14	present	ljcr_snapshot_db
+C20	52	6	3	6	8	10	13	16	present	ljcr_snapshot_db
+C20	53	6	3	6	11	12	18	19	present	ljcr_snapshot_db
+C20	54	6	3	9	10	12	16	17	present	ljcr_snapshot_db
+C20	55	6	3	9	11	14	15	16	present	ljcr_snapshot_db
+C20	56	6	4	5	6	8	13	18	present	ljcr_snapshot_db
+C20	57	6	4	5	14	15	16	18	present	ljcr_snapshot_db
+C20	58	6	4	6	7	10	12	15	present	ljcr_snapshot_db
+C20	59	6	4	7	8	10	14	17	present	ljcr_snapshot_db
+C20	60	6	4	7	9	13	15	17	present	ljcr_snapshot_db
+C20	61	6	4	12	13	16	17	19	present	ljcr_snapshot_db
+C20	62	6	5	6	7	12	16	17	present	ljcr_snapshot_db
+C20	63	6	5	6	10	11	15	19	present	ljcr_snapshot_db
+C20	64	6	5	8	9	11	16	19	present	ljcr_snapshot_db
+C20	65	6	6	8	13	14	15	16	present	ljcr_snapshot_db
+C20	66	6	6	10	14	17	18	19	present	ljcr_snapshot_db
+C20	67	6	7	8	10	11	15	18	present	ljcr_snapshot_db
+C20	68	6	7	9	11	13	16	18	present	ljcr_snapshot_db
+C20	69	6	8	9	15	17	18	19	present	ljcr_snapshot_db
+C20	70	6	10	12	13	15	18	19	present	ljcr_snapshot_db
+OA	0	5	0	5	10	15	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	1	5	0	6	14	19	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	2	5	0	7	13	18	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	3	5	0	8	12	17	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	4	5	0	9	11	16	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	5	5	0	6	12	18	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	6	5	0	7	11	17	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	7	5	0	8	10	16	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	8	5	0	9	14	15	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	9	5	0	5	13	19	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	10	5	0	7	14	16	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	11	5	0	8	13	15	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	12	5	0	9	12	19	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	13	5	0	5	11	18	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	14	5	0	6	10	17	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	15	5	0	8	11	19	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	16	5	0	9	10	18	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	17	5	0	5	14	17	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	18	5	0	6	13	16	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	19	5	0	7	12	15	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	20	5	0	9	13	17	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	21	5	0	5	12	16	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	22	5	0	6	11	15	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	23	5	0	7	10	19	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	24	5	0	8	14	18	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	25	5	1	6	11	16	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	26	5	1	7	10	15	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	27	5	1	8	14	19	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	28	5	1	9	13	18	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	29	5	1	5	12	17	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	30	5	1	7	13	19	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	31	5	1	8	12	18	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	32	5	1	9	11	17	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	33	5	1	5	10	16	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	34	5	1	6	14	15	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	35	5	1	8	10	17	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	36	5	1	9	14	16	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	37	5	1	5	13	15	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	38	5	1	6	12	19	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	39	5	1	7	11	18	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	40	5	1	9	12	15	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	41	5	1	5	11	19	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	42	5	1	6	10	18	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	43	5	1	7	14	17	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	44	5	1	8	13	16	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	45	5	1	5	14	18	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	46	5	1	6	13	17	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	47	5	1	7	12	16	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	48	5	1	8	11	15	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	49	5	1	9	10	19	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	50	5	2	7	12	17	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	51	5	2	8	11	16	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	52	5	2	9	10	15	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	53	5	2	5	14	19	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	54	5	2	6	13	18	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	55	5	2	8	14	15	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	56	5	2	9	13	19	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	57	5	2	5	12	18	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	58	5	2	6	11	17	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	59	5	2	7	10	16	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	60	5	2	9	11	18	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	61	5	2	5	10	17	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	62	5	2	6	14	16	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	63	5	2	7	13	15	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	64	5	2	8	12	19	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	65	5	2	5	13	16	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	66	5	2	6	12	15	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	67	5	2	7	11	19	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	68	5	2	8	10	18	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	69	5	2	9	14	17	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	70	5	2	6	10	19	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	71	5	2	7	14	18	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	72	5	2	8	13	17	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	73	5	2	9	12	16	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	74	5	2	5	11	15	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	75	5	3	8	13	18	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	76	5	3	9	12	17	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	77	5	3	5	11	16	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	78	5	3	6	10	15	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	79	5	3	7	14	19	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	80	5	3	9	10	16	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	81	5	3	5	14	15	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	82	5	3	6	13	19	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	83	5	3	7	12	18	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	84	5	3	8	11	17	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	85	5	3	5	12	19	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	86	5	3	6	11	18	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	87	5	3	7	10	17	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	88	5	3	8	14	16	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	89	5	3	9	13	15	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	90	5	3	6	14	17	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	91	5	3	7	13	16	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	92	5	3	8	12	15	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	93	5	3	9	11	19	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	94	5	3	5	10	18	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	95	5	3	7	11	15	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	96	5	3	8	10	19	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	97	5	3	9	14	18	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	98	5	3	5	13	17	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	99	5	3	6	12	16	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	100	5	4	9	14	19	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	101	5	4	5	13	18	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	102	5	4	6	12	17	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	103	5	4	7	11	16	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	104	5	4	8	10	15	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	105	5	4	5	11	17	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	106	5	4	6	10	16	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	107	5	4	7	14	15	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	108	5	4	8	13	19	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	109	5	4	9	12	18	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	110	5	4	6	13	15	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	111	5	4	7	12	19	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	112	5	4	8	11	18	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	113	5	4	9	10	17	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	114	5	4	5	14	16	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	115	5	4	7	10	18	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	116	5	4	8	14	17	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	117	5	4	9	13	16	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	118	5	4	5	12	15	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	119	5	4	6	11	19	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	120	5	4	8	12	16	20		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	121	5	4	9	11	15	21		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	122	5	4	5	10	19	22		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	123	5	4	6	14	18	23		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+OA	124	5	4	7	13	17	24		not_applicable	witnessflow/figures/derived/fig2_D_codebook_RS53.tsv
+PSL	0	6	11	12	13	14	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	1	6	0	11	14	17	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	2	6	0	12	13	14	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	3	6	0	1	13	14	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	4	6	0	1	12	15	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	5	6	0	2	11	15	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	6	6	1	2	14	15	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	7	6	0	1	2	13	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	8	6	1	2	11	15	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	9	6	0	3	11	12	14	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	10	6	1	2	11	14	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	11	6	1	3	11	14	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	12	6	2	3	15	16	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	13	6	1	3	12	16	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	14	6	0	2	3	12	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	15	6	0	2	3	12	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	16	6	0	3	13	14	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	17	6	0	4	11	12	13	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	18	6	1	4	14	15	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	19	6	0	1	4	12	13	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	20	6	0	1	4	11	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	21	6	0	2	4	11	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	22	6	1	2	3	14	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	23	6	2	4	13	17	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	24	6	2	4	12	15	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	25	6	0	3	4	16	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	26	6	0	3	4	12	13	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	27	6	0	1	3	4	13	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	28	6	1	3	4	13	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	29	6	0	2	3	4	11	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	30	6	1	3	4	11	13	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	31	6	2	3	4	15	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	32	6	3	4	12	15	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	33	6	5	12	13	14	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	34	6	1	5	12	13	14	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	35	6	0	1	5	11	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	36	6	2	5	11	12	13	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	37	6	0	2	5	15	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	38	6	1	2	5	11	13	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	39	6	1	2	5	11	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	40	6	1	2	5	12	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	41	6	0	3	5	13	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	42	6	0	3	5	14	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	43	6	0	1	3	5	12	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	44	6	1	3	5	11	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	45	6	1	2	5	13	14	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	46	6	2	3	5	11	13	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	47	6	3	5	11	16	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	48	6	3	5	11	13	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	49	6	3	5	12	13	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	50	6	1	4	5	11	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	51	6	0	1	4	5	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	52	6	1	4	5	13	14	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	53	6	0	2	4	5	11	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	54	6	1	2	4	5	14	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	55	6	1	4	5	11	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	56	6	2	4	5	11	13	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	57	6	0	3	4	5	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	58	6	1	3	4	5	12	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	59	6	2	4	5	12	14	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	60	6	2	4	5	14	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	61	6	6	11	14	16	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	62	6	0	6	11	15	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	63	6	0	6	11	12	13	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	64	6	0	6	11	13	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	65	6	0	6	12	15	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	66	6	0	6	13	14	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	67	6	1	6	11	12	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	68	6	0	1	2	6	12	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	69	6	1	6	11	15	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	70	6	2	6	13	14	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	71	6	1	3	6	11	12	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	72	6	1	3	6	16	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	73	6	2	3	6	12	14	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	74	6	0	2	3	6	12	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	75	6	2	3	6	11	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	76	6	2	3	6	14	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	77	6	2	3	6	13	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	78	6	0	4	6	12	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	79	6	1	4	6	14	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	80	6	0	1	4	6	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	81	6	1	4	6	11	12	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	82	6	0	2	4	6	11	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	83	6	1	2	4	6	13	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	84	6	2	4	6	12	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	85	6	3	4	6	11	12	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	86	6	3	4	6	12	14	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	87	6	1	3	4	6	11	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	88	6	0	5	6	14	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	89	6	0	5	6	12	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	90	6	2	5	6	12	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	91	6	0	2	5	6	14	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	92	6	2	5	6	12	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	93	6	0	1	2	5	6	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	94	6	3	5	6	12	14	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	95	6	0	3	5	6	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	96	6	1	3	5	6	12	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	97	6	3	5	6	13	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	98	6	2	3	5	6	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	99	6	1	4	5	6	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	100	6	2	4	5	6	13	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	101	6	3	4	5	6	11	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	102	6	7	11	14	16	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	103	6	0	7	11	12	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	104	6	0	7	14	15	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	105	6	0	1	7	11	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	106	6	0	1	7	11	13	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	107	6	0	1	7	11	12	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	108	6	0	2	7	12	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	109	6	0	1	7	12	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	110	6	0	1	2	7	11	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	111	6	1	7	12	14	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	112	6	0	7	12	15	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	113	6	1	7	14	15	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	114	6	2	7	12	13	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	115	6	2	7	11	14	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	116	6	1	2	3	7	11	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	117	6	1	2	3	7	13	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	118	6	3	7	14	15	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	119	6	0	4	7	13	14	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	120	6	0	4	7	12	14	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	121	6	2	4	7	12	13	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	122	6	0	2	4	7	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	123	6	0	2	4	7	11	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	124	6	3	4	7	13	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	125	6	0	3	4	7	14	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	126	6	1	3	4	7	13	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	127	6	3	4	7	12	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	128	6	3	4	7	15	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	129	6	5	7	14	15	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	130	6	0	5	7	13	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	131	6	0	1	5	7	13	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	132	6	2	5	7	12	13	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	133	6	0	2	5	7	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	134	6	1	2	5	7	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	135	6	0	3	5	7	13	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	136	6	1	3	5	7	12	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	137	6	2	3	5	7	14	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	138	6	4	5	7	11	12	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	139	6	0	4	5	7	12	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	140	6	4	5	7	13	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	141	6	2	4	5	7	12	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	142	6	6	7	11	13	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	143	6	1	6	7	15	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	144	6	1	6	7	11	12	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	145	6	1	6	7	13	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	146	6	3	6	7	13	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	147	6	0	3	6	7	13	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	148	6	1	3	6	7	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	149	6	0	1	2	3	6	7	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	150	6	4	6	7	13	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	151	6	4	6	7	14	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	152	6	1	4	6	7	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	153	6	2	4	6	7	13	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	154	6	0	3	4	6	7	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	155	6	5	6	7	11	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	156	6	0	5	6	7	11	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	157	6	5	6	7	11	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	158	6	2	5	6	7	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	159	6	0	3	5	6	7	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	160	6	4	5	6	7	12	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	161	6	2	3	11	12	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	162	6	8	11	14	15	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	163	6	0	8	11	13	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	164	6	1	8	12	13	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	165	6	0	8	11	12	14	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	166	6	0	1	8	13	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	167	6	0	2	8	13	14	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	168	6	1	2	8	12	13	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	169	6	1	8	15	16	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	170	6	0	2	8	14	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	171	6	0	3	8	13	14	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	172	6	1	2	8	13	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	173	6	0	1	3	8	13	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	174	6	1	2	8	12	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	175	6	1	2	8	12	14	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	176	6	3	8	12	15	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	177	6	0	1	2	3	8	12	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	178	6	3	8	11	13	14	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	179	6	0	4	8	11	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	180	6	1	4	8	11	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	181	6	4	8	15	16	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	182	6	4	8	11	13	14	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	183	6	4	8	12	14	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	184	6	4	8	11	12	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	185	6	2	3	4	8	12	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	186	6	2	3	4	8	14	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	187	6	2	8	15	16	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	188	6	5	8	11	12	13	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	189	6	5	8	11	12	14	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	190	6	1	5	8	14	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	191	6	1	5	8	13	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	192	6	3	5	8	11	12	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	193	6	3	5	8	13	14	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	194	6	1	3	5	8	12	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	195	6	0	1	3	5	8	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	196	6	4	5	8	14	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	197	6	0	4	5	8	13	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	198	6	0	4	5	8	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	199	6	0	1	4	5	8	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	200	6	0	2	4	5	8	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	201	6	0	6	8	11	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	202	6	1	6	8	14	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	203	6	0	6	8	15	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	204	6	2	6	8	11	14	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	205	6	1	2	6	8	11	12	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	206	6	0	1	2	6	8	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	207	6	3	6	8	13	14	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	208	6	0	1	3	6	8	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	209	6	2	3	6	8	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	210	6	4	6	8	11	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	211	6	1	4	6	8	14	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	212	6	2	4	6	8	13	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	213	6	3	4	6	8	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	214	6	2	3	4	6	8	11	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	215	6	5	6	8	12	13	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	216	6	0	5	6	8	14	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	217	6	1	5	6	8	13	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	218	6	2	5	6	8	11	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	219	6	3	5	6	8	13	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	220	6	4	10	13	15	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	221	6	7	8	12	14	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	222	6	0	7	8	11	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	223	6	2	7	8	12	13	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	224	6	0	2	7	8	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	225	6	0	2	7	8	14	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	226	6	3	7	8	11	12	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	227	6	3	7	8	11	13	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	228	6	8	12	15	17	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	229	6	0	1	3	7	8	11	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	230	6	2	3	7	8	11	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	231	6	0	4	7	8	14	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	232	6	1	4	7	8	14	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	233	6	2	4	7	8	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	234	6	3	4	7	8	11	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	235	6	1	2	3	4	7	8	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	236	6	5	7	8	14	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	237	6	5	7	8	15	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	238	6	2	5	7	8	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	239	6	3	5	7	8	11	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	240	6	3	5	7	8	14	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	241	6	1	4	5	7	8	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	242	6	6	7	8	12	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	243	6	0	6	7	8	12	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	244	6	1	6	7	8	12	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	245	6	0	3	6	7	8	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	246	6	1	4	6	7	8	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	247	6	5	6	7	8	11	12	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	248	6	5	6	7	8	13	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	249	6	4	5	13	16	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	250	6	9	12	15	16	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	251	6	0	9	12	15	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	252	6	0	9	13	16	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	253	6	0	1	9	12	14	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	254	6	0	9	13	14	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	255	6	0	2	9	16	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	256	6	1	2	9	11	12	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	257	6	0	1	2	9	14	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	258	6	1	9	12	13	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	259	6	0	3	9	14	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	260	6	1	3	9	15	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	261	6	0	1	3	9	11	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	262	6	0	3	9	11	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	263	6	0	2	3	9	13	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	264	6	0	2	3	9	11	12	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	265	6	1	3	9	11	13	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	266	6	1	3	9	14	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	267	6	2	3	9	13	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	268	6	1	4	9	11	13	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	269	6	0	1	4	9	14	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	270	6	2	3	9	13	14	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	271	6	0	2	4	9	11	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	272	6	1	2	4	9	14	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	273	6	4	9	13	16	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	274	6	4	11	12	13	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	275	6	4	9	12	14	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	276	6	2	8	13	15	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	277	6	1	2	3	4	9	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	278	6	5	9	12	14	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	279	6	0	5	9	12	13	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	280	6	0	5	9	16	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	281	6	0	1	5	9	12	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	282	6	0	5	9	11	12	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	283	6	0	2	5	9	12	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	284	6	1	5	9	11	13	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	285	6	5	9	13	15	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	286	6	5	9	11	14	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	287	6	4	5	9	11	14	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	288	6	3	4	5	9	11	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	289	6	3	4	5	9	13	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	290	6	3	4	5	9	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	291	6	3	9	16	17	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	292	6	6	9	11	16	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	293	6	0	6	9	11	13	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	294	6	1	6	9	11	12	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	295	6	6	9	12	13	14	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	296	6	2	6	9	11	12	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	297	6	2	6	9	15	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	298	6	2	6	9	14	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	299	6	6	9	12	13	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	300	6	4	6	9	14	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	301	6	0	4	6	9	12	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	302	6	2	4	6	9	13	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	303	6	0	1	2	4	6	9	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	304	6	0	3	4	6	9	11	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	305	6	2	8	11	13	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	306	6	5	6	9	15	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	307	6	1	5	6	9	11	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	308	6	0	1	5	6	9	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	309	6	1	5	6	9	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	310	6	1	2	5	6	9	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	311	6	1	3	5	6	9	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	312	6	2	3	11	14	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	313	6	1	7	9	12	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	314	6	1	7	9	16	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	315	6	1	7	9	11	13	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	316	6	0	2	7	9	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	317	6	2	7	9	11	14	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	318	6	2	7	9	11	12	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	319	6	3	7	9	12	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	320	6	3	7	9	11	12	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	321	6	2	3	7	9	12	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	322	6	1	2	3	7	9	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	323	6	4	7	9	14	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	324	6	4	7	9	11	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	325	6	1	2	4	7	9	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	326	6	3	4	7	9	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	327	6	5	7	9	11	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	328	6	0	5	7	9	12	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	329	6	2	5	7	9	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	330	6	3	5	7	9	14	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	331	6	4	5	7	9	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	332	6	3	4	5	7	9	12	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	333	6	6	7	9	11	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	334	6	6	7	9	13	14	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	335	6	1	6	7	9	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	336	6	2	6	7	9	14	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	337	6	3	6	7	9	12	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	338	6	0	4	6	7	9	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	339	6	5	6	7	9	11	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	340	6	5	11	14	16	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	341	6	0	8	9	11	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	342	6	0	8	9	13	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	343	6	1	8	9	12	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	344	6	1	8	9	11	13	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	345	6	3	8	9	13	14	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	346	6	0	3	8	9	11	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	347	6	1	3	8	9	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	348	6	0	1	3	8	9	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	349	6	4	8	9	12	13	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	350	6	4	8	9	12	14	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	351	6	4	8	9	11	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	352	6	4	11	12	14	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	353	6	1	2	4	8	9	12	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	354	6	3	4	8	9	12	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	355	6	5	8	9	11	14	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	356	6	1	5	8	9	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	357	6	2	5	8	9	11	12	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	358	6	0	2	5	8	9	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	359	6	3	5	8	9	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	360	6	0	4	5	8	9	12	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	361	6	2	3	4	5	8	9	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	362	6	6	8	9	15	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	363	6	0	6	8	9	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	364	6	2	6	8	9	11	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	365	6	3	6	8	9	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	366	6	8	11	14	15	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	367	6	4	6	8	9	12	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	368	6	0	4	6	8	9	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	369	6	2	5	6	8	9	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	370	6	7	8	9	11	13	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	371	6	0	7	8	9	13	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	372	6	1	7	8	9	13	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	373	6	2	7	8	9	13	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	374	6	1	7	13	16	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	375	6	1	4	7	8	9	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	376	6	2	12	13	14	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	377	6	2	5	7	8	9	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	378	6	3	8	12	14	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	379	6	6	7	8	9	12	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	380	6	6	7	8	9	14	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	381	6	10	11	12	13	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	382	6	0	10	11	12	14	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	383	6	1	10	14	15	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	384	6	0	1	10	14	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	385	6	0	1	10	13	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	386	6	0	2	10	13	14	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	387	6	1	2	10	11	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	388	6	1	2	10	13	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	389	6	2	10	11	13	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	390	6	0	3	10	14	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	391	6	1	3	10	17	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	392	6	1	3	10	11	14	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	393	6	3	10	11	12	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	394	6	0	2	3	10	12	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	395	6	1	2	3	10	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	396	6	3	10	11	12	13	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	397	6	3	10	11	13	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	398	6	0	4	10	17	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	399	6	1	4	10	11	12	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	400	6	0	1	4	10	12	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	401	6	0	1	4	10	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	402	6	0	2	4	10	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	403	6	1	2	4	10	12	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	404	6	2	4	10	15	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	405	6	2	4	10	12	14	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	406	6	0	3	4	10	14	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	407	6	0	3	4	10	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	408	6	1	3	4	10	14	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	409	6	1	3	4	10	12	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	410	6	3	4	10	14	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	411	6	5	10	11	12	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	412	6	0	5	10	11	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	413	6	0	5	10	14	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	414	6	5	10	14	17	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	415	6	2	5	10	12	14	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	416	6	0	2	5	10	11	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	417	6	1	2	5	10	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	418	6	5	10	13	15	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	419	6	5	10	12	14	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	420	6	0	3	5	10	11	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	421	6	1	3	5	10	12	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	422	6	2	3	5	10	11	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	423	6	0	2	3	5	10	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	424	6	2	3	4	5	10	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	425	6	6	10	11	14	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	426	6	0	6	10	12	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	427	6	0	6	10	11	13	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	428	6	0	6	10	14	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	429	6	0	1	6	10	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	430	6	1	6	10	13	14	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	431	6	1	6	10	12	13	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	432	6	0	1	2	6	10	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	433	6	2	6	10	12	14	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	434	6	6	10	13	15	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	435	6	1	3	6	10	13	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	436	6	6	13	14	16	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	437	6	2	3	9	14	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	438	6	3	4	6	10	11	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	439	6	5	6	10	12	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	440	6	0	5	6	10	11	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	441	6	4	5	6	10	12	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	442	6	4	5	6	10	14	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	443	6	4	5	6	10	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	444	6	7	10	12	17	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	445	6	7	10	11	13	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	446	6	1	7	10	12	14	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	447	6	7	10	13	14	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	448	6	2	7	10	12	13	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	449	6	7	10	13	14	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	450	6	3	7	10	12	13	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	451	6	0	3	7	10	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	452	6	3	7	10	11	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	453	6	3	7	10	16	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	454	6	4	7	10	11	12	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	455	6	4	7	10	11	13	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	456	6	4	6	13	14	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	457	6	2	4	7	10	11	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	458	6	5	7	10	15	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	459	6	1	5	7	10	13	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	460	6	0	1	5	7	10	11	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	461	6	3	5	7	10	14	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	462	6	1	2	3	5	7	10	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	463	6	1	4	5	7	10	12	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	464	6	3	9	12	14	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	465	6	6	7	10	16	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	466	6	2	6	7	10	11	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	467	6	0	2	6	7	10	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	468	6	1	2	6	7	10	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	469	6	2	6	7	10	12	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	470	6	2	3	6	7	10	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	471	6	2	4	6	7	10	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	472	6	3	6	12	13	14	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	473	6	4	5	6	7	10	11	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	474	6	0	1	8	10	11	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	475	6	2	8	10	17	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	476	6	0	2	8	10	13	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	477	6	0	2	8	10	12	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	478	6	1	2	8	10	11	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	479	6	3	8	10	12	13	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	480	6	0	3	8	10	12	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	481	6	1	3	8	10	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	482	6	4	8	10	11	13	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	483	6	0	4	8	10	12	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	484	6	4	8	10	13	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	485	6	3	4	8	10	13	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	486	6	2	3	4	8	10	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	487	6	5	8	10	15	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	488	6	0	5	8	10	11	12	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	489	6	1	5	8	10	11	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	490	6	5	8	10	12	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	491	6	10	13	16	17	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	492	6	2	9	13	14	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	493	6	2	4	11	12	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	494	6	2	3	5	8	10	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	495	6	0	4	5	8	10	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	496	6	4	5	11	15	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	497	6	0	6	8	10	12	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	498	6	1	6	8	10	13	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	499	6	1	6	8	10	11	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	500	6	2	6	8	10	11	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	501	6	3	6	8	10	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	502	6	4	6	8	10	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	503	6	5	6	8	10	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	504	6	4	5	6	8	10	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	505	6	7	8	10	14	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	506	6	0	7	8	10	12	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	507	6	2	7	8	10	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	508	6	3	7	8	10	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	509	6	4	7	8	10	13	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	510	6	1	4	7	8	10	11	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	511	6	4	9	11	13	14	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	512	6	1	5	7	8	10	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	513	6	4	6	12	14	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	514	6	6	7	8	10	12	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	515	6	1	11	12	13	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	516	6	2	7	11	13	14	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	517	6	9	10	11	12	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	518	6	9	10	11	13	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	519	6	1	9	10	12	16	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	520	6	0	1	9	10	14	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	521	6	2	9	10	11	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	522	6	0	2	9	10	13	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	523	6	2	9	10	11	12	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	524	6	2	9	10	12	14	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	525	6	0	3	9	10	11	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	526	6	1	7	12	13	14	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	527	6	4	9	10	11	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	528	6	4	9	10	14	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	529	6	1	4	9	10	12	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	530	6	2	4	9	10	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	531	6	1	2	4	9	10	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	532	6	5	9	10	13	14	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	533	6	5	9	10	13	15	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	534	6	5	9	10	12	17	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	535	6	5	12	13	15	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	536	6	2	3	5	9	10	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	537	6	4	5	9	10	13	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	538	6	6	9	10	12	15	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	539	6	2	6	9	10	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	540	6	3	6	9	10	11	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	541	6	3	6	9	10	12	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	542	6	1	3	6	9	10	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	543	6	0	4	6	9	10	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	544	6	1	5	6	9	10	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	545	6	3	4	5	6	9	10	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	546	6	0	7	9	10	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	547	6	0	1	7	9	10	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	548	6	3	7	9	10	12	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	549	6	8	12	13	16	18	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	550	6	4	7	9	10	11	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	551	6	0	4	7	9	10	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	552	6	0	5	7	9	10	13	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	553	6	1	5	7	9	10	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	554	6	3	6	11	13	15	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	555	6	0	3	6	7	9	10	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	556	6	8	9	10	11	14	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	557	6	8	9	10	12	14	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	558	6	1	8	9	10	14	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	559	6	1	8	9	10	11	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	560	6	2	8	9	10	14	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	561	6	3	8	9	10	14	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	562	6	2	5	8	9	10	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	563	6	7	11	12	15	17	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	564	6	3	6	8	9	10	17	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	565	6	4	9	13	15	16	18	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	566	6	7	8	9	10	13	14	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	567	6	0	7	8	9	10	15	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	568	6	6	10	11	14	16	19	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt
+PSL	569	6	3	7	11	13	15	16	present	witnessflow/tools/scan/out_lat/psl19_3design_570.txt

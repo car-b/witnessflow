@@ -1,0 +1,19 @@
+(1) triples with 0 backbone + 3 candidate markers: n=1140, lambda distribution {1: 940, 2: 154, 3: 24, 4: 13, 5: 6, 6: 3}
+(1) triples with 1 backbone + 2 candidate markers: n=1520, lambda distribution {5: 648, 6: 864, 12: 8}
+(1) triples with 2 backbone + 1 candidate markers: n=560, lambda distribution {21: 504, 24: 56}
+(1) triples with 3 backbone + 0 candidate markers: n=56, lambda distribution {71: 56}
+(1) lambda(T U B') == lambda_X(T) for all 1140 T and gating sets of size 1,2,4: True
+(2) S(3,6,26): 30 of 130 tubes contain marker x; inside x+ cells the witnessed pairs 300/300 (each exactly {1} time), witnessed triples 300/2300 = 0.130
+(2) if x is promoted to the backbone (x + 6 other markers per tube): La Jolla C(25,6,3) = 130 tubes witness all 2300 triples inside x+; if x must share the 6 slots (x + 5): C(25,5,3) = 256 tubes
+(3) per-parent precision frontier (follow-up budget N fixed, worst-case p=0.5):
+    dataset parent                gate  n_gating_markers     pi  N_followup  v  cover_size  eps_best_any_design  eps_la_jolla_cover  lam_req_eps05_at_cover  cells_needed_for_eps05_all_triples
+levine32_v2   HSPC      CD34/-CD3-CD19                 3 0.0515       53125 20          71               0.1415              0.1579                      10                              425178
+levine32_v2      T           CD3/-CD19                 2 0.4105       53125 20          71               0.0501              0.0559                       2                               53338
+levine32_v2      B           CD19/-CD3                 2 0.2156       53125 20          71               0.0691              0.0772                       3                              101549
+levine32_v2   Mono CD33+CD14/-CD3-CD19                 4 0.0424       53125 20          71               0.1559              0.1740                      13                              516327
+levine32_v2     NK  CD7/-CD3-CD19-CD33                 4 0.0611       53125 20          71               0.1298              0.1449                       9                              358210
+ wingmen_v1   CD4T  CD3+CD4/-CD8a-CD19                 4 0.3704      159264 26         130               0.0460              0.0460                       1                              134818
+ wingmen_v1   CD8T  CD3+CD8a/-CD4-CD19                 4 0.1466      159264 26         130               0.0731              0.0731                       3                              340587
+ wingmen_v1      B           CD19/-CD3                 2 0.0775      159264 26         130               0.1005              0.1005                       5                              644079
+ wingmen_v1     NK CD56/-CD3-CD19-CD14                 4 0.1177      159264 26         130               0.0816              0.0816                       3                              424244
+ wingmen_v1   Mono CD14/-CD3-CD19-CD56                 4 0.1221      159264 26         130               0.0801              0.0801                       3                              409143

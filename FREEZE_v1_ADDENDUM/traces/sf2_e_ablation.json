@@ -1,0 +1,46 @@
+{
+ "script": "witnessflow/figures/derive/sf2_e_ablation.py",
+ "argv": [
+  "witnessflow\\figures\\derive/sf2_e_ablation.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704489.5155635,
+ "end": 1791704490.7970736,
+ "exit": 0,
+ "reads": [
+  "witnessflow/figures/data/fig4C_attribution_shuffle.tsv",
+  "witnessflow/figures/data/fig4D_ledger.tsv",
+  "witnessflow/figures/derive/sf2_e_ablation.py",
+  "witnessflow/figures/derived/fig5_C_right_dlam_status.tsv",
+  "witnessflow/results/levine32_v2/e5f_attribution.tsv",
+  "witnessflow/results/levine32_v2/ledger/T_rep0_opt4_targets.tsv",
+  "witnessflow/results/levine32_v2/ledger/T_rep0_opt5_targets.tsv",
+  "witnessflow/results/levine32_v2/ledger/T_rep0_opt6_targets.tsv",
+  "witnessflow/results/levine32_v2/ledger/T_rep1_opt4_targets.tsv",
+  "witnessflow/results/levine32_v2/ledger/T_rep1_opt5_targets.tsv",
+  "witnessflow/results/levine32_v2/ledger/T_rep1_opt6_targets.tsv",
+  "witnessflow/results/levine32_v2/ledger/ledger_summary.tsv",
+  "witnessflow/results/wingmen_v1/e5f_attribution.tsv",
+  "witnessflow/results/wingmen_v1/ledger/CD4T_rep0_opt4_targets.tsv",
+  "witnessflow/results/wingmen_v1/ledger/CD4T_rep0_opt5_targets.tsv",
+  "witnessflow/results/wingmen_v1/ledger/CD4T_rep0_opt6_targets.tsv",
+  "witnessflow/results/wingmen_v1/ledger/CD4T_rep1_opt4_targets.tsv",
+  "witnessflow/results/wingmen_v1/ledger/CD4T_rep1_opt5_targets.tsv",
+  "witnessflow/results/wingmen_v1/ledger/CD4T_rep1_opt6_targets.tsv",
+  "witnessflow/results/wingmen_v1/ledger/CD8T_rep0_opt4_targets.tsv",
+  "witnessflow/results/wingmen_v1/ledger/CD8T_rep0_opt5_targets.tsv",
+  "witnessflow/results/wingmen_v1/ledger/CD8T_rep0_opt6_targets.tsv",
+  "witnessflow/results/wingmen_v1/ledger/CD8T_rep1_opt4_targets.tsv",
+  "witnessflow/results/wingmen_v1/ledger/CD8T_rep1_opt5_targets.tsv",
+  "witnessflow/results/wingmen_v1/ledger/CD8T_rep1_opt6_targets.tsv",
+  "witnessflow/results/wingmen_v1/ledger/ledger_summary.tsv"
+ ],
+ "writes": [
+  "witnessflow/figures/derived/figS2_E_cells.tsv",
+  "witnessflow/figures/derived/figS2_E_dlam.tsv",
+  "witnessflow/figures/derived/figS2_E_e5f_records.tsv",
+  "witnessflow/figures/derived/figS2_E_ledgers.tsv",
+  "witnessflow/figures/derived/figS2_E_runs.tsv"
+ ],
+ "sqlite": []
+}

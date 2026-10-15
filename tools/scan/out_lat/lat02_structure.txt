@@ -1,0 +1,106 @@
+
+=== LJCR C(26,6,3): v=26, k=6, b=130
+point degrees: {30: 26}  (mean 30.000; perfectly balanced would be 30.000)
+pair multiplicities: {6: 325}  (mean 6.000)
+triple multiplicities: {1: 2600}
+block intersection sizes: {0: 1950, 1: 1560, 2: 4875}
+repeated blocks: 0
+per-point # over-covered triples (lam>1) through the point: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Miquelian inversive plane of order 5 built from GF(25): 130 circles
+explicit point map LJCR -> GF(25) model (0..24 = a+5b <-> a+b*s, s^2=2; 25 = infinity): {0: 0, 1: 1, 2: 2, 3: 10, 4: 14, 5: 4, 6: 15, 7: 9, 8: 6, 9: 11, 10: 7, 11: 24, 12: 22, 13: 19, 14: 25, 15: 13, 16: 5, 17: 8, 18: 20, 19: 16, 20: 21, 21: 23, 22: 12, 23: 3, 24: 18, 25: 17}
+LJCR C(26,6,3) isomorphic to the inversive plane of order 5: True   [4s]
+constructed plane is invariant under PGL(2,25) (by construction, order 15600) and under the Frobenius x->x^5: True  => |Aut| >= 31200 (= |PGammaL(2,25)|, the known full group)
+derived design at every point is a 2-(25,5,1) design: True; resolvable into 6 parallel classes of 5 lines (affine plane AG(2,5)): True
+residual at point 0: 100 blocks on 25 points; triple multiplicities among the 25 points: {1: 2000, 0: 300}
+
+=== LJCR C(20,6,3): v=20, k=6, b=71
+point degrees: {21: 18, 24: 2}  (mean 21.300; perfectly balanced would be 21.300)
+pair multiplicities: {5: 81, 6: 108, 12: 1}  (mean 5.605)
+triple multiplicities: {1: 940, 2: 154, 3: 24, 4: 13, 5: 6, 6: 3}
+block intersection sizes: {0: 243, 1: 555, 2: 1287, 3: 397, 4: 3}
+repeated blocks: 0
+per-point # over-covered triples (lam>1) through the point: [31, 28, 25, 28, 29, 29, 29, 31, 29, 28, 43, 27, 28, 29, 29, 43, 27, 27, 29, 31]
+point-invariant classes (degree, pair-multiset, triple-multiset): sizes [6, 4, 3, 3, 2, 1, 1]
+   class size 6: degree 21, pair-mult multiset {5: 9, 6: 10}, triple-mult through point {1: 142, 2: 22, 3: 6, 6: 1}
+   class size 4: degree 21, pair-mult multiset {5: 9, 6: 10}, triple-mult through point {1: 143, 2: 23, 4: 4, 5: 1}
+   class size 3: degree 21, pair-mult multiset {5: 9, 6: 10}, triple-mult through point {1: 140, 2: 26, 3: 4, 6: 1}
+   class size 3: degree 21, pair-mult multiset {5: 9, 6: 10}, triple-mult through point {1: 144, 2: 22, 4: 3, 5: 2}
+   class size 2: degree 24, pair-mult multiset {6: 18, 12: 1}, triple-mult through point {1: 128, 2: 25, 3: 12, 4: 4, 5: 2}
+   class size 1: degree 21, pair-mult multiset {5: 9, 6: 10}, triple-mult through point {1: 146, 2: 20, 4: 1, 5: 4}
+|Aut| = 3 (stabiliser-chain orbit sizes [3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1])  [4s]
+derived structure at point 0: 21 blocks of size 5 on 19 points; pair multiplicities {1: 140, 2: 26, 3: 4, 6: 1}
+derived structure at point 1: 21 blocks of size 5 on 19 points; pair multiplicities {1: 143, 2: 23, 4: 4, 5: 1}
+derived structure at point 2: 21 blocks of size 5 on 19 points; pair multiplicities {1: 146, 2: 20, 4: 1, 5: 4}
+triples with max multiplicity 6: [[0, 7, 19], [4, 5, 18], [6, 8, 13]]
+blocks (sorted):
+    0  1  2  5 13 16
+    0  1  3  4  6 17
+    0  1  6 10 15 18
+    0  1  7  9 12 19
+    0  1  8 11 14 18
+    0  2  3  8 15 18
+    0  2  4  6 12 14
+    0  2  4  8  9 10
+    0  2  7 11 17 19
+    0  3  5 11 12 13
+    0  3  7 10 16 19
+    0  3  9 13 14 18
+    0  4  5  7 18 19
+    0  4  6  9 11 16
+    0  4 10 11 13 15
+    0  5  6  9 15 17
+    0  5  8 10 12 15
+    0  5 10 13 14 17
+    0  6  7  8 13 19
+    0  7 14 15 16 19
+    0  8 12 16 17 18
+    1  2  3  9 11 17
+    1  2  3 12 15 16
+    1  2  4  7  8 16
+    1  2  6 16 18 19
+    1  2  9 10 14 16
+    1  3  5  8 17 19
+    1  3  7 13 17 18
+    1  3 10 11 12 14
+    1  4  5  9 12 18
+    1  4  8 10 15 19
+    1  4 11 13 14 19
+    1  5  6  7 11 14
+    1  5  7 10 13 15
+    1  6  8  9 12 13
+    1  9 12 14 15 17
+    1 10 11 15 16 17
+    2  3  4 13 15 19
+    2  3  5  6  7 15
+    2  3 10 14 15 17
+    2  4  5 11 17 18
+    2  5  8 12 14 19
+    2  5  9 10 13 19
+    2  6  7  9 10 18
+    2  6  8 11 13 17
+    2  7 12 13 14 18
+    2  9 10 11 12 15
+    2 11 12 14 16 17
+    3  4  5 10 16 18
+    3  4  6  9 14 19
+    3  4  7  8 11 12
+    3  5  7  8  9 14
+    3  6  8 10 13 16
+    3  6 11 12 18 19
+    3  9 10 12 16 17
+    3  9 11 14 15 16
+    4  5  6  8 13 18
+    4  5 14 15 16 18
+    4  6  7 10 12 15
+    4  7  8 10 14 17
+    4  7  9 13 15 17
+    4 12 13 16 17 19
+    5  6  7 12 16 17
+    5  6 10 11 15 19
+    5  8  9 11 16 19
+    6  8 13 14 15 16
+    6 10 14 17 18 19
+    7  8 10 11 15 18
+    7  9 11 13 16 18
+    8  9 15 17 18 19
+   10 12 13 15 18 19

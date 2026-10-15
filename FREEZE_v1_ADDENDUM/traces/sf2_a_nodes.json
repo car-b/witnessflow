@@ -1,0 +1,24 @@
+{
+ "script": "witnessflow/figures/derive/sf2_a_nodes.py",
+ "argv": [
+  "witnessflow\\figures\\derive/sf2_a_nodes.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704485.0941162,
+ "end": 1791704486.0364654,
+ "exit": 0,
+ "reads": [
+  "witnessflow/figures/data/fig3A_sawtooth.tsv",
+  "witnessflow/figures/derive/sf2_a_nodes.py",
+  "witnessflow/results/levine32_v2/e5b_steiner_nodes.tsv",
+  "witnessflow/results/wingmen_v1/e5b_r180.tsv",
+  "witnessflow/results/wingmen_v1/e5b_steiner_nodes.tsv"
+ ],
+ "writes": [
+  "witnessflow/figures/derived/figS2_A_grid.tsv",
+  "witnessflow/figures/derived/figS2_A_runs.tsv",
+  "witnessflow/figures/derived/figS2_A_seed.tsv",
+  "witnessflow/figures/derived/figS2_A_summary.tsv"
+ ],
+ "sqlite": []
+}

@@ -1,0 +1,9 @@
+key	value	check
+lower_bound	117	Schoenheim bound L(20,6,3; lambda=2), as in src/e5e.py docstring
+feasible	142	two stacked LJCR C(20,6,3) copies, lambda_min = 2
+found_141	0/20	certificate False in all 20 saved runs
+wall_hours_sum	6.67	sum of `wall` over the 20 runs (wall-clock, not CPU time)
+min_deficiency	2	ties: 4 runs anneal 600 s s2, anneal 1800 s s10, anneal 1800 s s11, anneal 1800 s s14
+closest_run	anneal 600 s seed 2	rule: min deficiency, then fewer lambda=0 triples, shorter budget, lower seed
+closest_lambda0	0	triples with lambda = 0 in the closest run
+closest_lambda1	2	triples with lambda = 1 in the closest run

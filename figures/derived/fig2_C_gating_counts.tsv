@@ -1,0 +1,6 @@
+item	value	total	source
+tubes containing x	30	130.0	recomputed from wfgeom blocks; matches tools/scan/out_lat/lat06_derived.txt
+pairs of other markers witnessed in x+	300	300.0	recomputed from wfgeom blocks; matches tools/scan/out_lat/lat06_derived.txt
+triples of other markers witnessed in x+ (collinear)	300	2300.0	recomputed from wfgeom blocks; matches tools/scan/out_lat/lat06_derived.txt
+repair x in backbone (x + 6 = 7 slots): covering certificate C(25,6,3)	130		recomputed from wfgeom blocks; matches tools/scan/out_lat/lat06_derived.txt
+repair capacity 6 (x + 5): covering certificate C(25,5,3)	256		recomputed from wfgeom blocks; matches tools/scan/out_lat/lat06_derived.txt

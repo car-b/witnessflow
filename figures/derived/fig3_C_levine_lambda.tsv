@@ -1,0 +1,8 @@
+design	r	lam	n_triples	min_share_ratio	source
+LJCR C(20,6,3) covering (= LJCR_stack seed0)	71	1	940	0.8028169014084507	tools/scan/out_lat/lat02_structure.txt + lat01_hist.tsv (cross-checked); ratio = lat01_summary.tsv eff
+LJCR C(20,6,3) covering (= LJCR_stack seed0)	71	2	154	0.8028169014084507	tools/scan/out_lat/lat02_structure.txt + lat01_hist.tsv (cross-checked); ratio = lat01_summary.tsv eff
+LJCR C(20,6,3) covering (= LJCR_stack seed0)	71	3	24	0.8028169014084507	tools/scan/out_lat/lat02_structure.txt + lat01_hist.tsv (cross-checked); ratio = lat01_summary.tsv eff
+LJCR C(20,6,3) covering (= LJCR_stack seed0)	71	4	13	0.8028169014084507	tools/scan/out_lat/lat02_structure.txt + lat01_hist.tsv (cross-checked); ratio = lat01_summary.tsv eff
+LJCR C(20,6,3) covering (= LJCR_stack seed0)	71	5	6	0.8028169014084507	tools/scan/out_lat/lat02_structure.txt + lat01_hist.tsv (cross-checked); ratio = lat01_summary.tsv eff
+LJCR C(20,6,3) covering (= LJCR_stack seed0)	71	6	3	0.8028169014084507	tools/scan/out_lat/lat02_structure.txt + lat01_hist.tsv (cross-checked); ratio = lat01_summary.tsv eff
+PSL(2,19) 3-(20,6,10) design	570	10	1140	1.0	tools/scan/out_lat/lat02_structure.txt + lat01_hist.tsv (cross-checked); ratio = lat01_summary.tsv eff

@@ -1,0 +1,9 @@
+dataset	r	method	min	max	count	offset0	parent	allocations	source
+levine32_v2	71	classical_stack	0.8941520467836258	1.0	5	0.9988304093567252	T	3	figures/data/supp_threshold_design.tsv (e5g; offsets -0.25..+0.25; 3 allocations, random design seed 0)
+levine32_v2	71	random	0.6795321637426901	0.7324561403508771	5	0.730701754385965	T	3	figures/data/supp_threshold_design.tsv (e5g; offsets -0.25..+0.25; 3 allocations, random design seed 0)
+levine32_v2	100	classical_stack	0.5698830409356725	0.6997076023391813	5	0.622514619883041	T	3	figures/data/supp_threshold_design.tsv (e5g; offsets -0.25..+0.25; 3 allocations, random design seed 0)
+levine32_v2	100	random	0.5716374269005847	0.6666666666666666	5	0.5950292397660818	T	3	figures/data/supp_threshold_design.tsv (e5g; offsets -0.25..+0.25; 3 allocations, random design seed 0)
+wingmen_v1	130	classical_stack	0.9908974358974358	0.9997435897435896	5	0.9997435897435896	CD4T	3	figures/data/supp_threshold_design.tsv (e5g; offsets -0.25..+0.25; 3 allocations, random design seed 0)
+wingmen_v1	130	random	0.6388461538461538	0.6421794871794871	5	0.6419230769230769	CD4T	3	figures/data/supp_threshold_design.tsv (e5g; offsets -0.25..+0.25; 3 allocations, random design seed 0)
+wingmen_v1	180	classical_stack	0.5121794871794871	0.681923076923077	5	0.6456410256410257	CD4T	3	figures/data/supp_threshold_design.tsv (e5g; offsets -0.25..+0.25; 3 allocations, random design seed 0)
+wingmen_v1	180	random	0.4684615384615384	0.5646153846153846	5	0.5397435897435897	CD4T	3	figures/data/supp_threshold_design.tsv (e5g; offsets -0.25..+0.25; 3 allocations, random design seed 0)

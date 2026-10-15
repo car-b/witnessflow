@@ -1,0 +1,38 @@
+marker	column	reliable_cytonorm	wingmen_role	wingmen_label	levine_role	levine_label
+CD45	1	True			backbone	CD45
+CD11c	2	True	backbone	CD11c	candidate	CD11c
+CD33	3	True			backbone	CD33
+CD45RA	4	True	candidate	CD45RA	candidate	CD45RA
+CD56	5	True	backbone	CD56		
+CD15	6	True			candidate	CD15
+MAPKAPK2	7	True				
+CXCR3	8	True				
+NFkB	9	True				
+CD25	10	False	candidate	CD25		
+S6	11	False				
+CD19	12	False	backbone	CD19	backbone	CD19
+CCR2	13	True				
+Tbet	14	True				
+STAT5	15	False				
+STAT3	16	True				
+CD8a	17	True	backbone	CD8a		
+CCR9	18	True				
+FoxP3	19	False	candidate	FoxP3		
+HLADR	20	True	candidate	HLADR	candidate	HLA-DR
+CD7	21	True			backbone	CD7
+CD161	22	True	candidate	CD161		
+IkB	23	True				
+STAT1	24	False				
+p38	25	True				
+CD4	26	True	backbone	CD4	candidate	CD4
+CD123	27	False			candidate	CD123
+ERK	28	True				
+CD235ab_CD61	29	True				
+CCR7	30	False	candidate	CCR7		
+TCRgd	31	True	candidate	TCRgd		
+CD14	32	True	backbone	CD14	backbone	CD14
+CD3	33	True	backbone	CD3	backbone	CD3
+CD11b	34	True	candidate	CD11b	backbone	CD11b
+CREB	35	True				
+CD66	36	True				
+CD16	37	True	backbone	CD16	candidate	CD16

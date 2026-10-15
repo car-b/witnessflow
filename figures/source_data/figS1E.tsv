@@ -1,0 +1,508 @@
+block	donor	marker	column	reliable	value	unit	pos_b1	pos_b2
+max_abs_median_shift	PTLG034	CD45	1	True	0.4918839047272458	asinh		
+max_abs_median_shift	PTLG034	CD11c	2	True	0.2455950590156732	asinh		
+max_abs_median_shift	PTLG021	CD33	3	True	0.2679693511795495	asinh		
+max_abs_median_shift	PTLG021	CD45RA	4	True	0.3957672859378518	asinh		
+max_abs_median_shift	PTLG034	CD56	5	True	0.1707568148412807	asinh		
+max_abs_median_shift	PTLG034	CD15	6	True	0.1893217942729967	asinh		
+max_abs_median_shift	PTLG034	MAPKAPK2	7	True	0.2693077155923047	asinh		
+max_abs_median_shift	PTLG034	CXCR3	8	True	0.2011390705323679	asinh		
+max_abs_median_shift	PTLG028	NFkB	9	True	0.1614310821234665	asinh		
+max_abs_median_shift		CD25	10	False		asinh		
+max_abs_median_shift		S6	11	False		asinh		
+max_abs_median_shift		CD19	12	False		asinh		
+max_abs_median_shift	PTLG034	CCR2	13	True	0.1243125043120775	asinh		
+max_abs_median_shift	PTLG034	Tbet	14	True	0.1579303789582391	asinh		
+max_abs_median_shift		STAT5	15	False		asinh		
+max_abs_median_shift	PTLG034	STAT3	16	True	0.0732322350266948	asinh		
+max_abs_median_shift	PTLG028	CD8a	17	True	0.0725451628395227	asinh		
+max_abs_median_shift	PTLG034	CCR9	18	True	0.0701504399358832	asinh		
+max_abs_median_shift		FoxP3	19	False		asinh		
+max_abs_median_shift	PTLG034	HLADR	20	True	0.0720493804532681	asinh		
+max_abs_median_shift	PTLG034	CD7	21	True	0.0447557896080164	asinh		
+max_abs_median_shift	PTLG034	CD161	22	True	0.0606754019687982	asinh		
+max_abs_median_shift	PTLG034	IkB	23	True	0.0553179548472256	asinh		
+max_abs_median_shift		STAT1	24	False		asinh		
+max_abs_median_shift	PTLG021	p38	25	True	0.0269108460892624	asinh		
+max_abs_median_shift	PTLG028	CD4	26	True	0.0377158618090229	asinh		
+max_abs_median_shift		CD123	27	False		asinh		
+max_abs_median_shift	PTLG028	ERK	28	True	0.025598306456831	asinh		
+max_abs_median_shift	PTLG021	CD235ab_CD61	29	True	0.0283808514283328	asinh		
+max_abs_median_shift		CCR7	30	False		asinh		
+max_abs_median_shift	PTLG028	TCRgd	31	True	0.0179245865561783	asinh		
+max_abs_median_shift	PTLG028	CD14	32	True	0.0172999059897313	asinh		
+max_abs_median_shift	PTLG028	CD3	33	True	0.0178171486920084	asinh		
+max_abs_median_shift	PTLG034	CD11b	34	True	0.1036586395424823	asinh		
+max_abs_median_shift	PTLG021	CREB	35	True	0.0438247531347112	asinh		
+max_abs_median_shift	PTLG021	CD66	36	True	0.2015043451110107	asinh		
+max_abs_median_shift	PTLG028	CD16	37	True	0.487055892307179	asinh		
+median_shift	PTLG021	CD45	1	True	0.2508422988728029	asinh	0.415	0.49
+median_shift	PTLG021	CD11c	2	True	0.0699739218845537	asinh	0.183	0.263
+median_shift	PTLG021	CD33	3	True	0.2679693511795495	asinh	0.079	0.171
+median_shift	PTLG021	CD45RA	4	True	0.3957672859378518	asinh	0.173	0.354
+median_shift	PTLG021	CD56	5	True	0.0854961859740511	asinh	0.069	0.113
+median_shift	PTLG021	CD15	6	True	0.0676639204098004	asinh	0.598	0.557
+median_shift	PTLG021	MAPKAPK2	7	True	0.1074362564084647	asinh	0.436	0.466
+median_shift	PTLG021	CXCR3	8	True	0.0342298840317192	asinh	0.37	0.411
+median_shift	PTLG021	NFkB	9	True	0.0572174504164606	asinh	0.337	0.372
+median_shift	PTLG021	CD25	10	False	0.3892150751566929	asinh	0.576	0.867
+median_shift	PTLG021	S6	11	False	0.0865823243127731	asinh	0.177	0.232
+median_shift	PTLG021	CD19	12	False	0.3580971371955748	asinh	0.755	0.981
+median_shift	PTLG021	CCR2	13	True	0.0223811216720231	asinh	0.163	0.191
+median_shift	PTLG021	Tbet	14	True	-0.0460144151133401	asinh	0.109	0.136
+median_shift	PTLG021	STAT5	15	False	0.0239511940116559	asinh	0.061	0.07
+median_shift	PTLG021	STAT3	16	True	0.0104894074305129	asinh	0.035	0.054
+median_shift	PTLG021	CD8a	17	True	0.0168549018283912	asinh	0.127	0.144
+median_shift	PTLG021	CCR9	18	True	0.0018792038711608	asinh	0.052	0.041
+median_shift	PTLG021	FoxP3	19	False	0.0068041989204095	asinh	0.153	0.149
+median_shift	PTLG021	HLADR	20	True	0.0133535396093663	asinh	0.166	0.219
+median_shift	PTLG021	CD7	21	True	0.0360732652198144	asinh	0.296	0.299
+median_shift	PTLG021	CD161	22	True	0.0318957908194084	asinh	0.077	0.116
+median_shift	PTLG021	IkB	23	True	0.0445779198602294	asinh	0.18	0.184
+median_shift	PTLG021	STAT1	24	False	0.017689515394136	asinh	0.046	0.069
+median_shift	PTLG021	p38	25	True	0.0269108460892624	asinh	0.053	0.075
+median_shift	PTLG021	CD4	26	True	-0.0031919649773383	asinh	0.16	0.149
+median_shift	PTLG021	CD123	27	False	0.0154889791270188	asinh	0.053	0.057
+median_shift	PTLG021	ERK	28	True	0.0082277613531293	asinh	0.075	0.09
+median_shift	PTLG021	CD235ab_CD61	29	True	0.0283808514283328	asinh	0.097	0.094
+median_shift	PTLG021	CCR7	30	False	-0.0460668890161493	asinh	0.301	0.219
+median_shift	PTLG021	TCRgd	31	True	0.0153352217693569	asinh	0.033	0.029
+median_shift	PTLG021	CD14	32	True	-0.0032685412241099	asinh	0.119	0.137
+median_shift	PTLG021	CD3	33	True	-0.0157094914826936	asinh	0.276	0.273
+median_shift	PTLG021	CD11b	34	True	-0.0680348328067714	asinh	0.656	0.628
+median_shift	PTLG021	CREB	35	True	-0.0438247531347112	asinh	0.253	0.224
+median_shift	PTLG021	CD66	36	True	-0.2015043451110107	asinh	0.541	0.491
+median_shift	PTLG021	CD16	37	True	-0.3063531395154539	asinh	0.607	0.579
+median_shift	PTLG028	CD45	1	True	0.2142408131275885	asinh	0.349	0.422
+median_shift	PTLG028	CD11c	2	True	0.2278534103529458	asinh	0.229	0.332
+median_shift	PTLG028	CD33	3	True	0.0961650679379724	asinh	0.07	0.124
+median_shift	PTLG028	CD45RA	4	True	0.0369641574854209	asinh	0.128	0.169
+median_shift	PTLG028	CD56	5	True	0.1324302689256927	asinh	0.074	0.121
+median_shift	PTLG028	CD15	6	True	0.1270816797956957	asinh	0.635	0.597
+median_shift	PTLG028	MAPKAPK2	7	True	0.0001425590357659	asinh	0.395	0.412
+median_shift	PTLG028	CXCR3	8	True	0.107108988486573	asinh	0.312	0.378
+median_shift	PTLG028	NFkB	9	True	0.1614310821234665	asinh	0.316	0.416
+median_shift	PTLG028	CD25	10	False	0.0571167840954958	asinh	0.245	0.258
+median_shift	PTLG028	S6	11	False	0.0659032875531535	asinh	0.176	0.235
+median_shift	PTLG028	CD19	12	False	-0.0482090737300069	asinh	0.604	0.639
+median_shift	PTLG028	CCR2	13	True	0.0824871690149386	asinh	0.153	0.199
+median_shift	PTLG028	Tbet	14	True	0.0975420677704943	asinh	0.161	0.239
+median_shift	PTLG028	STAT5	15	False	0.0657011693571764	asinh	0.093	0.122
+median_shift	PTLG028	STAT3	16	True	0.061382139731235	asinh	0.039	0.058
+median_shift	PTLG028	CD8a	17	True	0.0725451628395227	asinh	0.1	0.154
+median_shift	PTLG028	CCR9	18	True	0.0595451736198703	asinh	0.052	0.043
+median_shift	PTLG028	FoxP3	19	False	0.034841256159093	asinh	0.276	0.293
+median_shift	PTLG028	HLADR	20	True	0.0395946102156112	asinh	0.165	0.22
+median_shift	PTLG028	CD7	21	True	0.0327450115800264	asinh	0.272	0.273
+median_shift	PTLG028	CD161	22	True	0.0191620191830644	asinh	0.093	0.152
+median_shift	PTLG028	IkB	23	True	0.004371438443884	asinh	0.208	0.215
+median_shift	PTLG028	STAT1	24	False	0.0348957818581969	asinh	0.06	0.084
+median_shift	PTLG028	p38	25	True	0.0040599963543379	asinh	0.081	0.085
+median_shift	PTLG028	CD4	26	True	0.0377158618090229	asinh	0.145	0.128
+median_shift	PTLG028	CD123	27	False	0.025721458194444	asinh	0.084	0.09
+median_shift	PTLG028	ERK	28	True	0.025598306456831	asinh	0.084	0.11
+median_shift	PTLG028	CD235ab_CD61	29	True	0.0120238312110727	asinh	0.1	0.103
+median_shift	PTLG028	CCR7	30	False	-0.0212677321802019	asinh	0.277	0.279
+median_shift	PTLG028	TCRgd	31	True	0.0179245865561783	asinh	0.06	0.052
+median_shift	PTLG028	CD14	32	True	0.0172999059897313	asinh	0.098	0.134
+median_shift	PTLG028	CD3	33	True	0.0178171486920084	asinh	0.228	0.237
+median_shift	PTLG028	CD11b	34	True	-0.0406488449144664	asinh	0.676	0.651
+median_shift	PTLG028	CREB	35	True	-0.0308802201809469	asinh	0.285	0.29
+median_shift	PTLG028	CD66	36	True	-0.035242323344109	asinh	0.695	0.677
+median_shift	PTLG028	CD16	37	True	-0.487055892307179	asinh	0.672	0.635
+median_shift	PTLG034	CD45	1	True	0.4918839047272458	asinh	0.342	0.45
+median_shift	PTLG034	CD11c	2	True	0.2455950590156732	asinh	0.173	0.318
+median_shift	PTLG034	CD33	3	True	0.0619198755757621	asinh	0.089	0.143
+median_shift	PTLG034	CD45RA	4	True	-0.0084544966950126	asinh	0.137	0.209
+median_shift	PTLG034	CD56	5	True	0.1707568148412807	asinh	0.108	0.147
+median_shift	PTLG034	CD15	6	True	0.1893217942729967	asinh	0.599	0.56
+median_shift	PTLG034	MAPKAPK2	7	True	0.2693077155923047	asinh	0.403	0.495
+median_shift	PTLG034	CXCR3	8	True	0.2011390705323679	asinh	0.31	0.382
+median_shift	PTLG034	NFkB	9	True	0.1190648366317967	asinh	0.295	0.392
+median_shift	PTLG034	CD25	10	False	-0.1439282166488182	asinh	0.517	0.411
+median_shift	PTLG034	S6	11	False	0.102434331208143	asinh	0.121	0.188
+median_shift	PTLG034	CD19	12	False	-0.0691554437624759	asinh	0.642	0.724
+median_shift	PTLG034	CCR2	13	True	0.1243125043120775	asinh	0.174	0.221
+median_shift	PTLG034	Tbet	14	True	0.1579303789582391	asinh	0.097	0.176
+median_shift	PTLG034	STAT5	15	False	0.0646011909470777	asinh	0.102	0.121
+median_shift	PTLG034	STAT3	16	True	0.0732322350266948	asinh	0.065	0.067
+median_shift	PTLG034	CD8a	17	True	0.0505229315217794	asinh	0.123	0.155
+median_shift	PTLG034	CCR9	18	True	0.0701504399358832	asinh	0.077	0.076
+median_shift	PTLG034	FoxP3	19	False	0.0873653303423205	asinh	0.262	0.306
+median_shift	PTLG034	HLADR	20	True	0.0720493804532681	asinh	0.184	0.252
+median_shift	PTLG034	CD7	21	True	0.0447557896080164	asinh	0.33	0.316
+median_shift	PTLG034	CD161	22	True	0.0606754019687982	asinh	0.127	0.151
+median_shift	PTLG034	IkB	23	True	0.0553179548472256	asinh	0.337	0.349
+median_shift	PTLG034	STAT1	24	False	0.041328777433395	asinh	0.079	0.108
+median_shift	PTLG034	p38	25	True	0.0243022918688648	asinh	0.101	0.132
+median_shift	PTLG034	CD4	26	True	0.013731105825816	asinh	0.178	0.157
+median_shift	PTLG034	CD123	27	False	0.0038303908717687	asinh	0.083	0.08
+median_shift	PTLG034	ERK	28	True	0.0091942802498005	asinh	0.138	0.122
+median_shift	PTLG034	CD235ab_CD61	29	True	0.0	asinh	0.143	0.086
+median_shift	PTLG034	CCR7	30	False	0.102402458188743	asinh	0.11	0.114
+median_shift	PTLG034	TCRgd	31	True	0.0	asinh	0.057	0.034
+median_shift	PTLG034	CD14	32	True	0.0	asinh	0.13	0.169
+median_shift	PTLG034	CD3	33	True	-0.0042531575205387	asinh	0.265	0.266
+median_shift	PTLG034	CD11b	34	True	0.1036586395424823	asinh	0.641	0.615
+median_shift	PTLG034	CREB	35	True	0.0293709415814582	asinh	0.188	0.201
+median_shift	PTLG034	CD66	36	True	0.0429840020309013	asinh	0.706	0.694
+median_shift	PTLG034	CD16	37	True	-0.2877865489173903	asinh	0.601	0.583
+dpos_pp	PTLG021	CD45	1	True	7.5	pp	0.415	0.49
+dpos_pp	PTLG021	CD11c	2	True	8.0	pp	0.183	0.263
+dpos_pp	PTLG021	CD33	3	True	9.2	pp	0.079	0.171
+dpos_pp	PTLG021	CD45RA	4	True	18.1	pp	0.173	0.354
+dpos_pp	PTLG021	CD56	5	True	4.4	pp	0.069	0.113
+dpos_pp	PTLG021	CD15	6	True	-4.09999999999999	pp	0.598	0.557
+dpos_pp	PTLG021	MAPKAPK2	7	True	3.0	pp	0.436	0.466
+dpos_pp	PTLG021	CXCR3	8	True	4.09999999999999	pp	0.37	0.411
+dpos_pp	PTLG021	NFkB	9	True	3.49999999999999	pp	0.337	0.372
+dpos_pp	PTLG021	CD25	10	False	29.1	pp	0.576	0.867
+dpos_pp	PTLG021	S6	11	False	5.5	pp	0.177	0.232
+dpos_pp	PTLG021	CD19	12	False	22.59999999999999	pp	0.755	0.981
+dpos_pp	PTLG021	CCR2	13	True	2.79999999999999	pp	0.163	0.191
+dpos_pp	PTLG021	Tbet	14	True	2.7	pp	0.109	0.136
+dpos_pp	PTLG021	STAT5	15	False	0.8999999999999999	pp	0.061	0.07
+dpos_pp	PTLG021	STAT3	16	True	1.89999999999999	pp	0.035	0.054
+dpos_pp	PTLG021	CD8a	17	True	1.69999999999999	pp	0.127	0.144
+dpos_pp	PTLG021	CCR9	18	True	-1.09999999999999	pp	0.052	0.041
+dpos_pp	PTLG021	FoxP3	19	False	-0.4	pp	0.153	0.149
+dpos_pp	PTLG021	HLADR	20	True	5.29999999999999	pp	0.166	0.219
+dpos_pp	PTLG021	CD7	21	True	0.3	pp	0.296	0.299
+dpos_pp	PTLG021	CD161	22	True	3.9	pp	0.077	0.116
+dpos_pp	PTLG021	IkB	23	True	0.4	pp	0.18	0.184
+dpos_pp	PTLG021	STAT1	24	False	2.3	pp	0.046	0.069
+dpos_pp	PTLG021	p38	25	True	2.2	pp	0.053	0.075
+dpos_pp	PTLG021	CD4	26	True	-1.1	pp	0.16	0.149
+dpos_pp	PTLG021	CD123	27	False	0.4	pp	0.053	0.057
+dpos_pp	PTLG021	ERK	28	True	1.5	pp	0.075	0.09
+dpos_pp	PTLG021	CD235ab_CD61	29	True	-0.3	pp	0.097	0.094
+dpos_pp	PTLG021	CCR7	30	False	-8.19999999999999	pp	0.301	0.219
+dpos_pp	PTLG021	TCRgd	31	True	-0.4	pp	0.033	0.029
+dpos_pp	PTLG021	CD14	32	True	1.7999999999999998	pp	0.119	0.137
+dpos_pp	PTLG021	CD3	33	True	-0.3	pp	0.276	0.273
+dpos_pp	PTLG021	CD11b	34	True	-2.8000000000000003	pp	0.656	0.628
+dpos_pp	PTLG021	CREB	35	True	-2.89999999999999	pp	0.253	0.224
+dpos_pp	PTLG021	CD66	36	True	-5.0	pp	0.541	0.491
+dpos_pp	PTLG021	CD16	37	True	-2.8000000000000003	pp	0.607	0.579
+dpos_pp	PTLG028	CD45	1	True	7.3	pp	0.349	0.422
+dpos_pp	PTLG028	CD11c	2	True	10.3	pp	0.229	0.332
+dpos_pp	PTLG028	CD33	3	True	5.399999999999991	pp	0.07	0.124
+dpos_pp	PTLG028	CD45RA	4	True	4.1000000000000005	pp	0.128	0.169
+dpos_pp	PTLG028	CD56	5	True	4.7	pp	0.074	0.121
+dpos_pp	PTLG028	CD15	6	True	-3.8	pp	0.635	0.597
+dpos_pp	PTLG028	MAPKAPK2	7	True	1.69999999999999	pp	0.395	0.412
+dpos_pp	PTLG028	CXCR3	8	True	6.6000000000000005	pp	0.312	0.378
+dpos_pp	PTLG028	NFkB	9	True	9.99999999999999	pp	0.316	0.416
+dpos_pp	PTLG028	CD25	10	False	1.3	pp	0.245	0.258
+dpos_pp	PTLG028	S6	11	False	5.9	pp	0.176	0.235
+dpos_pp	PTLG028	CD19	12	False	3.5000000000000004	pp	0.604	0.639
+dpos_pp	PTLG028	CCR2	13	True	4.6	pp	0.153	0.199
+dpos_pp	PTLG028	Tbet	14	True	7.79999999999999	pp	0.161	0.239
+dpos_pp	PTLG028	STAT5	15	False	2.89999999999999	pp	0.093	0.122
+dpos_pp	PTLG028	STAT3	16	True	1.9	pp	0.039	0.058
+dpos_pp	PTLG028	CD8a	17	True	5.399999999999991	pp	0.1	0.154
+dpos_pp	PTLG028	CCR9	18	True	-0.8999999999999999	pp	0.052	0.043
+dpos_pp	PTLG028	FoxP3	19	False	1.69999999999999	pp	0.276	0.293
+dpos_pp	PTLG028	HLADR	20	True	5.49999999999999	pp	0.165	0.22
+dpos_pp	PTLG028	CD7	21	True	0.1	pp	0.272	0.273
+dpos_pp	PTLG028	CD161	22	True	5.9	pp	0.093	0.152
+dpos_pp	PTLG028	IkB	23	True	0.7000000000000001	pp	0.208	0.215
+dpos_pp	PTLG028	STAT1	24	False	2.4	pp	0.06	0.084
+dpos_pp	PTLG028	p38	25	True	0.4	pp	0.081	0.085
+dpos_pp	PTLG028	CD4	26	True	-1.69999999999999	pp	0.145	0.128
+dpos_pp	PTLG028	CD123	27	False	0.59999999999999	pp	0.084	0.09
+dpos_pp	PTLG028	ERK	28	True	2.5999999999999903	pp	0.084	0.11
+dpos_pp	PTLG028	CD235ab_CD61	29	True	0.29999999999999	pp	0.1	0.103
+dpos_pp	PTLG028	CCR7	30	False	0.2	pp	0.277	0.279
+dpos_pp	PTLG028	TCRgd	31	True	-0.8	pp	0.06	0.052
+dpos_pp	PTLG028	CD14	32	True	3.6	pp	0.098	0.134
+dpos_pp	PTLG028	CD3	33	True	0.89999999999999	pp	0.228	0.237
+dpos_pp	PTLG028	CD11b	34	True	-2.5	pp	0.676	0.651
+dpos_pp	PTLG028	CREB	35	True	0.5	pp	0.285	0.29
+dpos_pp	PTLG028	CD66	36	True	-1.79999999999999	pp	0.695	0.677
+dpos_pp	PTLG028	CD16	37	True	-3.7	pp	0.672	0.635
+dpos_pp	PTLG034	CD45	1	True	10.79999999999999	pp	0.342	0.45
+dpos_pp	PTLG034	CD11c	2	True	14.499999999999998	pp	0.173	0.318
+dpos_pp	PTLG034	CD33	3	True	5.399999999999991	pp	0.089	0.143
+dpos_pp	PTLG034	CD45RA	4	True	7.1999999999999895	pp	0.137	0.209
+dpos_pp	PTLG034	CD56	5	True	3.89999999999999	pp	0.108	0.147
+dpos_pp	PTLG034	CD15	6	True	-3.89999999999999	pp	0.599	0.56
+dpos_pp	PTLG034	MAPKAPK2	7	True	9.19999999999999	pp	0.403	0.495
+dpos_pp	PTLG034	CXCR3	8	True	7.199999999999999	pp	0.31	0.382
+dpos_pp	PTLG034	NFkB	9	True	9.7	pp	0.295	0.392
+dpos_pp	PTLG034	CD25	10	False	-10.6	pp	0.517	0.411
+dpos_pp	PTLG034	S6	11	False	6.7	pp	0.121	0.188
+dpos_pp	PTLG034	CD19	12	False	8.19999999999999	pp	0.642	0.724
+dpos_pp	PTLG034	CCR2	13	True	4.7	pp	0.174	0.221
+dpos_pp	PTLG034	Tbet	14	True	7.899999999999991	pp	0.097	0.176
+dpos_pp	PTLG034	STAT5	15	False	1.9	pp	0.102	0.121
+dpos_pp	PTLG034	STAT3	16	True	0.2	pp	0.065	0.067
+dpos_pp	PTLG034	CD8a	17	True	3.2	pp	0.123	0.155
+dpos_pp	PTLG034	CCR9	18	True	-0.1	pp	0.077	0.076
+dpos_pp	PTLG034	FoxP3	19	False	4.39999999999999	pp	0.262	0.306
+dpos_pp	PTLG034	HLADR	20	True	6.800000000000001	pp	0.184	0.252
+dpos_pp	PTLG034	CD7	21	True	-1.4	pp	0.33	0.316
+dpos_pp	PTLG034	CD161	22	True	2.39999999999999	pp	0.127	0.151
+dpos_pp	PTLG034	IkB	23	True	1.19999999999999	pp	0.337	0.349
+dpos_pp	PTLG034	STAT1	24	False	2.89999999999999	pp	0.079	0.108
+dpos_pp	PTLG034	p38	25	True	3.1	pp	0.101	0.132
+dpos_pp	PTLG034	CD4	26	True	-2.09999999999999	pp	0.178	0.157
+dpos_pp	PTLG034	CD123	27	False	-0.3	pp	0.083	0.08
+dpos_pp	PTLG034	ERK	28	True	-1.6	pp	0.138	0.122
+dpos_pp	PTLG034	CD235ab_CD61	29	True	-5.6999999999999895	pp	0.143	0.086
+dpos_pp	PTLG034	CCR7	30	False	0.4	pp	0.11	0.114
+dpos_pp	PTLG034	TCRgd	31	True	-2.3	pp	0.057	0.034
+dpos_pp	PTLG034	CD14	32	True	3.9	pp	0.13	0.169
+dpos_pp	PTLG034	CD3	33	True	0.1	pp	0.265	0.266
+dpos_pp	PTLG034	CD11b	34	True	-2.6	pp	0.641	0.615
+dpos_pp	PTLG034	CREB	35	True	1.3	pp	0.188	0.201
+dpos_pp	PTLG034	CD66	36	True	-1.2	pp	0.706	0.694
+dpos_pp	PTLG034	CD16	37	True	-1.7999999999999998	pp	0.601	0.583
+label_overlap_wingmen		CD45	1					
+label_overlap_wingmen		CD11c	2		backbone	CD11c		
+label_overlap_wingmen		CD33	3					
+label_overlap_wingmen		CD45RA	4		candidate	CD45RA		
+label_overlap_wingmen		CD56	5		backbone	CD56		
+label_overlap_wingmen		CD15	6					
+label_overlap_wingmen		MAPKAPK2	7					
+label_overlap_wingmen		CXCR3	8					
+label_overlap_wingmen		NFkB	9					
+label_overlap_wingmen		CD25	10		candidate	CD25		
+label_overlap_wingmen		S6	11					
+label_overlap_wingmen		CD19	12		backbone	CD19		
+label_overlap_wingmen		CCR2	13					
+label_overlap_wingmen		Tbet	14					
+label_overlap_wingmen		STAT5	15					
+label_overlap_wingmen		STAT3	16					
+label_overlap_wingmen		CD8a	17		backbone	CD8a		
+label_overlap_wingmen		CCR9	18					
+label_overlap_wingmen		FoxP3	19		candidate	FoxP3		
+label_overlap_wingmen		HLADR	20		candidate	HLADR		
+label_overlap_wingmen		CD7	21					
+label_overlap_wingmen		CD161	22		candidate	CD161		
+label_overlap_wingmen		IkB	23					
+label_overlap_wingmen		STAT1	24					
+label_overlap_wingmen		p38	25					
+label_overlap_wingmen		CD4	26		backbone	CD4		
+label_overlap_wingmen		CD123	27					
+label_overlap_wingmen		ERK	28					
+label_overlap_wingmen		CD235ab_CD61	29					
+label_overlap_wingmen		CCR7	30		candidate	CCR7		
+label_overlap_wingmen		TCRgd	31		candidate	TCRgd		
+label_overlap_wingmen		CD14	32		backbone	CD14		
+label_overlap_wingmen		CD3	33		backbone	CD3		
+label_overlap_wingmen		CD11b	34		candidate	CD11b		
+label_overlap_wingmen		CREB	35					
+label_overlap_wingmen		CD66	36					
+label_overlap_wingmen		CD16	37		backbone	CD16		
+label_overlap_levine		CD45	1		backbone	CD45		
+label_overlap_levine		CD11c	2		candidate	CD11c		
+label_overlap_levine		CD33	3		backbone	CD33		
+label_overlap_levine		CD45RA	4		candidate	CD45RA		
+label_overlap_levine		CD56	5					
+label_overlap_levine		CD15	6		candidate	CD15		
+label_overlap_levine		MAPKAPK2	7					
+label_overlap_levine		CXCR3	8					
+label_overlap_levine		NFkB	9					
+label_overlap_levine		CD25	10					
+label_overlap_levine		S6	11					
+label_overlap_levine		CD19	12		backbone	CD19		
+label_overlap_levine		CCR2	13					
+label_overlap_levine		Tbet	14					
+label_overlap_levine		STAT5	15					
+label_overlap_levine		STAT3	16					
+label_overlap_levine		CD8a	17					
+label_overlap_levine		CCR9	18					
+label_overlap_levine		FoxP3	19					
+label_overlap_levine		HLADR	20		candidate	HLA-DR		
+label_overlap_levine		CD7	21		backbone	CD7		
+label_overlap_levine		CD161	22					
+label_overlap_levine		IkB	23					
+label_overlap_levine		STAT1	24					
+label_overlap_levine		p38	25					
+label_overlap_levine		CD4	26		candidate	CD4		
+label_overlap_levine		CD123	27		candidate	CD123		
+label_overlap_levine		ERK	28					
+label_overlap_levine		CD235ab_CD61	29					
+label_overlap_levine		CCR7	30					
+label_overlap_levine		TCRgd	31					
+label_overlap_levine		CD14	32		backbone	CD14		
+label_overlap_levine		CD3	33		backbone	CD3		
+label_overlap_levine		CD11b	34		backbone	CD11b		
+label_overlap_levine		CREB	35					
+label_overlap_levine		CD66	36					
+label_overlap_levine		CD16	37		candidate	CD16		
+ecdf_per_donor	PTLG021			True	0.0018792038711608	asinh		
+ecdf_per_donor	PTLG021			True	0.0031919649773383	asinh		
+ecdf_per_donor	PTLG021			True	0.0032685412241099	asinh		
+ecdf_per_donor	PTLG021			True	0.0082277613531293	asinh		
+ecdf_per_donor	PTLG021			True	0.0104894074305129	asinh		
+ecdf_per_donor	PTLG021			True	0.0133535396093663	asinh		
+ecdf_per_donor	PTLG021			True	0.0153352217693569	asinh		
+ecdf_per_donor	PTLG021			True	0.0157094914826936	asinh		
+ecdf_per_donor	PTLG021			True	0.0168549018283912	asinh		
+ecdf_per_donor	PTLG021			True	0.0223811216720231	asinh		
+ecdf_per_donor	PTLG021			True	0.0269108460892624	asinh		
+ecdf_per_donor	PTLG021			True	0.0283808514283328	asinh		
+ecdf_per_donor	PTLG021			True	0.0318957908194084	asinh		
+ecdf_per_donor	PTLG021			True	0.0342298840317192	asinh		
+ecdf_per_donor	PTLG021			True	0.0360732652198144	asinh		
+ecdf_per_donor	PTLG021			True	0.0438247531347112	asinh		
+ecdf_per_donor	PTLG021			True	0.0445779198602294	asinh		
+ecdf_per_donor	PTLG021			True	0.0460144151133401	asinh		
+ecdf_per_donor	PTLG021			True	0.0572174504164606	asinh		
+ecdf_per_donor	PTLG021			True	0.0676639204098004	asinh		
+ecdf_per_donor	PTLG021			True	0.0680348328067714	asinh		
+ecdf_per_donor	PTLG021			True	0.0699739218845537	asinh		
+ecdf_per_donor	PTLG021			True	0.0854961859740511	asinh		
+ecdf_per_donor	PTLG021			True	0.1074362564084647	asinh		
+ecdf_per_donor	PTLG021			True	0.2015043451110107	asinh		
+ecdf_per_donor	PTLG021			True	0.2508422988728029	asinh		
+ecdf_per_donor	PTLG021			True	0.2679693511795495	asinh		
+ecdf_per_donor	PTLG021			True	0.3063531395154539	asinh		
+ecdf_per_donor	PTLG021			True	0.3957672859378518	asinh		
+ecdf_per_donor	PTLG028			True	0.0001425590357659	asinh		
+ecdf_per_donor	PTLG028			True	0.0040599963543379	asinh		
+ecdf_per_donor	PTLG028			True	0.004371438443884	asinh		
+ecdf_per_donor	PTLG028			True	0.0120238312110727	asinh		
+ecdf_per_donor	PTLG028			True	0.0172999059897313	asinh		
+ecdf_per_donor	PTLG028			True	0.0178171486920084	asinh		
+ecdf_per_donor	PTLG028			True	0.0179245865561783	asinh		
+ecdf_per_donor	PTLG028			True	0.0191620191830644	asinh		
+ecdf_per_donor	PTLG028			True	0.025598306456831	asinh		
+ecdf_per_donor	PTLG028			True	0.0308802201809469	asinh		
+ecdf_per_donor	PTLG028			True	0.0327450115800264	asinh		
+ecdf_per_donor	PTLG028			True	0.035242323344109	asinh		
+ecdf_per_donor	PTLG028			True	0.0369641574854209	asinh		
+ecdf_per_donor	PTLG028			True	0.0377158618090229	asinh		
+ecdf_per_donor	PTLG028			True	0.0395946102156112	asinh		
+ecdf_per_donor	PTLG028			True	0.0406488449144664	asinh		
+ecdf_per_donor	PTLG028			True	0.0595451736198703	asinh		
+ecdf_per_donor	PTLG028			True	0.061382139731235	asinh		
+ecdf_per_donor	PTLG028			True	0.0725451628395227	asinh		
+ecdf_per_donor	PTLG028			True	0.0824871690149386	asinh		
+ecdf_per_donor	PTLG028			True	0.0961650679379724	asinh		
+ecdf_per_donor	PTLG028			True	0.0975420677704943	asinh		
+ecdf_per_donor	PTLG028			True	0.107108988486573	asinh		
+ecdf_per_donor	PTLG028			True	0.1270816797956957	asinh		
+ecdf_per_donor	PTLG028			True	0.1324302689256927	asinh		
+ecdf_per_donor	PTLG028			True	0.1614310821234665	asinh		
+ecdf_per_donor	PTLG028			True	0.2142408131275885	asinh		
+ecdf_per_donor	PTLG028			True	0.2278534103529458	asinh		
+ecdf_per_donor	PTLG028			True	0.487055892307179	asinh		
+ecdf_per_donor	PTLG034			True	0.0	asinh		
+ecdf_per_donor	PTLG034			True	0.0	asinh		
+ecdf_per_donor	PTLG034			True	0.0	asinh		
+ecdf_per_donor	PTLG034			True	0.0042531575205387	asinh		
+ecdf_per_donor	PTLG034			True	0.0084544966950126	asinh		
+ecdf_per_donor	PTLG034			True	0.0091942802498005	asinh		
+ecdf_per_donor	PTLG034			True	0.013731105825816	asinh		
+ecdf_per_donor	PTLG034			True	0.0243022918688648	asinh		
+ecdf_per_donor	PTLG034			True	0.0293709415814582	asinh		
+ecdf_per_donor	PTLG034			True	0.0429840020309013	asinh		
+ecdf_per_donor	PTLG034			True	0.0447557896080164	asinh		
+ecdf_per_donor	PTLG034			True	0.0505229315217794	asinh		
+ecdf_per_donor	PTLG034			True	0.0553179548472256	asinh		
+ecdf_per_donor	PTLG034			True	0.0606754019687982	asinh		
+ecdf_per_donor	PTLG034			True	0.0619198755757621	asinh		
+ecdf_per_donor	PTLG034			True	0.0701504399358832	asinh		
+ecdf_per_donor	PTLG034			True	0.0720493804532681	asinh		
+ecdf_per_donor	PTLG034			True	0.0732322350266948	asinh		
+ecdf_per_donor	PTLG034			True	0.1036586395424823	asinh		
+ecdf_per_donor	PTLG034			True	0.1190648366317967	asinh		
+ecdf_per_donor	PTLG034			True	0.1243125043120775	asinh		
+ecdf_per_donor	PTLG034			True	0.1579303789582391	asinh		
+ecdf_per_donor	PTLG034			True	0.1707568148412807	asinh		
+ecdf_per_donor	PTLG034			True	0.1893217942729967	asinh		
+ecdf_per_donor	PTLG034			True	0.2011390705323679	asinh		
+ecdf_per_donor	PTLG034			True	0.2455950590156732	asinh		
+ecdf_per_donor	PTLG034			True	0.2693077155923047	asinh		
+ecdf_per_donor	PTLG034			True	0.2877865489173903	asinh		
+ecdf_per_donor	PTLG034			True	0.4918839047272458	asinh		
+ecdf_abs_median_shift	all			True	0.0	asinh		
+ecdf_abs_median_shift	all			True	0.0	asinh		
+ecdf_abs_median_shift	all			True	0.0	asinh		
+ecdf_abs_median_shift	all			True	0.0001425590357659	asinh		
+ecdf_abs_median_shift	all			True	0.0018792038711608	asinh		
+ecdf_abs_median_shift	all			True	0.0031919649773383	asinh		
+ecdf_abs_median_shift	all			True	0.0032685412241099	asinh		
+ecdf_abs_median_shift	all			True	0.0040599963543379	asinh		
+ecdf_abs_median_shift	all			True	0.0042531575205387	asinh		
+ecdf_abs_median_shift	all			True	0.004371438443884	asinh		
+ecdf_abs_median_shift	all			True	0.0082277613531293	asinh		
+ecdf_abs_median_shift	all			True	0.0084544966950126	asinh		
+ecdf_abs_median_shift	all			True	0.0091942802498005	asinh		
+ecdf_abs_median_shift	all			True	0.0104894074305129	asinh		
+ecdf_abs_median_shift	all			True	0.0120238312110727	asinh		
+ecdf_abs_median_shift	all			True	0.0133535396093663	asinh		
+ecdf_abs_median_shift	all			True	0.013731105825816	asinh		
+ecdf_abs_median_shift	all			True	0.0153352217693569	asinh		
+ecdf_abs_median_shift	all			True	0.0157094914826936	asinh		
+ecdf_abs_median_shift	all			True	0.0168549018283912	asinh		
+ecdf_abs_median_shift	all			True	0.0172999059897313	asinh		
+ecdf_abs_median_shift	all			True	0.0178171486920084	asinh		
+ecdf_abs_median_shift	all			True	0.0179245865561783	asinh		
+ecdf_abs_median_shift	all			True	0.0191620191830644	asinh		
+ecdf_abs_median_shift	all			True	0.0223811216720231	asinh		
+ecdf_abs_median_shift	all			True	0.0243022918688648	asinh		
+ecdf_abs_median_shift	all			True	0.025598306456831	asinh		
+ecdf_abs_median_shift	all			True	0.0269108460892624	asinh		
+ecdf_abs_median_shift	all			True	0.0283808514283328	asinh		
+ecdf_abs_median_shift	all			True	0.0293709415814582	asinh		
+ecdf_abs_median_shift	all			True	0.0308802201809469	asinh		
+ecdf_abs_median_shift	all			True	0.0318957908194084	asinh		
+ecdf_abs_median_shift	all			True	0.0327450115800264	asinh		
+ecdf_abs_median_shift	all			True	0.0342298840317192	asinh		
+ecdf_abs_median_shift	all			True	0.035242323344109	asinh		
+ecdf_abs_median_shift	all			True	0.0360732652198144	asinh		
+ecdf_abs_median_shift	all			True	0.0369641574854209	asinh		
+ecdf_abs_median_shift	all			True	0.0377158618090229	asinh		
+ecdf_abs_median_shift	all			True	0.0395946102156112	asinh		
+ecdf_abs_median_shift	all			True	0.0406488449144664	asinh		
+ecdf_abs_median_shift	all			True	0.0429840020309013	asinh		
+ecdf_abs_median_shift	all			True	0.0438247531347112	asinh		
+ecdf_abs_median_shift	all			True	0.0445779198602294	asinh		
+ecdf_abs_median_shift	all			True	0.0447557896080164	asinh		
+ecdf_abs_median_shift	all			True	0.0460144151133401	asinh		
+ecdf_abs_median_shift	all			True	0.0505229315217794	asinh		
+ecdf_abs_median_shift	all			True	0.0553179548472256	asinh		
+ecdf_abs_median_shift	all			True	0.0572174504164606	asinh		
+ecdf_abs_median_shift	all			True	0.0595451736198703	asinh		
+ecdf_abs_median_shift	all			True	0.0606754019687982	asinh		
+ecdf_abs_median_shift	all			True	0.061382139731235	asinh		
+ecdf_abs_median_shift	all			True	0.0619198755757621	asinh		
+ecdf_abs_median_shift	all			True	0.0676639204098004	asinh		
+ecdf_abs_median_shift	all			True	0.0680348328067714	asinh		
+ecdf_abs_median_shift	all			True	0.0699739218845537	asinh		
+ecdf_abs_median_shift	all			True	0.0701504399358832	asinh		
+ecdf_abs_median_shift	all			True	0.0720493804532681	asinh		
+ecdf_abs_median_shift	all			True	0.0725451628395227	asinh		
+ecdf_abs_median_shift	all			True	0.0732322350266948	asinh		
+ecdf_abs_median_shift	all			True	0.0824871690149386	asinh		
+ecdf_abs_median_shift	all			True	0.0854961859740511	asinh		
+ecdf_abs_median_shift	all			True	0.0961650679379724	asinh		
+ecdf_abs_median_shift	all			True	0.0975420677704943	asinh		
+ecdf_abs_median_shift	all			True	0.1036586395424823	asinh		
+ecdf_abs_median_shift	all			True	0.107108988486573	asinh		
+ecdf_abs_median_shift	all			True	0.1074362564084647	asinh		
+ecdf_abs_median_shift	all			True	0.1190648366317967	asinh		
+ecdf_abs_median_shift	all			True	0.1243125043120775	asinh		
+ecdf_abs_median_shift	all			True	0.1270816797956957	asinh		
+ecdf_abs_median_shift	all			True	0.1324302689256927	asinh		
+ecdf_abs_median_shift	all			True	0.1579303789582391	asinh		
+ecdf_abs_median_shift	all			True	0.1614310821234665	asinh		
+ecdf_abs_median_shift	all			True	0.1707568148412807	asinh		
+ecdf_abs_median_shift	all			True	0.1893217942729967	asinh		
+ecdf_abs_median_shift	all			True	0.2011390705323679	asinh		
+ecdf_abs_median_shift	all			True	0.2015043451110107	asinh		
+ecdf_abs_median_shift	all			True	0.2142408131275885	asinh		
+ecdf_abs_median_shift	all			True	0.2278534103529458	asinh		
+ecdf_abs_median_shift	all			True	0.2455950590156732	asinh		
+ecdf_abs_median_shift	all			True	0.2508422988728029	asinh		
+ecdf_abs_median_shift	all			True	0.2679693511795495	asinh		
+ecdf_abs_median_shift	all			True	0.2693077155923047	asinh		
+ecdf_abs_median_shift	all			True	0.2877865489173903	asinh		
+ecdf_abs_median_shift	all			True	0.3063531395154539	asinh		
+ecdf_abs_median_shift	all			True	0.3957672859378518	asinh		
+ecdf_abs_median_shift	all			True	0.487055892307179	asinh		
+ecdf_abs_median_shift	all			True	0.4918839047272458	asinh		

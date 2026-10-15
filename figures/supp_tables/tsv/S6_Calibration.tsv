@@ -1,0 +1,41 @@
+structure	structure_tubes	n_tubes_in_structure	target	p_target	n_cells_per_simulation	n_simulations	seed	n_infeasible	coverage	coverage_ci_lo	coverage_ci_hi	mean_width	source_id
+pairs	{0,1}; {0,2}; {1,2}	3	zero	0.0	600	1000	20261009	0	1.0	0.9963179161031344	1.0	0.10056883396947666	witnessflow/results/calibration/e5h_pairs.tsv
+pairs	{0,1}; {0,2}; {1,2}	3	zero	0.0	6000	1000	20261009	0	1.0	0.9963179161031344	1.0	0.053802339570032574	witnessflow/results/calibration/e5h_pairs.tsv
+pairs	{0,1}; {0,2}; {1,2}	3	sparse	0.01	600	1000	20261009	0	1.0	0.9963179161031344	1.0	0.11326776102435746	witnessflow/results/calibration/e5h_pairs.tsv
+pairs	{0,1}; {0,2}; {1,2}	3	sparse	0.01	6000	1000	20261009	0	1.0	0.9963179161031344	1.0	0.06804197111318508	witnessflow/results/calibration/e5h_pairs.tsv
+pairs	{0,1}; {0,2}; {1,2}	3	common	0.2	600	1000	20261009	0	0.999	0.9944410757201733	0.9999746825125088	0.2905047961753784	witnessflow/results/calibration/e5h_pairs.tsv
+pairs	{0,1}; {0,2}; {1,2}	3	common	0.2	6000	1000	20261009	0	1.0	0.9963179161031344	1.0	0.14064367424561147	witnessflow/results/calibration/e5h_pairs.tsv
+pairs	{0,1}; {0,2}; {1,2}	3	half	0.5	600	1000	20261009	0	1.0	0.9963179161031344	1.0	0.28265673921737805	witnessflow/results/calibration/e5h_pairs.tsv
+pairs	{0,1}; {0,2}; {1,2}	3	half	0.5	6000	1000	20261009	0	1.0	0.9963179161031344	1.0	0.11859056036054827	witnessflow/results/calibration/e5h_pairs.tsv
+singles	{0}; {1}; {2}	3	zero	0.0	600	1000	20261010	0	1.0	0.9963179161031344	1.0	0.355538420432748	witnessflow/results/calibration/e5h_singles.tsv
+singles	{0}; {1}; {2}	3	zero	0.0	6000	1000	20261010	0	1.0	0.9963179161031344	1.0	0.29288301035396586	witnessflow/results/calibration/e5h_singles.tsv
+singles	{0}; {1}; {2}	3	sparse	0.01	600	1000	20261010	0	1.0	0.9963179161031344	1.0	0.3580862558222196	witnessflow/results/calibration/e5h_singles.tsv
+singles	{0}; {1}; {2}	3	sparse	0.01	6000	1000	20261010	0	1.0	0.9963179161031344	1.0	0.305151600468816	witnessflow/results/calibration/e5h_singles.tsv
+singles	{0}; {1}; {2}	3	common	0.2	600	1000	20261010	0	1.0	0.9963179161031344	1.0	0.505372186981155	witnessflow/results/calibration/e5h_singles.tsv
+singles	{0}; {1}; {2}	3	common	0.2	6000	1000	20261010	0	1.0	0.9963179161031344	1.0	0.43871536709604764	witnessflow/results/calibration/e5h_singles.tsv
+singles	{0}; {1}; {2}	3	half	0.5	600	1000	20261010	0	0.999	0.9944410757201733	0.9999746825125088	0.7010885195691865	witnessflow/results/calibration/e5h_singles.tsv
+singles	{0}; {1}; {2}	3	half	0.5	6000	1000	20261010	0	1.0	0.9963179161031344	1.0	0.5712508206963216	witnessflow/results/calibration/e5h_singles.tsv
+pairs+direct	{0,1}; {0,2}; {1,2}; {0,1,2}	4	zero	0.0	600	1000	20261011	0	1.0	0.9963179161031344	1.0	0.04352922218591088	witnessflow/results/calibration/e5h_pairs+direct.tsv
+pairs+direct	{0,1}; {0,2}; {1,2}; {0,1,2}	4	zero	0.0	6000	1000	20261011	0	1.0	0.9963179161031344	1.0	0.004444223680859418	witnessflow/results/calibration/e5h_pairs+direct.tsv
+pairs+direct	{0,1}; {0,2}; {1,2}; {0,1,2}	4	sparse	0.01	600	1000	20261011	0	0.999	0.9944410757201733	0.9999746825125088	0.060953004407388156	witnessflow/results/calibration/e5h_pairs+direct.tsv
+pairs+direct	{0,1}; {0,2}; {1,2}; {0,1,2}	4	sparse	0.01	6000	1000	20261011	0	0.997	0.9912579767615217	0.9993809000683505	0.016135098513024197	witnessflow/results/calibration/e5h_pairs+direct.tsv
+pairs+direct	{0,1}; {0,2}; {1,2}; {0,1,2}	4	common	0.2	600	1000	20261011	0	1.0	0.9963179161031344	1.0	0.1851390602992651	witnessflow/results/calibration/e5h_pairs+direct.tsv
+pairs+direct	{0,1}; {0,2}; {1,2}; {0,1,2}	4	common	0.2	6000	1000	20261011	0	0.998	0.9927941610885425	0.9997576988831227	0.059132553948134256	witnessflow/results/calibration/e5h_pairs+direct.tsv
+pairs+direct	{0,1}; {0,2}; {1,2}; {0,1,2}	4	half	0.5	600	1000	20261011	0	0.998	0.9927941610885425	0.9997576988831227	0.22145807017600833	witnessflow/results/calibration/e5h_pairs+direct.tsv
+pairs+direct	{0,1}; {0,2}; {1,2}; {0,1,2}	4	half	0.5	6000	1000	20261011	0	0.996	0.9897903353160702	0.9989090920122741	0.06931304344817237	witnessflow/results/calibration/e5h_pairs+direct.tsv
+mixed	{0,1}; {2}	2	zero	0.0	600	1000	20261012	0	1.0	0.9963179161031344	1.0	0.1812279952215651	witnessflow/results/calibration/e5h_mixed.tsv
+mixed	{0,1}; {2}	2	zero	0.0	6000	1000	20261012	0	1.0	0.9963179161031344	1.0	0.1375633714821575	witnessflow/results/calibration/e5h_mixed.tsv
+mixed	{0,1}; {2}	2	sparse	0.01	600	1000	20261012	0	1.0	0.9963179161031344	1.0	0.19171817658136206	witnessflow/results/calibration/e5h_mixed.tsv
+mixed	{0,1}; {2}	2	sparse	0.01	6000	1000	20261012	0	1.0	0.9963179161031344	1.0	0.14675442297696661	witnessflow/results/calibration/e5h_mixed.tsv
+mixed	{0,1}; {2}	2	common	0.2	600	1000	20261012	0	0.999	0.9944410757201733	0.9999746825125088	0.3701209961806292	witnessflow/results/calibration/e5h_mixed.tsv
+mixed	{0,1}; {2}	2	common	0.2	6000	1000	20261012	0	1.0	0.9963179161031344	1.0	0.319021448958997	witnessflow/results/calibration/e5h_mixed.tsv
+mixed	{0,1}; {2}	2	half	0.5	600	1000	20261012	0	0.999	0.9944410757201733	0.9999746825125088	0.4937614840777703	witnessflow/results/calibration/e5h_mixed.tsv
+mixed	{0,1}; {2}	2	half	0.5	6000	1000	20261012	0	0.998	0.9927941610885425	0.9997576988831227	0.3465244204704173	witnessflow/results/calibration/e5h_mixed.tsv
+direct_only	{0,1,2}	1	zero	0.0	600	1000	20261013	0	1.0	0.9963179161031344	1.0	0.009567802834940603	witnessflow/results/calibration/e5h_direct_only.tsv
+direct_only	{0,1,2}	1	zero	0.0	6000	1000	20261013	0	1.0	0.9963179161031344	1.0	0.0009609248483717026	witnessflow/results/calibration/e5h_direct_only.tsv
+direct_only	{0,1,2}	1	sparse	0.01	600	1000	20261013	0	0.996	0.9897903353160702	0.9989090920122741	0.024219737969406917	witnessflow/results/calibration/e5h_direct_only.tsv
+direct_only	{0,1,2}	1	sparse	0.01	6000	1000	20261013	0	0.994	0.9869865767290256	0.9977950175148487	0.007191953691196433	witnessflow/results/calibration/e5h_direct_only.tsv
+direct_only	{0,1,2}	1	common	0.2	600	1000	20261013	0	0.994	0.9869865767290256	0.9977950175148487	0.09059725547905229	witnessflow/results/calibration/e5h_direct_only.tsv
+direct_only	{0,1,2}	1	common	0.2	6000	1000	20261013	0	0.994	0.9869865767290256	0.9977950175148487	0.02839549660994855	witnessflow/results/calibration/e5h_direct_only.tsv
+direct_only	{0,1,2}	1	half	0.5	600	1000	20261013	0	0.995	0.9883705294401879	0.9983745804824372	0.1127977459593639	witnessflow/results/calibration/e5h_direct_only.tsv
+direct_only	{0,1,2}	1	half	0.5	6000	1000	20261013	0	0.992	0.9842979508239253	0.9965400238346707	0.0354515784137987	witnessflow/results/calibration/e5h_direct_only.tsv

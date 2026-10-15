@@ -1,0 +1,56 @@
+{
+ "script": "witnessflow/figures/scripts/fig5.py",
+ "argv": [
+  "witnessflow\\figures\\scripts/fig5.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704467.8023245,
+ "end": 1791704476.4164417,
+ "exit": 0,
+ "reads": [
+  "ljcr_snapshot_db",
+  "witnessflow/figures/data/fig4C_attribution_shuffle.tsv",
+  "witnessflow/figures/data/fig4D_ledger.tsv",
+  "witnessflow/figures/data/supp_act5_threshold.tsv",
+  "witnessflow/figures/scripts/fig5.py",
+  "witnessflow/figures/scripts/wfstyle.py",
+  "witnessflow/protocols/wingmen_v1.json",
+  "witnessflow/results/levine32_v2/e5i_shuffle.tsv",
+  "witnessflow/results/levine32_v2/e5l_act5_threshold.tsv",
+  "witnessflow/results/levine32_v2/ledger/T_rep0_opt4_targets.tsv",
+  "witnessflow/results/levine32_v2/ledger/ledger_summary.tsv",
+  "witnessflow/results/wingmen_v1/e5i_shuffle.tsv",
+  "witnessflow/results/wingmen_v1/e5l_act5_threshold.tsv",
+  "witnessflow/results/wingmen_v1/ledger/CD4T_rep0_lp_true_opt4_panels.json",
+  "witnessflow/results/wingmen_v1/ledger/CD4T_rep0_opt4_targets.tsv",
+  "witnessflow/results/wingmen_v1/ledger/ledger_summary.tsv",
+  "witnessflow/results/wingmen_v1/thresholds.json",
+  "witnessflow/src/budget.py",
+  "witnessflow/src/design.py"
+ ],
+ "writes": [
+  "witnessflow/figures/derived/fig5_A_ledger_rows.tsv",
+  "witnessflow/figures/derived/fig5_B_pairs.tsv",
+  "witnessflow/figures/derived/fig5_B_records.tsv",
+  "witnessflow/figures/derived/fig5_B_summary.tsv",
+  "witnessflow/figures/derived/fig5_C_left_gained_lost.tsv",
+  "witnessflow/figures/derived/fig5_C_right_dlam_status.tsv",
+  "witnessflow/figures/derived/fig5_C_right_refvar_hist.tsv",
+  "witnessflow/figures/derived/fig5_D_tradeoff.tsv",
+  "witnessflow/figures/derived/fig5_E_records.tsv",
+  "witnessflow/figures/derived/fig5_E_threshold.tsv",
+  "witnessflow/figures/panels/fig5A.pdf",
+  "witnessflow/figures/panels/fig5A.png",
+  "witnessflow/figures/panels/fig5B.pdf",
+  "witnessflow/figures/panels/fig5B.png",
+  "witnessflow/figures/panels/fig5C.pdf",
+  "witnessflow/figures/panels/fig5C.png",
+  "witnessflow/figures/panels/fig5D.pdf",
+  "witnessflow/figures/panels/fig5D.png",
+  "witnessflow/figures/panels/fig5E.pdf",
+  "witnessflow/figures/panels/fig5E.png"
+ ],
+ "sqlite": [
+  "ljcr_snapshot_db"
+ ]
+}

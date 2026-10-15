@@ -1,0 +1,24 @@
+families: [['CD39(141)', 'CD127(143)', 'CD69(144)', 'IgD(146)', 'CD38(149)'], ['BDCA1(150)', 'CD66b(152)', 'CD36(155)', 'TCRgd(156)', 'CCR4(158)'], ['CCR7(159)', 'FoxP3(162)', 'CD161(164)', 'CD45RO(165)', 'CD141(166)'], ['CD27(167)', 'CD25(169)', 'CD45RA(170)', 'CD20(171)', 'ki67(172)'], ['HLADR(173)', 'PD1(174)', 'PDL1(175)', 'CD57(176)', 'GranzymeB(198)']] dropped: CD11b
+cross-family triples: 1250
+[12s] anneal seed 0: covered 1149/1250
+[21s] anneal seed 1: covered 1135/1250
+[30s] anneal seed 2: covered 1142/1250
+[46s] CD4T done (eps*_OA=0.0451)
+[54s] CD8T done (eps*_OA=0.0717)
+                 seed  triple_min  triple_max  triple_covered  single_min  single_max  pair_min  pair_max
+method                                                                                                   
+OA_quadratic      0.0         1.0       1.000           1.000      25.000      25.000     5.000     5.000
+anneal_search     1.0         0.0       2.667           0.914      23.667      26.667     3.333     6.667
+balanced_random   1.0         0.0       5.000           0.654      25.000      25.000     0.667    10.000
+legal_random      1.0         0.0       6.000           0.632      15.667      33.667     0.333    13.000
+                       covered               half_ok               err_ok              
+                          mean    min    max    mean    min    max   mean    min    max
+parent method                                                                          
+CD4T   OA_quadratic      1.000  1.000  1.000   1.000  1.000  1.000  0.973  0.948  0.992
+       anneal_search     0.914  0.908  0.919   0.914  0.908  0.919  0.890  0.873  0.906
+       balanced_random   0.654  0.647  0.658   0.654  0.647  0.658  0.643  0.630  0.654
+       legal_random      0.632  0.615  0.642   0.632  0.615  0.642  0.621  0.596  0.634
+CD8T   OA_quadratic      1.000  1.000  1.000   0.997  0.994  1.000  0.969  0.958  0.987
+       anneal_search     0.914  0.908  0.919   0.911  0.904  0.919  0.885  0.865  0.905
+       balanced_random   0.654  0.647  0.658   0.653  0.644  0.658  0.640  0.626  0.650
+       legal_random      0.632  0.615  0.642   0.631  0.612  0.642  0.621  0.601  0.638

@@ -1,0 +1,59 @@
+{
+ "script": "witnessflow/figures/derive/d3_tstar_tube.py",
+ "argv": [
+  "witnessflow\\figures\\derive/d3_tstar_tube.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704396.5694277,
+ "end": 1791704412.7155519,
+ "exit": 0,
+ "reads": [
+  "ljcr_snapshot_db",
+  "witnessflow/data/raw/WINGMEN/PreWN01.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN02.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN03.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN04.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN05.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN06.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN07.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN08.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN09.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN10.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN11.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN12.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN13.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN14.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN15.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN16.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN17.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN18.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN19.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN20.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN21.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN22.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN23.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN24.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN25.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN26.fcs",
+  "witnessflow/data/raw/WINGMEN/PreWN27.fcs",
+  "witnessflow/figures/derive/d3_tstar_tube.py",
+  "witnessflow/protocols/wingmen_v1.json",
+  "witnessflow/results/wingmen_v1/e5b_steiner_nodes.tsv",
+  "witnessflow/results/wingmen_v1/thresholds.json",
+  "witnessflow/src/audit.py",
+  "witnessflow/src/budget.py",
+  "witnessflow/src/datasets.py",
+  "witnessflow/src/design.py",
+  "witnessflow/src/e5b.py",
+  "witnessflow/src/fcs.py",
+  "witnessflow/src/q1.py",
+  "witnessflow/src/replay.py"
+ ],
+ "writes": [
+  "witnessflow/figures/derived/d3_check.json",
+  "witnessflow/figures/derived/d3_tstar_tube130.tsv"
+ ],
+ "sqlite": [
+  "ljcr_snapshot_db"
+ ]
+}

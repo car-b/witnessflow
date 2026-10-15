@@ -1,0 +1,27 @@
+dataset	parent	donor	file	n_parent_followup	n_parent_reference	included	rule
+wingmen_v1	CD4T	0	PreWN01.fcs	4921	5076	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD4T	1	PreWN02.fcs	3193	3249	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD4T	2	PreWN06.fcs	2619	2613	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD4T	3	PreWN09.fcs	2588	2597	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD4T	4	PreWN10.fcs	3698	3655	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD4T	5	PreWN11.fcs	6286	6366	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD4T	6	PreWN14.fcs	3263	3193	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD4T	7	PreWN17.fcs	2287	2315	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD4T	8	PreWN18.fcs	4205	4388	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD4T	9	PreWN19.fcs	13309	13191	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD4T	10	PreWN21.fcs	7898	7805	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD4T	11	PreWN23.fcs	2487	2517	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD4T	12	PreWN27.fcs	2064	1978	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD8T	0	PreWN01.fcs	1344	1322	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD8T	1	PreWN02.fcs	1728	1837	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD8T	2	PreWN06.fcs	1442	1497	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD8T	3	PreWN09.fcs	715	727	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD8T	4	PreWN10.fcs	1321	1280	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD8T	5	PreWN11.fcs	1678	1607	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD8T	6	PreWN14.fcs	410	384	False	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD8T	7	PreWN17.fcs	1145	1241	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD8T	8	PreWN18.fcs	1491	1499	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD8T	9	PreWN19.fcs	6288	6247	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD8T	10	PreWN21.fcs	3375	3329	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD8T	11	PreWN23.fcs	2096	2203	True	e5b: >= 500 parent cells in follow-up and in reference split
+wingmen_v1	CD8T	12	PreWN27.fcs	506	511	True	e5b: >= 500 parent cells in follow-up and in reference split

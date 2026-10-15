@@ -1,0 +1,42 @@
+{
+ "script": "witnessflow/figures/derive/sf3_planning.py",
+ "argv": [
+  "witnessflow\\figures\\derive/sf3_planning.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704501.346048,
+ "end": 1791704503.7374158,
+ "exit": 0,
+ "reads": [
+  "witnessflow/figures/derive/sf3_planning.py",
+  "witnessflow/results/levine32_v2/e5b_steiner_nodes.tsv",
+  "witnessflow/results/levine32_v2/e5f_attribution.tsv",
+  "witnessflow/results/levine32_v2/e5g_threshold_design.tsv",
+  "witnessflow/results/levine32_v2/e5i_shuffle.tsv",
+  "witnessflow/results/levine32_v2/e5k_boundary.tsv",
+  "witnessflow/results/levine32_v2/e5l_act5_threshold.tsv",
+  "witnessflow/results/wingmen_v1/e5b_r180.tsv",
+  "witnessflow/results/wingmen_v1/e5b_steiner_nodes.tsv",
+  "witnessflow/results/wingmen_v1/e5c_oa_replay.tsv",
+  "witnessflow/results/wingmen_v1/e5f_attribution.tsv",
+  "witnessflow/results/wingmen_v1/e5g_threshold_design.tsv",
+  "witnessflow/results/wingmen_v1/e5i_shuffle.tsv",
+  "witnessflow/results/wingmen_v1/e5k_boundary.tsv",
+  "witnessflow/results/wingmen_v1/e5l_act5_threshold.tsv",
+  "witnessflow/src/audit.py",
+  "witnessflow/src/budget.py",
+  "witnessflow/src/design.py",
+  "witnessflow/src/e5b.py",
+  "witnessflow/src/e5k_boundary.py",
+  "witnessflow/src/e5l_act5_threshold.py",
+  "witnessflow/src/fcs.py",
+  "witnessflow/src/q1.py",
+  "witnessflow/src/replay.py",
+  "witnessflow/tools/scan/out_lat/lat06_parent_frontier.tsv"
+ ],
+ "writes": [
+  "witnessflow/figures/derived/figS3_C_frontier.tsv",
+  "witnessflow/figures/derived/figS3_C_used_eps.tsv"
+ ],
+ "sqlite": []
+}

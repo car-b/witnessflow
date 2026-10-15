@@ -1,0 +1,9 @@
+dataset	row	source	k	n
+levine32_v2	global drift, all tubes	e5d fixed family	0	200
+levine32_v2	composition, marker in tube	e5k_boundary B_composition	0	20
+levine32_v2	composition, marker not in tube	e5k_boundary B_composition	0	20
+levine32_v2	no shift (control)	e5k_boundary B_composition	0	20
+wingmen_v1	global drift, all tubes	e5d fixed family	0	200
+wingmen_v1	composition, marker in tube	e5k_boundary B_composition	3	20
+wingmen_v1	composition, marker not in tube	e5k_boundary B_composition	0	20
+wingmen_v1	no shift (control)	e5k_boundary B_composition	1	20

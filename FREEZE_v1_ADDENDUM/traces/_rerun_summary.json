@@ -1,0 +1,414 @@
+{
+ "runs": [
+  {
+   "script": "derive/d3_tstar_tube.py",
+   "exit": 0,
+   "seconds": 16.5,
+   "tail": [
+    " \"tstar_maxerr\": 0.014927897713833141",
+    "}",
+    "[trace] witnessflow/figures/derive/d3_tstar_tube.py exit=0 reads=40 writes=2 16s"
+   ]
+  },
+  {
+   "script": "derive/d3b_pair_tubes.py",
+   "exit": 0,
+   "seconds": 16.2,
+   "tail": [
+    "5    72     CCR4/CD127/CD45RA/PD1    467  26.000000  56.000000  34.000000  351.000000  CCR7/CD27 (state = CCR7CD27 bits)",
+    "6    -1           reference split  58943   0.064147   0.105424   0.069304    0.761125  CCR7/CD27 (state = CCR7CD27 bits)",
+    "[trace] witnessflow/figures/derive/d3b_pair_tubes.py exit=0 reads=40 writes=1 16s"
+   ]
+  },
+  {
+   "script": "scripts/fig1.py",
+   "exit": 0,
+   "seconds": 6.6,
+   "tail": [
+    "[check 1E] 46 texts, 0 issues",
+    "saved fig1E.pdf/.png  fonts=['DTWKUJ+Arial-ItalicMT', 'ELUGPM+Arial-BoldMT', 'ELUGPM+ArialMT']  stroke widths=[0.5, 1.0]",
+    "[trace] witnessflow/figures/scripts/fig1.py exit=0 reads=12 writes=13 6s"
+   ]
+  },
+  {
+   "script": "scripts/fig2_data.py",
+   "exit": 0,
+   "seconds": 3.3,
+   "tail": [
+    "2  balanced_random         25         25        0       10          0          5      0.6472      0.6584      0.653867          3  results/wingmen_v1/e5c_multiplicities.tsv (range over design seeds)",
+    "3     legal_random         15         36        0       15          0          7      0.6152      0.6424      0.632000          3  results/wingmen_v1/e5c_multiplicities.tsv (range over design seeds)",
+    "[trace] witnessflow/figures/scripts/fig2_data.py exit=0 reads=23 writes=14 3s"
+   ]
+  },
+  {
+   "script": "scripts/fig2.py",
+   "exit": 0,
+   "seconds": 9.9,
+   "tail": [
+    "saved fig2D.pdf/.png  fonts=['DTWKUJ+Arial-ItalicMT', 'ELUGPM+Arial-BoldMT', 'ELUGPM+ArialMT']  stroke widths=[0.5, 1.0]",
+    "saved fig2E.pdf/.png  fonts=['DTWKUJ+Arial-ItalicMT', 'ELUGPM+Arial-BoldMT', 'ELUGPM+ArialMT']  stroke widths=[0.5, 1.0]",
+    "[trace] witnessflow/figures/scripts/fig2.py exit=0 reads=24 writes=24 9s"
+   ]
+  },
+  {
+   "script": "scripts/fig2_check.py",
+   "exit": 0,
+   "seconds": 1.2,
+   "tail": [
+    "fig2E: 80.0 x 86.0 mm | sizes {7.0: 78} | fonts {'ArialMT': 71, 'Arial-BoldMT': 6, 'Arial-ItalicMT': 1}",
+    "   stroke widths (pt): {0.5: 33, 1.0: 84}",
+    "[trace] witnessflow/figures/scripts/fig2_check.py exit=0 reads=2 writes=0 1s"
+   ]
+  },
+  {
+   "script": "scripts/fig3.py",
+   "exit": 0,
+   "seconds": 7.9,
+   "tail": [
+    "10  247       0     260    2340        1     0.526316                                    exact formula  results/wingmen_v1/e5b_steiner_nodes.tsv",
+    "11  260       0       0    2600        2     1.000000  fig3B_multiplicity_wingmen.tsv (formula agrees)  results/wingmen_v1/e5b_steiner_nodes.tsv",
+    "[trace] witnessflow/figures/scripts/fig3.py exit=0 reads=16 writes=19 8s"
+   ]
+  },
+  {
+   "script": "scripts/fig4.py",
+   "exit": 0,
+   "seconds": 9.6,
+   "tail": [
+    "saved fig4D.pdf/.png  fonts=['DTWKUJ+Arial-ItalicMT', 'ELUGPM+Arial-BoldMT', 'ELUGPM+ArialMT']  stroke widths=[0.5, 1.0]",
+    "saved fig4E.pdf/.png  fonts=['DTWKUJ+Arial-ItalicMT', 'ELUGPM+Arial-BoldMT', 'ELUGPM+ArialMT']  stroke widths=[0.5, 1.0]",
+    "[trace] witnessflow/figures/scripts/fig4.py exit=0 reads=27 writes=18 9s"
+   ]
+  },
+  {
+   "script": "scripts/fig5.py",
+   "exit": 0,
+   "seconds": 9.0,
+   "tail": [
+    "saved fig5D.pdf/.png  fonts=['DTWKUJ+Arial-ItalicMT', 'ELUGPM+Arial-BoldMT', 'ELUGPM+ArialMT']  stroke widths=[0.5, 1.0]",
+    "saved fig5E.pdf/.png  fonts=['DTWKUJ+Arial-ItalicMT', 'ELUGPM+Arial-BoldMT', 'ELUGPM+ArialMT']  stroke widths=[0.5, 1.0]",
+    "[trace] witnessflow/figures/scripts/fig5.py exit=0 reads=19 writes=20 9s"
+   ]
+  },
+  {
+   "script": "derive/sf1_ledger.py",
+   "exit": 0,
+   "seconds": 7.0,
+   "tail": [
+    "levine32_v2_rareB_0p3      B        0.003    11           22911             251            11286              126        11199",
+    "levine32_v2_rareB_0p1      B        0.001    11           22911              83            11286               42        11199",
+    "[trace] witnessflow/figures/derive/sf1_ledger.py exit=0 reads=89 writes=6 7s"
+   ]
+  },
+  {
+   "script": "derive/sf1_tables.py",
+   "exit": 0,
+   "seconds": 1.3,
+   "tail": [
+    " }",
+    "}",
+    "[trace] witnessflow/figures/derive/sf1_tables.py exit=0 reads=36 writes=10 1s"
+   ]
+  },
+  {
+   "script": "derive/sf2_a_nodes.py",
+   "exit": 0,
+   "seconds": 1.1,
+   "tail": [
+    "             CD8T      156.0",
+    "Name: min_cells, dtype: float64",
+    "[trace] witnessflow/figures/derive/sf2_a_nodes.py exit=0 reads=5 writes=4 1s"
+   ]
+  },
+  {
+   "script": "derive/sf2_b_donor.py",
+   "exit": 0,
+   "seconds": 1.1,
+   "tail": [
+    "CD4T    0.106343  0.275724",
+    "CD8T    0.156723  0.559822",
+    "[trace] witnessflow/figures/derive/sf2_b_donor.py exit=0 reads=3 writes=1 1s"
+   ]
+  },
+  {
+   "script": "derive/sf2_c_forest.py",
+   "exit": 0,
+   "seconds": 1.2,
+   "tail": [
+    "levine32_v2_rareB_0p1 rare-B 0.1%        120       20      4                  10           0.179279              7         not computed             49           7               8        120        120          120          0.184467          0.281460         0.307329",
+    "conf width range 0.0041 0.9052",
+    "[trace] witnessflow/figures/derive/sf2_c_forest.py exit=0 reads=17 writes=3 1s"
+   ]
+  },
+  {
+   "script": "derive/sf2_d_selfcheck.py",
+   "exit": 0,
+   "seconds": 1.0,
+   "tail": [
+    "  e5k  wingmen_v1      measured        3       20       0.150          NaN          NaN          3.0           0.150            1.000 count ratio of stored flags               NaN",
+    "  e5k  wingmen_v1    unmeasured        0       20       0.000          NaN          NaN          0.0           0.000              NaN              n/a (no alarm)               NaN",
+    "[trace] witnessflow/figures/derive/sf2_d_selfcheck.py exit=0 reads=7 writes=1 1s"
+   ]
+  },
+  {
+   "script": "derive/sf2_e_ablation.py",
+   "exit": 0,
+   "seconds": 1.4,
+   "tail": [
+    "  CD8T         1         5          185         48        -1         2         648         1375         577",
+    "  CD8T         1         6          166         42        -1         2         616         1432         552",
+    "[trace] witnessflow/figures/derive/sf2_e_ablation.py exit=0 reads=26 writes=5 1s"
+   ]
+  },
+  {
+   "script": "derive/sf3_records.py",
+   "exit": 0,
+   "seconds": 1.0,
+   "tail": [
+    "SF3a derived: 45 record rows; 29 lineage nodes; LJCR != online in 5 cells; max excess (online) 88.3%",
+    "[trace] witnessflow/figures/derive/sf3_records.py exit=0 reads=13 writes=3 1s"
+   ]
+  },
+  {
+   "script": "derive/sf3_certificates.py",
+   "exit": 0,
+   "seconds": 9.4,
+   "tail": [
+    "SF3b derived: distributions 38 rows; GF25 130 30 ; relabel invariant nodes: [['S(3,6,26)', 96], ['S(3,6,26)', 130], ['S(3,6,26)', 142], ['S(3,6,26)', 240], ['S(3,6,26)', 260], ['C(20,6,3)', 71]]",
+    "[trace] witnessflow/figures/derive/sf3_certificates.py exit=0 reads=16 writes=6 9s"
+   ]
+  },
+  {
+   "script": "derive/sf3_planning.py",
+   "exit": 0,
+   "seconds": 2.7,
+   "tail": [
+    "8   wingmen_v1     NK  0.1177               0.0816              0.0816                        n/a (no design replay)                              424244      2.663778",
+    "9   wingmen_v1   Mono  0.1221               0.0801              0.0801                        n/a (no design replay)                              409143      2.568961",
+    "[trace] witnessflow/figures/derive/sf3_planning.py exit=0 reads=25 writes=2 2s"
+   ]
+  },
+  {
+   "script": "derive/sf3_negative.py",
+   "exit": 0,
+   "seconds": 1.6,
+   "tail": [
+    "12        feasible 142 = 2 x LJCR 71   10          6",
+    "13        feasible 142 = 2 x LJCR 71   12          3",
+    "[trace] witnessflow/figures/derive/sf3_negative.py exit=0 reads=23 writes=4 1s"
+   ]
+  },
+  {
+   "script": "derive/sf3_ledger.py",
+   "exit": 0,
+   "seconds": 1.5,
+   "tail": [
+    "5      result      254    23552467      2",
+    "tests 26 PASS; followup register rows 360",
+    "[trace] witnessflow/figures/derive/sf3_ledger.py exit=0 reads=61 writes=5 1s"
+   ]
+  },
+  {
+   "script": "scripts/figS1.py",
+   "exit": 0,
+   "seconds": 10.2,
+   "tail": [
+    "[check S1E] 79 texts, 0 issues",
+    "saved figS1E.pdf/.png  fonts=['DTWKUJ+Arial-ItalicMT', 'ELUGPM+Arial-BoldMT', 'ELUGPM+ArialMT']  stroke widths=[0.5, 1.0]",
+    "[trace] witnessflow/figures/scripts/figS1.py exit=0 reads=16 writes=15 10s"
+   ]
+  },
+  {
+   "script": "scripts/figS2.py",
+   "exit": 0,
+   "seconds": 13.1,
+   "tail": [
+    "saved figS2D.pdf/.png  fonts=['DTWKUJ+Arial-ItalicMT', 'ELUGPM+Arial-BoldMT', 'ELUGPM+ArialMT']  stroke widths=[0.5, 1.0]",
+    "saved figS2E.pdf/.png  fonts=['DTWKUJ+Arial-ItalicMT', 'ELUGPM+Arial-BoldMT', 'ELUGPM+ArialMT']  stroke widths=[0.5, 1.0]",
+    "[trace] witnessflow/figures/scripts/figS2.py exit=0 reads=16 writes=23 13s"
+   ]
+  },
+  {
+   "script": "scripts/figS3.py",
+   "exit": 0,
+   "seconds": 9.7,
+   "tail": [
+    "[check S3E] 178 texts, 0 issues",
+    "saved figS3E.pdf/.png  fonts=['DTWKUJ+Arial-ItalicMT', 'ELUGPM+Arial-BoldMT', 'ELUGPM+ArialMT']  stroke widths=[0.5]",
+    "[trace] witnessflow/figures/scripts/figS3.py exit=0 reads=33 writes=29 9s"
+   ]
+  },
+  {
+   "script": "scripts/composeFig1.py",
+   "exit": 0,
+   "seconds": 0.9,
+   "tail": [
+    "   row 1A|1B: width at 2 mm gaps 184.0 mm, panel heights [86.0]",
+    "   row 1C|1D|1E: width at 2 mm gaps 184.0 mm, panel heights [80.0]",
+    "[trace] witnessflow/figures/scripts/composeFig1.py exit=0 reads=7 writes=2 1s"
+   ]
+  },
+  {
+   "script": "scripts/composeFig2.py",
+   "exit": 0,
+   "seconds": 1.6,
+   "tail": [
+    "   top row width at 2 mm gaps 184.0 mm; 2A block 117.0 mm vs 2B+2C stack 117.0 mm",
+    "   bottom row width at 2 mm gaps 184.0 mm; heights [86.0, 86.0]",
+    "[trace] witnessflow/figures/scripts/composeFig2.py exit=0 reads=7 writes=2 1s"
+   ]
+  },
+  {
+   "script": "scripts/composeFig3.py",
+   "exit": 0,
+   "seconds": 1.1,
+   "tail": [
+    "   e  3E   at ( 103.0, 125.0)   82.0 x  76.0 mm",
+    "slack (mm): {'top row': 0.0, 'bottom row': -0.0, '3A vs stack': 0.0, '3D vs 3E': 0.0}",
+    "[trace] witnessflow/figures/scripts/composeFig3.py exit=0 reads=7 writes=2 1s"
+   ]
+  },
+  {
+   "script": "scripts/composeFig4.py",
+   "exit": 0,
+   "seconds": 1.1,
+   "tail": [
+    "   e  4E   at ( 103.0, 139.0)   82.0 x  60.0 mm",
+    "slack (mm): {'4A': -0.0, 'middle row': -0.0, 'bottom row': -0.0, '4B vs 4C': 0.0, '4D vs 4E': 0.0}",
+    "[trace] witnessflow/figures/scripts/composeFig4.py exit=0 reads=7 writes=2 1s"
+   ]
+  },
+  {
+   "script": "scripts/composeFig5.py",
+   "exit": 0,
+   "seconds": 1.4,
+   "tail": [
+    "   d  5D   at (   1.0, 133.0)   91.0 x  72.0 mm",
+    "   e  5E   at (  94.0, 133.0)   91.0 x  72.0 mm",
+    "[trace] witnessflow/figures/scripts/composeFig5.py exit=0 reads=7 writes=2 1s"
+   ]
+  },
+  {
+   "script": "scripts/composeFigS1.py",
+   "exit": 0,
+   "seconds": 1.4,
+   "tail": [
+    "   d  S1D  at ( 115.0, 131.0)   70.0 x  69.5 mm",
+    "   e  S1E  at (   1.0, 204.5)  184.0 x  49.0 mm",
+    "[trace] witnessflow/figures/scripts/composeFigS1.py exit=0 reads=7 writes=2 1s"
+   ]
+  },
+  {
+   "script": "scripts/composeFigS2.py",
+   "exit": 0,
+   "seconds": 2.7,
+   "tail": [
+    "   d  S2D  at (   1.0, 193.0)   82.0 x  81.0 mm",
+    "   e  S2E  at (  85.0, 193.0)  100.0 x  81.0 mm",
+    "[trace] witnessflow/figures/scripts/composeFigS2.py exit=0 reads=7 writes=2 3s"
+   ]
+  },
+  {
+   "script": "scripts/composeFigS3.py",
+   "exit": 0,
+   "seconds": 1.3,
+   "tail": [
+    "   d  S3D  at (   1.0, 202.0)   82.0 x  86.5 mm",
+    "   e  S3E  at (  85.0, 202.0)  100.0 x  86.5 mm",
+    "[trace] witnessflow/figures/scripts/composeFigS3.py exit=0 reads=7 writes=2 1s"
+   ]
+  },
+  {
+   "script": "scripts/table_S1.py",
+   "exit": 0,
+   "seconds": 3.1,
+   "tail": [
+    "[S1] Supplementary_Table_S1.xlsx  sheets: Files=61, Splits=15, Parents=10, Donor_parent=26, RareB_sampling=3, Preprocessing=75",
+    "[trace] witnessflow/figures/scripts/table_S1.py exit=0 reads=90 writes=7 3s"
+   ]
+  },
+  {
+   "script": "scripts/table_S2.py",
+   "exit": 0,
+   "seconds": 2.2,
+   "tail": [
+    "[S2] Supplementary_Table_S2.xlsx  sheets: Markers=69, Claims=27, Candidate_marker_tube_incidence=201",
+    "[trace] witnessflow/figures/scripts/table_S2.py exit=0 reads=76 writes=4 2s"
+   ]
+  },
+  {
+   "script": "scripts/table_S3.py",
+   "exit": 0,
+   "seconds": 6.3,
+   "tail": [
+    "[S3] Supplementary_Table_S3.xlsx  sheets: Improved_bounds=44, Designs=4, Blocks=896, Search_runs=20, Verification_scope=8",
+    "asserted: 44 cells (t3 20 / t4 24), total 172, median 1, 27 x 1, 5 LJCR != online; crosscheck 45 = 44 + C(33,20,5); classical C(26,6,3) excluded; blocks 896 = 130 + 71 + 125 + 570; 20 runs, 0/20 certificates; LB 117, feasible 142",
+    "[trace] witnessflow/figures/scripts/table_S3.py exit=0 reads=38 writes=6 6s"
+   ]
+  },
+  {
+   "script": "scripts/table_S4.py",
+   "exit": 0,
+   "seconds": 61.8,
+   "tail": [
+    "[S4] Supplementary_Table_S4.xlsx  sheets: Initial_main=270, Initial_stress=840, Followup_main=17500, Followup_stress=53900, Followup_summary=360, Legacy_initial=174, Legacy_followup=10520, Threshold_audit=125",
+    "followup records total: 81920",
+    "[trace] witnessflow/figures/scripts/table_S4.py exit=0 reads=41 writes=9 61s"
+   ]
+  },
+  {
+   "script": "scripts/table_S5.py",
+   "exit": 0,
+   "seconds": 39.3,
+   "tail": [
+    "shared eval_id patterns: {'Ablation_runs+Requirement_runs': 36, 'Ablation_runs': 30, 'Node_runs+Threshold_design': 24, 'Requirement_runs': 18}",
+    "[S5] Supplementary_Table_S5.xlsx  sheets: Node_runs=3240, Donor_runs=900, Tube_split=20, OA_runs=200, Threshold_design=120, Ablation_runs=288, Requirement_runs=288, Ledger_runs=216, Target_ledgers=38040, Threshold_requirement=192, Planning_scale=10, Planning_eps_used=17",
+    "[trace] witnessflow/figures/scripts/table_S5.py exit=0 reads=50 writes=13 38s"
+   ]
+  },
+  {
+   "script": "scripts/table_S6.py",
+   "exit": 0,
+   "seconds": 4.5,
+   "tail": [
+    "[S6] Supplementary_Table_S6.xlsx  sheets: Calibration=40, QC_runs=5600, QC_fixed_family=20, Boundary_runs=280, Batch_reference=111",
+    "asserted: calibration 40 (5 x 4 x 2, 1000 sims, 0 infeasible); QC runs 5600 = 2 x (1000 + 9 x 200); fixed family 20 (M 1491 / 2730; null 0/1000, 1/1000; re-derived from the runs); boundary 280 = 2 x (80 + 60); part B alarms 0/20 x3, 1/20, 3/20 (3 at shifted), 0/20; batch 111 = 3 x 37 (87 reliable, 24 not)",
+    "[trace] witnessflow/figures/scripts/table_S6.py exit=0 reads=22 writes=6 4s"
+   ]
+  },
+  {
+   "script": "scripts/table_S7.py",
+   "exit": 0,
+   "seconds": 8.0,
+   "tail": [
+    "Sources: 219 rows; {('original freeze', 'freeze document'): 6, ('original freeze', 'frozen code'): 6, ('original freeze', 'frozen protocol'): 12, ('original freeze', 'frozen result'): 107, ('original freeze', 'raw input'): 63, ('original freeze', 'raw input (La Jolla Covering Repository snapshot v1.2, read-only)'): 1, ('original freeze (manifest; not listed in itself)', 'freeze manifest'): 1, ('post-freeze code', 'post-freeze code'): 3, ('post-freeze derived (deterministic, from frozen files)', 'Source Data table (figures)'): 1, ('post-freeze derived (deterministic, from frozen files)', 'derived display table'): 17, ('post-freeze document (wording revision)', 'post-freeze document (C13 wording revision note, design notes folder)'): 1, ('post-freeze log', 'post-freeze log'): 1}",
+    "[S7] Supplementary_Table_S7.xlsx  sheets: Protocols=12, Experiments=18, Deviations=8, Claim_map=14, Engineering_checks=26, Sources=219, Exclusions=15, Glossary=28, Environment=16",
+    "[trace] witnessflow/figures/scripts/table_S7.py exit=0 reads=259 writes=10 8s"
+   ]
+  },
+  {
+   "script": "supp_tables/verify_designs.py",
+   "exit": 0,
+   "seconds": 0.1,
+   "tail": [
+    "OVERALL PASS: 4 designs specified, 896 block rows read",
+    "Scope: combinatorial properties of these 4 designs only; not the 44 improved-bound certificates; automorphism groups, isomorphism identity and optimality are not verified.",
+    "[trace] witnessflow/figures/supp_tables/verify_designs.py exit=0 reads=2 writes=0 0s"
+   ]
+  },
+  {
+   "script": "scripts/_text_scan.py",
+   "exit": 0,
+   "seconds": 47.5,
+   "tail": [
+    "scanned 248 public artefacts; 0 text-check findings",
+    "[trace] witnessflow/figures/scripts/_text_scan.py exit=0 reads=153 writes=0 47s"
+   ]
+  }
+ ],
+ "n_compared": 237,
+ "changed": [],
+ "new": [],
+ "removed": [],
+ "note": "PNG/TSV/XLSX byte identity before vs after the traced re-run; PDFs excluded (creation date)"
+}

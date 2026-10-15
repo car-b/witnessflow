@@ -1,0 +1,35 @@
+{
+ "script": "witnessflow/figures/derive/sf2_c_forest.py",
+ "argv": [
+  "witnessflow\\figures\\derive/sf2_c_forest.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704487.313258,
+ "end": 1791704488.316536,
+ "exit": 0,
+ "reads": [
+  "witnessflow/figures/derive/sf2_c_forest.py",
+  "witnessflow/figures/derived/fig4_A_summary.tsv",
+  "witnessflow/protocols/levine32_v2.json",
+  "witnessflow/protocols/levine32_v2_rareB_0p1.json",
+  "witnessflow/protocols/levine32_v2_rareB_0p3.json",
+  "witnessflow/protocols/levine32_v2_rareB_1.json",
+  "witnessflow/protocols/wingmen_v1.json",
+  "witnessflow/results/levine32_v2/initial_audit.tsv",
+  "witnessflow/results/levine32_v2/thresholds.json",
+  "witnessflow/results/levine32_v2_rareB_0p1/initial_audit.tsv",
+  "witnessflow/results/levine32_v2_rareB_0p1/thresholds.json",
+  "witnessflow/results/levine32_v2_rareB_0p3/initial_audit.tsv",
+  "witnessflow/results/levine32_v2_rareB_0p3/thresholds.json",
+  "witnessflow/results/levine32_v2_rareB_1/initial_audit.tsv",
+  "witnessflow/results/levine32_v2_rareB_1/thresholds.json",
+  "witnessflow/results/wingmen_v1/initial_audit.tsv",
+  "witnessflow/results/wingmen_v1/thresholds.json"
+ ],
+ "writes": [
+  "witnessflow/figures/derived/figS2_C_records.tsv",
+  "witnessflow/figures/derived/figS2_C_totals.tsv",
+  "witnessflow/figures/derived/figS2_C_windows.tsv"
+ ],
+ "sqlite": []
+}

@@ -1,0 +1,33 @@
+{
+ "script": "witnessflow/figures/derive/sf3_records.py",
+ "argv": [
+  "witnessflow\\figures\\derive/sf3_records.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704490.9615078,
+ "end": 1791704491.8119133,
+ "exit": 0,
+ "reads": [
+  "search_record_review_A",
+  "search_record_review_B",
+  "design_structure_review_G",
+  "ljcr_snapshot_db",
+  "witnessflow/figures/derive/sf3_records.py",
+  "witnessflow/figures/derived/fig1_paths_1A.tsv",
+  "witnessflow/figures/scripts/wfgeom.py",
+  "witnessflow/protocols/wingmen_v1.json",
+  "witnessflow/results/wingmen_v1/thresholds.json",
+  "witnessflow/src/e5e.py",
+  "witnessflow/tools/scan/crosscheck.tsv",
+  "witnessflow/tools/scan/history.tsv",
+  "witnessflow/tools/scan/main_table.tsv"
+ ],
+ "writes": [
+  "witnessflow/figures/derived/figS3_A_lineage.tsv",
+  "witnessflow/figures/derived/figS3_A_records.tsv",
+  "witnessflow/figures/derived/figS3_A_summary.tsv"
+ ],
+ "sqlite": [
+  "ljcr_snapshot_db"
+ ]
+}

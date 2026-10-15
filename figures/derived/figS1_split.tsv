@@ -1,0 +1,16 @@
+dataset	sample	file	events_raw	cells_qc	n_calibration	n_initial	n_followup	n_reference
+levine32_v2	individual 1	Levine_32dim_notransform.fcs	191351	191351	38270	76540	38270	38271
+levine32_v2	individual 2	Levine_32dim_notransform.fcs	74276	74276	14855	29710	14855	14856
+wingmen_v1	donor 0	PreWN01.fcs	67492	67359	13472	26944	13472	13471
+wingmen_v1	donor 1	PreWN02.fcs	48370	48244	9649	19298	9649	9648
+wingmen_v1	donor 2	PreWN06.fcs	33751	33716	6743	13486	6743	6744
+wingmen_v1	donor 3	PreWN09.fcs	39528	39459	7892	15784	7892	7891
+wingmen_v1	donor 4	PreWN10.fcs	35627	35578	7116	14231	7116	7115
+wingmen_v1	donor 5	PreWN11.fcs	73097	72982	14596	29193	14596	14597
+wingmen_v1	donor 6	PreWN14.fcs	44828	44744	8949	17898	8949	8948
+wingmen_v1	donor 7	PreWN17.fcs	30672	30612	6122	12245	6122	6123
+wingmen_v1	donor 8	PreWN18.fcs	49498	49423	9885	19769	9885	9884
+wingmen_v1	donor 9	PreWN19.fcs	160953	160758	32152	64303	32152	32151
+wingmen_v1	donor 10	PreWN21.fcs	136418	136081	27216	54432	27216	27217
+wingmen_v1	donor 11	PreWN23.fcs	45279	45045	9009	18018	9009	9009
+wingmen_v1	donor 12	PreWN27.fcs	32453	32313	6463	12925	6463	6462

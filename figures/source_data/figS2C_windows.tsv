@@ -1,0 +1,34 @@
+protocol	label	kind	claim	parent	markers	claim_order	n_records	n_parent	n_ref	ref	reliable	unreliable_markers	tier1	gt5_knn_block	gt5_knn_block_within	gt5_knn_major	gt5_maxent	gt5_cond_indep	ref_in_K1	ref_in_K4	ref_in_K8
+wingmen_v1	WINGMEN	main	C1	CD4T	CD25/FoxP3/CD127	0	10	117992	58943	0.0459596559387883	True		0	0	0	0	0	0	10	10	not computed
+wingmen_v1	WINGMEN	main	C2	CD4T	CCR7/CD45RA/CD27	1	10	117992	58943	0.1969020918514497	True		1	0	0	10	0	8	10	10	not computed
+wingmen_v1	WINGMEN	main	C3	CD4T	HLADR/CD38/ki67	2	10	117992	58943	0.0165244388646658	True		0	0	0	0	0	0	10	10	not computed
+wingmen_v1	WINGMEN	main	C4	CD4T	CD57/GranzymeB/CD27	3	10	117992	58943	0.0038342127139779	True		0	0	0	0	0	0	10	10	not computed
+wingmen_v1	WINGMEN	main	C5	CD4T	CCR4/CD45RO/CD161	4	10	117992	58943	0.1454795310723919	True		0	0	6	3	7	10	10	10	not computed
+wingmen_v1	WINGMEN	main	D1	CD8T	CD45RA/CCR7/CD57	5	10	46706	23684	0.1294122614423239	True		1	0	0	0	5	10	10	10	not computed
+wingmen_v1	WINGMEN	main	D3	CD8T	HLADR/CD38/ki67	7	10	46706	23684	0.0226313122783313	True		0	0	0	0	0	0	10	10	not computed
+wingmen_v1	WINGMEN	main	D4	CD8T	CCR7/CD45RA/CD27	8	10	46706	23684	0.194561729437595	True		1	0	0	0	5	8	10	10	not computed
+wingmen_v1	WINGMEN	main	E1	B	IgD/CD27/CD38	9	10	24698	12382	0.1187207236310773	True		1	3	2	10	3	10	10	10	not computed
+wingmen_v1	WINGMEN	main	E2	B	IgD/CD27/CD20	10	10	24698	12382	0.5049265062187046	True		0	6	6	10	10	10	10	10	not computed
+wingmen_v1	WINGMEN	main	E3	B	CD27/CD38/CD20	11	10	24698	12382	0.0068648037473752	True		0	0	0	0	0	0	10	10	not computed
+wingmen_v1	WINGMEN	main	F1	NK	CD57/GranzymeB/CD27	12	10	37496	18654	0.3322611772274043	True		0	0	0	0	7	10	10	10	not computed
+wingmen_v1	WINGMEN	main	G1	Mono	HLADR/CD36/CD11b	13	10	38880	19134	0.9311173826695934	True		0	0	0	0	0	0	10	10	not computed
+wingmen_v1	WINGMEN	main	G2	Mono	HLADR/PDL1/CD38	14	10	38880	19134	0.0060625065328734	True		0	0	0	0	0	0	10	10	not computed
+wingmen_v1	WINGMEN	main	D2	CD8T	PD1/TIGIT/CD39	6	10	46706	23684	0.0198868434386083	False	TIGIT	1	0	0	0	0	0	10	10	not computed
+levine32_v2	Levine-32	main	H1	HSPC	CD38/CD123/CD45RA	0	10	5472	2705	0.0473197781885397	True		2	0	not computed	0	0	0	10	10	10
+levine32_v2	Levine-32	main	H2	HSPC	CD38/CD45RA/CD117	1	10	5472	2705	0.0783733826247689	True		1	0	not computed	0	0	0	10	10	10
+levine32_v2	Levine-32	main	T1	T	CD4/CD8/CD45RA	3	10	43620	21977	0.0813122810210674	True		0	0	not computed	0	0	0	10	10	10
+levine32_v2	Levine-32	main	T2	T	CD8/HLA-DR/CD38	4	10	43620	21977	0.0045047094689903	True		0	0	not computed	0	0	0	10	10	10
+levine32_v2	Levine-32	main	T3	T	CD4/HLA-DR/CD38	5	10	43620	21977	0.0066888110297128	True		1	0	not computed	0	0	0	10	10	10
+levine32_v2	Levine-32	main	B1	B	CD20/CD22/CD38	6	10	22911	11199	0.3628895437092597	True		0	0	not computed	10	10	10	10	10	10
+levine32_v2	Levine-32	main	B2	B	CD20/CD38/HLA-DR	7	10	22911	11199	0.023573533351192	True		0	0	not computed	0	0	0	10	10	10
+levine32_v2	Levine-32	main	M1	Mono	CD16/CD64/HLA-DR	8	10	4506	2215	0.8465011286681715	True		0	0	not computed	10	0	0	10	10	10
+levine32_v2	Levine-32	main	M2	Mono	CD11c/CD13/CD15	9	10	4506	2215	0.5336343115124154	True		0	1	not computed	10	2	1	10	10	10
+levine32_v2	Levine-32	main	N1	NK	CD8/CD16/CD38	10	10	6495	3265	0.1758039816232771	True		0	0	not computed	10	0	0	10	10	10
+levine32_v2	Levine-32	main	N2	NK	CD16/CD45RA/CD11c	11	10	6495	3265	0.1846860643185298	True		0	0	not computed	10	0	0	10	10	10
+levine32_v2	Levine-32	main	H3	HSPC	CD117/Flt3/CD133	2	10	5472	2705	0.0014787430683918	False	Flt3	0	0	not computed	0	0	0	10	10	10
+levine32_v2_rareB_1	rare-B 1%	rareB	B1	B	CD20/CD22/CD38	6	10	842	11199	0.3628895437092597	True		0	4	not computed	10	10	10	10	10	10
+levine32_v2_rareB_1	rare-B 1%	rareB	B2	B	CD20/CD38/HLA-DR	7	10	842	11199	0.023573533351192	True		0	0	not computed	0	0	0	10	10	10
+levine32_v2_rareB_0p3	rare-B 0.3%	rareB	B1	B	CD20/CD22/CD38	6	10	251	11199	0.3628895437092597	True		0	2	not computed	10	9	10	10	10	10
+levine32_v2_rareB_0p3	rare-B 0.3%	rareB	B2	B	CD20/CD38/HLA-DR	7	10	251	11199	0.023573533351192	True		0	0	not computed	0	0	0	10	10	10
+levine32_v2_rareB_0p1	rare-B 0.1%	rareB	B1	B	CD20/CD22/CD38	6	10	83	11199	0.3628895437092597	True		0	5	not computed	10	6	8	10	10	10
+levine32_v2_rareB_0p1	rare-B 0.1%	rareB	B2	B	CD20/CD38/HLA-DR	7	10	83	11199	0.023573533351192	True		0	0	not computed	0	0	0	10	10	10

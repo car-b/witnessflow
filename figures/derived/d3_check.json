@@ -1,0 +1,61 @@
+{
+ "restore_ok": true,
+ "check": {
+  "covered": {
+   "rebuilt": 1.0,
+   "frozen": 1.0,
+   "match": true
+  },
+  "half_ok": {
+   "rebuilt": 0.9992307692307693,
+   "frozen": 0.9992307692307691,
+   "match": true
+  },
+  "err_ok": {
+   "rebuilt": 0.9596153846153846,
+   "frozen": 0.9596153846153846,
+   "match": true
+  },
+  "min_cells": {
+   "rebuilt": 400.0,
+   "frozen": 400.0,
+   "match": true
+  },
+  "lam_min": {
+   "rebuilt": 1.0,
+   "frozen": 1.0,
+   "match": true
+  },
+  "lam_cv": {
+   "rebuilt": 0.0,
+   "frozen": 0.0,
+   "match": true
+  }
+ },
+ "N_followup": 159264,
+ "n_parent_followup": 58818,
+ "pi_G": 0.37043129917181017,
+ "eps": 0.05,
+ "tstar_triple_index": 2091,
+ "tstar_marker_order_bits": [
+  "CCR7",
+  "CD27",
+  "CD45RA"
+ ],
+ "tstar_tubes_0based": [
+  72
+ ],
+ "tube_markers": [
+  [
+   "CCR4",
+   "CCR7",
+   "CD127",
+   "CD27",
+   "CD45RA",
+   "PD1"
+  ]
+ ],
+ "tstar_n_in_tube": 467,
+ "tstar_maxhalf": 0.04588255622776388,
+ "tstar_maxerr": 0.014927897713833141
+}

@@ -1,0 +1,61 @@
+dataset	scenario	column	n	M_total	k	rate	display	alarm_ci	hit_given_alarm
+levine32_v2	null	single_only	1000	1491	0.0	0.0	0/1000		
+levine32_v2	null	single_pair	1000	1491	0.0	0.0	0/1000	[0.0000,0.0037]	n/a
+levine32_v2	null	uncheckable	1000	1491		0.0243	2.4		
+levine32_v2	single+0.5	single_only	200	1491	200.0	1.0	100.0		
+levine32_v2	single+0.5	single_pair	200	1491	200.0	1.0	100.0	[0.9817,1.0000]	1.0
+levine32_v2	single+0.5	uncheckable	200	1491		0.0242	2.4		
+levine32_v2	single-0.5	single_only	200	1491	130.0	0.65	65.0		
+levine32_v2	single-0.5	single_pair	200	1491	126.0	0.63	63.0	[0.5591,0.6970]	1.0
+levine32_v2	single-0.5	uncheckable	200	1491		0.0243	2.4		
+levine32_v2	single+0.25	single_only	200	1491	121.0	0.605	60.5		
+levine32_v2	single+0.25	single_pair	200	1491	122.0	0.61	61.0	[0.5387,0.6780]	1.0
+levine32_v2	single+0.25	uncheckable	200	1491		0.024	2.4		
+levine32_v2	single-0.25	single_only	200	1491	86.0	0.43	43.0		
+levine32_v2	single-0.25	single_pair	200	1491	81.0	0.405	40.5	[0.3363,0.4765]	0.988
+levine32_v2	single-0.25	uncheckable	200	1491		0.0242	2.4		
+levine32_v2	wholetube+0.5	single_only	200	1491	200.0	1.0	100.0		
+levine32_v2	wholetube+0.5	single_pair	200	1491	200.0	1.0	100.0	[0.9817,1.0000]	1.0
+levine32_v2	wholetube+0.5	uncheckable	200	1491		0.022	2.2		
+levine32_v2	joint_only	single_only	200	1491	0.0	0.0	0.0		
+levine32_v2	joint_only	single_pair	200	1491	98.0	0.49	49.0	[0.4188,0.5615]	1.0
+levine32_v2	joint_only	uncheckable	200	1491		0.0238	2.4		
+levine32_v2	composition	single_only	200	1491	4.0	0.02	2.0		
+levine32_v2	composition	single_pair	200	1491	2.0	0.01	1.0	[0.0012,0.0357]	1.0
+levine32_v2	composition	uncheckable	200	1491		0.0245	2.5		
+levine32_v2	random_drop	single_only	200	1491	0.0	0.0	0.0		
+levine32_v2	random_drop	single_pair	200	1491	0.0	0.0	0.0	[0.0000,0.0183]	n/a
+levine32_v2	random_drop	uncheckable	200	1491		0.0243	2.4		
+levine32_v2	global_drift	single_only	200	1491	0.0	0.0	0.0		
+levine32_v2	global_drift	single_pair	200	1491	0.0	0.0	0.0	[0.0000,0.0183]	n/a
+levine32_v2	global_drift	uncheckable	200	1491		0.0232	2.3		
+wingmen_v1	null	single_only	1000	2730	0.0	0.0	0/1000		
+wingmen_v1	null	single_pair	1000	2730	1.0	0.001	1/1000	[0.0000,0.0056]	n/a
+wingmen_v1	null	uncheckable	1000	2730		0.0498	5.0		
+wingmen_v1	single+0.5	single_only	200	2730	196.0	0.98	98.0		
+wingmen_v1	single+0.5	single_pair	200	2730	199.0	0.995	99.5	[0.9725,0.9999]	1.0
+wingmen_v1	single+0.5	uncheckable	200	2730		0.0493	4.9		
+wingmen_v1	single-0.5	single_only	200	2730	93.0	0.465	46.5		
+wingmen_v1	single-0.5	single_pair	200	2730	93.0	0.465	46.5	[0.3944,0.5367]	1.0
+wingmen_v1	single-0.5	uncheckable	200	2730		0.0499	5.0		
+wingmen_v1	single+0.25	single_only	200	2730	99.0	0.495	49.5		
+wingmen_v1	single+0.25	single_pair	200	2730	95.0	0.475	47.5	[0.4041,0.5466]	1.0
+wingmen_v1	single+0.25	uncheckable	200	2730		0.0501	5.0		
+wingmen_v1	single-0.25	single_only	200	2730	43.0	0.215	21.5		
+wingmen_v1	single-0.25	single_pair	200	2730	39.0	0.195	19.5	[0.1425,0.2568]	0.974
+wingmen_v1	single-0.25	uncheckable	200	2730		0.0498	5.0		
+wingmen_v1	wholetube+0.5	single_only	200	2730	200.0	1.0	100.0		
+wingmen_v1	wholetube+0.5	single_pair	200	2730	200.0	1.0	100.0	[0.9817,1.0000]	1.0
+wingmen_v1	wholetube+0.5	uncheckable	200	2730		0.0475	4.8		
+wingmen_v1	joint_only	single_only	200	2730	0.0	0.0	0.0		
+wingmen_v1	joint_only	single_pair	200	2730	147.0	0.735	73.5	[0.6681,0.7948]	1.0
+wingmen_v1	joint_only	uncheckable	200	2730		0.0497	5.0		
+wingmen_v1	composition	single_only	200	2730	6.0	0.03	3.0		
+wingmen_v1	composition	single_pair	200	2730	9.0	0.045	4.5	[0.0208,0.0837]	0.778
+wingmen_v1	composition	uncheckable	200	2730		0.0498	5.0		
+wingmen_v1	random_drop	single_only	200	2730	0.0	0.0	0.0		
+wingmen_v1	random_drop	single_pair	200	2730	0.0	0.0	0.0	[0.0000,0.0183]	n/a
+wingmen_v1	random_drop	uncheckable	200	2730		0.0499	5.0		
+wingmen_v1	global_drift	single_only	200	2730	0.0	0.0	0.0		
+wingmen_v1	global_drift	single_pair	200	2730	0.0	0.0	0.0	[0.0000,0.0183]	n/a
+wingmen_v1	global_drift	uncheckable	200	2730		0.0468	4.7		

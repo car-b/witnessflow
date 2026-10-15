@@ -1,0 +1,4 @@
+protocol	parent	target_frac	seed	n_initial_full	n_initial_kept	n_followup_full	n_followup_kept	n_reference
+levine32_v2_rareB_1	B	0.01	11	22911	842	11286	423	11199
+levine32_v2_rareB_0p3	B	0.003	11	22911	251	11286	126	11199
+levine32_v2_rareB_0p1	B	0.001	11	22911	83	11286	42	11199

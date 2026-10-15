@@ -1,0 +1,15 @@
+design	lam	n_triples
+closest 141: anneal 600 s seed 2	1	2
+closest 141: anneal 600 s seed 2	2	782
+closest 141: anneal 600 s seed 2	3	251
+closest 141: anneal 600 s seed 2	4	55
+closest 141: anneal 600 s seed 2	5	27
+closest 141: anneal 600 s seed 2	6	16
+closest 141: anneal 600 s seed 2	7	6
+closest 141: anneal 600 s seed 2	8	1
+feasible 142 = 2 x LJCR 71	2	940
+feasible 142 = 2 x LJCR 71	4	154
+feasible 142 = 2 x LJCR 71	6	24
+feasible 142 = 2 x LJCR 71	8	13
+feasible 142 = 2 x LJCR 71	10	6
+feasible 142 = 2 x LJCR 71	12	3

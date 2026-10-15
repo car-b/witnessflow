@@ -1,0 +1,24 @@
+{
+ "script": "witnessflow/figures/scripts/composeFig2.py",
+ "argv": [
+  "witnessflow\\figures\\scripts/composeFig2.py"
+ ],
+ "python": "3.13.11",
+ "start": 1791704541.218484,
+ "end": 1791704542.71577,
+ "exit": 0,
+ "reads": [
+  "witnessflow/figures/panels/fig2A.pdf",
+  "witnessflow/figures/panels/fig2B.pdf",
+  "witnessflow/figures/panels/fig2C.pdf",
+  "witnessflow/figures/panels/fig2D.pdf",
+  "witnessflow/figures/panels/fig2E.pdf",
+  "witnessflow/figures/scripts/compose.py",
+  "witnessflow/figures/scripts/composeFig2.py"
+ ],
+ "writes": [
+  "witnessflow/figures/composite/Fig2.pdf",
+  "witnessflow/figures/composite/Fig2.png"
+ ],
+ "sqlite": []
+}
